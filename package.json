@@ -3,6 +3,10 @@
     "displayName": "monokai-grayjack",
     "description": "My port for my theme from Atom",
     "publisher": "GrayJack",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/GrayJack/monokai-grayjack-vscode"
+    },
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.45.0"
