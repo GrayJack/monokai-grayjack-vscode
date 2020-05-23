@@ -1,0 +1,22 @@
+{
+    "name": "monokai-grayjack",
+    "displayName": "monokai-grayjack",
+    "description": "My port for my theme from Atom",
+    "publisher": "GrayJack",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.45.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Monokai GrayJack",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Monokai GrayJack-color-theme.json"
+            }
+        ]
+    }
+}
