@@ -2,8 +2,12 @@
 	"name": "Monokai GrayJack",
 	"type": "dark",
 	"colors": {
+		"foreground": "#F9F5DD",
 		"activityBar.background": "#363338",
 		"activityBar.activeBackground": "#716A60",
+		"button.background": "#363338",
+		"button.foreground": "#716A60",
+		"button.hoverBackground": "#bbbbbb",
 		"editor.background": "#242424",
 		"editor.foreground": "#F9F5DD",
 		"statusBar.background": "#363338",
@@ -61,10 +65,12 @@
 			"foreground": "#FAF7B1"
 		},
 		"formatSpecifier": {
-			"foreground": "#CC8D66"
+			"foreground": "#CC8D66",
+			"fontStyle": "bold"
 		},
 		"lifetime": {
-			"foreground": "#CC8D66"
+			"foreground": "#CC8D66",
+			"fontStyle": "italic"
 		},
 		"variable.mutable": {
 			"fontStyle": "underline",
@@ -100,6 +106,7 @@
 			"name": "Variables",
 			"scope": [
 				"variable",
+				"meta.function-call.arguments",
 				"string constant.other.placeholder",
 				"punctuation"
 			],
@@ -131,7 +138,8 @@
 			"scope": [
 				"keyword",
 				"storage.type",
-				"storage.modifier"
+				"storage.modifier",
+				"punctuation.definition.directive.c"
 			],
 			"settings": {
 				"foreground": "#FF3574"
@@ -152,7 +160,8 @@
 				"punctuation.symbol.match-branch",
 				"punctuation.symbol.return-type",
 				"keyword.other.template",
-				"keyword.other.substitution"
+				"keyword.other.substitution",
+				"punctuation.separator.pointer-access.c"
 			],
 			"settings": {
 				"foreground": "#FF3574"
@@ -183,6 +192,28 @@
 			}
 		},
 		{
+			"name": "Special functions, Hygienic Macros, etc",
+			"scope": [
+				"support.function.macro.julia",
+				"support.function.builtin.zig",
+			],
+			"settings": {
+				"foreground": "#5596F1"
+			}
+		},
+		{
+			"name": "Special syntax",
+			"scope": [
+				"storage.modifier.lifetime.rust",
+				"constant.character.format.placeholder.other.python",
+				// "variable.interpolation.julia",
+			],
+			"settings": {
+				"foreground": "#CC8D66",
+				"fontStyle": "italic"
+			}
+		},
+		{
 			"name": "Block Level Variables",
 			"scope": [
 				"meta.block variable.other"
@@ -209,7 +240,6 @@
 				"support.constant",
 				"constant.character",
 				"constant.escape",
-				"variable.parameter",
 				"variable.other.constant",
 				// "keyword.other.unit",
 				// "keyword.other"
@@ -222,6 +252,7 @@
 			"name": "String, Symbols, Inherited Class, Markup Heading",
 			"scope": [
 				"string",
+				"punctuation.definition.string",
 				"constant.other.symbol",
 				"constant.other.key",
 				"entity.other.inherited-class",
@@ -255,9 +286,22 @@
 			"name": "Fields",
 			"scope": [
 				"variable.other.property",
+				"variable.other.member",
+				"meta.member",
 			],
 			"settings": {
 				"foreground": "#CC8D66",
+			}
+		},
+		{
+			"name": "Parameters",
+			"scope": [
+				"variable.parameter",
+				// "meta.function.definition.parameters",
+			],
+			"settings": {
+				"foreground": "#FAA23D",
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -279,7 +323,10 @@
 		{
 			"name": "Entity Types",
 			"scope": [
-				"support.type"
+				"support.type",
+				"entity.name.type",
+				"keyword.type",
+				"storage.type.built-in.primitive.c",
 			],
 			"settings": {
 				"foreground": "#66CCE1",
