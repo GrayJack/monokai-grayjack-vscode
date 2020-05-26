@@ -10,9 +10,13 @@
 		"button.hoverBackground": "#bbbbbb",
 		"editor.background": "#242424",
 		"editor.foreground": "#F9F5DD",
-		"statusBar.background": "#363338",
+		"statusBar.background": "#1e8d43",
+		"statusBar.foreground": "#F9F5DD",
 		"activityBarBadge.background": "#5596F1",
 		"sideBarTitle.foreground": "#bbbbbb",
+		"selection.background": "#3C393E",
+		"editor.selectionBackground": "#3C393E",
+		"editor.lineHighlightBackground": "#3C393E"
 	},
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
@@ -33,7 +37,7 @@
 			"fontStyle": "italic",
 		},
 		"unresolvedReference": {
-			"foreground": "#66CCE1",
+			"foreground": "#F9F5DD",
 			"fontStyle": "italic",
 		},
 		"struct": {
@@ -72,9 +76,13 @@
 			"foreground": "#CC8D66",
 			"fontStyle": "italic"
 		},
+		"selfKeyword": {
+			"fontStyle": "italic",
+			"foreground": "#FAA23D"
+		},
 		"variable.mutable": {
 			"fontStyle": "underline",
-			"foreground": "#FAA23D"
+			"foreground": "#fab464"
 		},
 		"parameter": {
 			"fontStyle": "italic",
@@ -84,6 +92,9 @@
 			"foreground": "#AA7DFC"
 		},
 		"number": {
+			"foreground": "#AA7DFC"
+		},
+		"boolean": {
 			"foreground": "#AA7DFC"
 		},
 		"*.unsafe": {
@@ -214,6 +225,15 @@
 			}
 		},
 		{
+			"name": "Special syntax 2",
+			"scope": [
+				"keyword.operator.misc.question-mark.rust",
+			],
+			"settings": {
+				"foreground": "#CC8D66",
+			}
+		},
+		{
 			"name": "Block Level Variables",
 			"scope": [
 				"meta.block variable.other"
@@ -276,7 +296,9 @@
 		{
 			"name": "Attributes",
 			"scope": [
+				"meta.attribute",
 				"meta.attributes",
+				"entity.name.function.attribute",
 			],
 			"settings": {
 				"foreground": "#FAF7B1",
@@ -297,6 +319,7 @@
 			"name": "Parameters",
 			"scope": [
 				"variable.parameter",
+				"keyword.other.self.rust"
 				// "meta.function.definition.parameters",
 			],
 			"settings": {
