@@ -336,7 +336,8 @@
 				"meta.use.php",
 				"support.other.namespace.php",
 				"markup.changed.git_gutter",
-				"support.type.sys-types"
+				"support.type.sys-types",
+				"entity.other.attribute-name.table.toml",
 			],
 			"settings": {
 				"foreground": "#66CCE1",
