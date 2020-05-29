@@ -261,6 +261,7 @@
 				"constant.character",
 				"constant.escape",
 				"variable.other.constant",
+				"constant.other.boolean",
 				// "keyword.other.unit",
 				// "keyword.other"
 			],
