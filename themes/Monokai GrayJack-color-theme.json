@@ -97,6 +97,9 @@
 		"boolean": {
 			"foreground": "#AA7DFC"
 		},
+		"operator.controlFlow": {
+			"foreground": "#CC8D66"
+		},
 		"*.unsafe": {
 			"foreground": "#FA8282"
 		}
