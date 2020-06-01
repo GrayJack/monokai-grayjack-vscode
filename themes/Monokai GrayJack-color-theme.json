@@ -153,7 +153,8 @@
 				"keyword",
 				"storage.type",
 				"storage.modifier",
-				"punctuation.definition.directive.c"
+				"punctuation.definition.directive.c",
+				"storage.type.impl.rust",
 			],
 			"settings": {
 				"foreground": "#FF3574"
