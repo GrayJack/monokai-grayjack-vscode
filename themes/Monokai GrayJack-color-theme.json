@@ -337,6 +337,7 @@
 				"support.type",
 				"support.class",
 				"support.orther.namespace.use.php",
+				"storage.type",
 				"meta.use.php",
 				"support.other.namespace.php",
 				"markup.changed.git_gutter",
