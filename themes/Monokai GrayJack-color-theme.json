@@ -100,9 +100,12 @@
 		"operator.controlFlow": {
 			"foreground": "#CC8D66"
 		},
-		"*.unsafe": {
+		"keyword.unsafe": {
 			"foreground": "#FA8282"
-		}
+		},
+		"function.unsafe": {
+			"fontStyle": "underline",
+		},
 	},
 	"tokenColors": [
 		{
@@ -163,6 +166,7 @@
 		{
 			"name": "Operator, Misc",
 			"scope": [
+				"storage.control",
 				"keyword.control",
 				"constant.other.color",
 				"meta.tag",
@@ -260,6 +264,7 @@
 		{
 			"name": "Number, Constant, Function Argument, Tag Attribute, Embedded",
 			"scope": [
+				"constant.literal",
 				"constant.numeric",
 				"constant.language",
 				"support.constant",
