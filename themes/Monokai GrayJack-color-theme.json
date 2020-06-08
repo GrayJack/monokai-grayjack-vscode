@@ -236,7 +236,9 @@
 			"name": "Special syntax 2",
 			"scope": [
 				"keyword.operator.misc.question-mark.rust",
+				"keyword.operator.misc.special.rust",
 				"punctuation.section.embedded.meta.tag.format.rust",
+				"keyword.control.shortfn.janet",
 			],
 			"settings": {
 				"foreground": "#CC8D66",
