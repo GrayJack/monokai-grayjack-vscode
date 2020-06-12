@@ -91,6 +91,9 @@
 		"variable.constant": {
 			"foreground": "#AA7DFC"
 		},
+		"variable.static": {
+			"foreground": "#AA7DFC"
+		},
 		"number": {
 			"foreground": "#AA7DFC"
 		},
@@ -213,11 +216,23 @@
 		{
 			"name": "Special functions, Hygienic Macros, etc",
 			"scope": [
+				"support.function.macro.rust",
+				"entity.name.function.macro.rust",
 				"support.function.macro.julia",
 				"support.function.builtin.zig",
 			],
 			"settings": {
 				"foreground": "#5596F1"
+			}
+		},
+		{
+			"name": "Enum variant, Sum Types, etc",
+			"scope": [
+				"support.enum.core.rust",
+			],
+			"settings": {
+				"foreground": "#5596F1",
+				"fontStyle": "underline",
 			}
 		},
 		{
@@ -239,6 +254,7 @@
 				"keyword.operator.misc.special.rust",
 				"punctuation.section.embedded.meta.tag.format.rust",
 				"keyword.control.shortfn.janet",
+				"storage.control.shortfn.janet",
 			],
 			"settings": {
 				"foreground": "#CC8D66",
