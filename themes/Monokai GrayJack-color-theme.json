@@ -12,11 +12,16 @@
 		"editor.foreground": "#F9F5DD",
 		"statusBar.background": "#1e8d43",
 		"statusBar.foreground": "#F9F5DD",
+		"statusBar.debuggingBackground": "#db641e",
+		"statusBar.debuggingForeground": "#F9F5DD",
+		"statusBar.noFolderBackground": "#bf43f8",
+		"statusBar.noFolderForeground": "#F9F5DD",
 		"activityBarBadge.background": "#5596F1",
 		"sideBarTitle.foreground": "#bbbbbb",
 		"selection.background": "#3C393E",
 		"editor.selectionBackground": "#3C393E",
-		"editor.lineHighlightBackground": "#3C393E"
+		"editor.lineHighlightBackground": "#3C393E",
+		"editor.hoverHighlightBackground": "#3C393E"
 	},
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
@@ -217,6 +222,8 @@
 			"name": "Special functions, Hygienic Macros, etc",
 			"scope": [
 				"support.function.macro.rust",
+				"support.function.macro.builtin.rust",
+				"support.function.macro.core.rust",
 				"entity.name.function.macro.rust",
 				"support.function.macro.julia",
 				"support.function.builtin.zig",
