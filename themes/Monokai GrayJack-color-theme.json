@@ -61,13 +61,30 @@
 			"fontStyle": "underline",
 			"foreground": "#5596F1"
 		},
+		"tagField": {
+			"fontStyle": "underline",
+			"foreground": "#5596F1"
+		},
+		"errorTag": {
+			"fontStyle": "underline",
+			"foreground": "#5596F1"
+		},
 		"macro": {
+			"foreground": "#5596F1"
+		},
+		"builtin": {
 			"foreground": "#5596F1"
 		},
 		"namespace": {
 			"foreground": "#F9F5DD"
 		},
+		"variable": {
+			"foreground": "#F9F5DD"
+		},
 		"property": {
+			"foreground": "#CC8D66"
+		},
+		"field": {
 			"foreground": "#CC8D66"
 		},
 		"attribute": {
@@ -81,17 +98,31 @@
 			"foreground": "#CC8D66",
 			"fontStyle": "italic"
 		},
+		"label": {
+			"foreground": "#CC8D66",
+			"fontStyle": "italic"
+		},
 		"selfKeyword": {
 			"fontStyle": "italic",
 			"foreground": "#FAA23D"
 		},
-		"variable.mutable": {
-			"fontStyle": "underline",
-			"foreground": "#fab464"
-		},
 		"parameter": {
-			"fontStyle": "italic",
+			"foreground": "#F9F5DD",
+			"fontStyle": ""
+		},
+		"parameter.declaration": {
 			"foreground": "#FAA23D"
+		},
+		"parameter.definition": {
+			"foreground": "#FAA23D"
+		},
+		"escapeSequence": {
+			"foreground": "#AA7DFC",
+			"fontStyle": "italic"
+		},
+		"*.mutable": {
+			"fontStyle": "underline",
+			// "foreground": "#fab464"
 		},
 		"variable.constant": {
 			"foreground": "#AA7DFC"
@@ -360,7 +391,7 @@
 			],
 			"settings": {
 				"foreground": "#FAA23D",
-				"fontStyle": "italic"
+				// "fontStyle": "italic"
 			}
 		},
 		{
@@ -530,7 +561,8 @@
 				"constant.character.escape"
 			],
 			"settings": {
-				"foreground": "#AA7DFC"
+				"foreground": "#AA7DFC",
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -688,7 +720,9 @@
 		},
 		{
 			"name": "Markup - Link Underline",
-			"scope": ["markup.underline.link"],
+			"scope": [
+				"markup.underline.link"
+			],
 			"settings": {
 				"foreground": "#66CCE1",
 			}
@@ -742,7 +776,9 @@
 		},
 		{
 			"name": "Markdown - Section",
-			"scope": ["entity.name.section.markdown"],
+			"scope": [
+				"entity.name.section.markdown"
+			],
 			"settings": {
 				"foreground": "#B2E64C",
 				"fontStyle": "bold"
