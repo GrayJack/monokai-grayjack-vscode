@@ -10,12 +10,12 @@
 		"button.hoverBackground": "#bbbbbb",
 		"editor.background": "#242424",
 		"editor.foreground": "#F9F5DD",
-		"statusBar.background": "#1e8d43",
-		"statusBar.foreground": "#F9F5DD",
-		"statusBar.debuggingBackground": "#db641e",
-		"statusBar.debuggingForeground": "#F9F5DD",
-		"statusBar.noFolderBackground": "#bf43f8",
-		"statusBar.noFolderForeground": "#F9F5DD",
+		"statusBar.background": "#66CCE1",
+		"statusBar.foreground": "#242424",
+		"statusBar.debuggingBackground": "#FAA23D",
+		"statusBar.debuggingForeground": "#242424",
+		"statusBar.noFolderBackground": "#AA7DFC",
+		"statusBar.noFolderForeground": "#242424",
 		"activityBarBadge.background": "#5596F1",
 		"sideBarTitle.foreground": "#bbbbbb",
 		"selection.background": "#3C393E",
@@ -107,6 +107,10 @@
 			"foreground": "#FAA23D"
 		},
 		"parameter": {
+			"foreground": "#FAA23D",
+			"fontStyle": ""
+		},
+		"parameter:rust": {
 			"foreground": "#F9F5DD",
 			"fontStyle": ""
 		},
@@ -136,15 +140,27 @@
 		"boolean": {
 			"foreground": "#AA7DFC"
 		},
+		"keyword": {
+			"foreground": "#FF3574"
+		},
+		"operator": {
+			"foreground": "#FF3574"
+		},
 		"operator.controlFlow": {
 			"foreground": "#CC8D66"
 		},
 		"keyword.unsafe": {
 			"foreground": "#FA8282"
 		},
+		"function": {
+			"foreground": "#B2E64C"
+		},
 		"function.unsafe": {
 			"fontStyle": "underline",
 		},
+		// "punctuation": {
+		// 	"foreground": "#F9F5DD",
+		// },
 	},
 	"tokenColors": [
 		{
@@ -164,7 +180,8 @@
 				"variable",
 				"meta.function-call.arguments",
 				"string constant.other.placeholder",
-				"punctuation"
+				"punctuation",
+				"keyword.operator.sigil.rust"
 			],
 			"settings": {
 				"foreground": "#F9F5DD"
