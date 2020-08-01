@@ -25,6 +25,25 @@
 	},
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
+		"keyword": {
+			"foreground": "#FF3574"
+		},
+		"operator": {
+			"foreground": "#FF3574"
+		},
+		"function": {
+			"foreground": "#B2E64C"
+		},
+		"number": {
+			"foreground": "#AA7DFC"
+		},
+		"boolean": {
+			"foreground": "#AA7DFC"
+		},
+		"escapeSequence": {
+			"foreground": "#AA7DFC",
+			"fontStyle": "italic"
+		},
 		"builtinType": {
 			"foreground": "#66CCE1",
 			"fontStyle": "italic",
@@ -90,9 +109,6 @@
 		"attribute": {
 			"foreground": "#FAF7B1"
 		},
-		"*.attribute": {
-			"foreground": "#FAF7B1"
-		},
 		"formatSpecifier": {
 			"foreground": "#CC8D66",
 			"fontStyle": "bold"
@@ -123,31 +139,11 @@
 		"parameter.definition": {
 			"foreground": "#FAA23D"
 		},
-		"escapeSequence": {
-			"foreground": "#AA7DFC",
-			"fontStyle": "italic"
-		},
-		"*.mutable": {
-			"fontStyle": "underline",
-			// "foreground": "#fab464"
-		},
 		"variable.constant": {
 			"foreground": "#AA7DFC"
 		},
 		"variable.static": {
 			"foreground": "#AA7DFC"
-		},
-		"number": {
-			"foreground": "#AA7DFC"
-		},
-		"boolean": {
-			"foreground": "#AA7DFC"
-		},
-		"keyword": {
-			"foreground": "#FF3574"
-		},
-		"operator": {
-			"foreground": "#FF3574"
 		},
 		"operator.controlFlow": {
 			"foreground": "#CC8D66"
@@ -155,11 +151,15 @@
 		"keyword.unsafe": {
 			"foreground": "#FA8282"
 		},
-		"function": {
-			"foreground": "#B2E64C"
-		},
 		"function.unsafe": {
 			"fontStyle": "underline",
+		},
+		"*.mutable": {
+			"fontStyle": "underline",
+			// "foreground": "#fab464"
+		},
+		"*.attribute": {
+			"foreground": "#FAF7B1"
 		},
 		// "punctuation": {
 		// 	"foreground": "#F9F5DD",
