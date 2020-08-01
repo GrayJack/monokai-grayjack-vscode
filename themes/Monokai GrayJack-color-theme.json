@@ -90,6 +90,9 @@
 		"attribute": {
 			"foreground": "#FAF7B1"
 		},
+		"*.attribute": {
+			"foreground": "#FAF7B1"
+		},
 		"formatSpecifier": {
 			"foreground": "#CC8D66",
 			"fontStyle": "bold"
