@@ -2,6 +2,9 @@
 
 All notable changes to the "monokai-grayjack" extension will be documented in this file.
 
+## 0.2.3
+ - Change the Brown colors in the Pastel variant
+
 ## 0.2.2
  - Add a hover colors different of the active window
 

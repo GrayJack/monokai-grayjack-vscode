@@ -5,9 +5,9 @@
 // dark-gray: #2d2a2e
 // very-dark-gray: #19181a
 //
-// dark-brow: #bf7140
-// brow: #cc8d66
-// bright-brow: #d9aa8c
+// dark-brow: #c57f53
+// brow: #d29b79
+// bright-brow: #dfb79f
 //
 // dark-red: #ff2e62
 // red: #ff6188
@@ -433,7 +433,7 @@
         "gitDecoration.ignoredResourceForeground": "#5b595c",
         "gitDecoration.modifiedResourceForeground": "#84b3f5",
         "gitDecoration.submoduleResourceForeground": "#78dce8",
-        "gitDecoration.untrackedResourceForeground": "#CC8D66",
+        "gitDecoration.untrackedResourceForeground": "#d29b79",
         // SETTINGS EDITOR
         "settings.checkboxBackground": "#403e41",
         "settings.checkboxBorder": "#403e41",
@@ -466,7 +466,7 @@
         "symbolIcon.enumeratorForeground": "#78dce8",
         "symbolIcon.enumeratorMemberForeground": "#84b3f5",
         "symbolIcon.eventForeground": "#fc9867",
-        "symbolIcon.fieldForeground": "#CC8D66",
+        "symbolIcon.fieldForeground": "#d29b79",
         "symbolIcon.fileForeground": "#c1c0c0",
         "symbolIcon.folderForeground": "#c1c0c0",
         "symbolIcon.functionForeground": "#a9dc76",
@@ -474,14 +474,14 @@
         "symbolIcon.keyForeground": "#fc9867",
         "symbolIcon.keywordForeground": "#ff6188",
         "symbolIcon.methodForeground": "#a9dc76",
-        "symbolIcon.moduleForeground": "#CC8D66",
-        "symbolIcon.namespaceForeground": "#CC8D66",
+        "symbolIcon.moduleForeground": "#d29b79",
+        "symbolIcon.namespaceForeground": "#d29b79",
         "symbolIcon.nullForeground": "#ab9df2",
         "symbolIcon.numberForeground": "#ab9df2",
         "symbolIcon.objectForeground": "#78dce8",
         "symbolIcon.operatorForeground": "#ff6188",
         "symbolIcon.unitForeground": "#ab9df2",
-        "symbolIcon.packageForeground": "#CC8D66",
+        "symbolIcon.packageForeground": "#d29b79",
         "symbolIcon.propertyForeground": "#ffe599",
         "symbolIcon.referenceForeground": "#fc9867",
         "symbolIcon.structForeground": "#78dce8",
@@ -607,24 +607,24 @@
             "foreground": "#fcfcfa"
         },
         "property": {
-            "foreground": "#CC8D66"
+            "foreground": "#d29b79"
         },
         "field": {
-            "foreground": "#CC8D66"
+            "foreground": "#d29b79"
         },
         "attribute": {
             "foreground": "#ffe599"
         },
         "formatSpecifier": {
-            "foreground": "#CC8D66",
+            "foreground": "#d29b79",
             "fontStyle": "bold"
         },
         "lifetime": {
-            "foreground": "#CC8D66",
+            "foreground": "#d29b79",
             "fontStyle": "italic"
         },
         "label": {
-            "foreground": "#CC8D66",
+            "foreground": "#d29b79",
             "fontStyle": "italic"
         },
         "selfKeyword": {
@@ -652,7 +652,7 @@
             "foreground": "#ab9df2"
         },
         "operator.controlFlow": {
-            "foreground": "#CC8D66"
+            "foreground": "#d29b79"
         },
         "keyword.unsafe": {
             "foreground": "#ff94ae"
@@ -807,7 +807,7 @@
                 // "variable.interpolation.julia",
             ],
             "settings": {
-                "foreground": "#CC8D66",
+                "foreground": "#d29b79",
                 "fontStyle": "italic"
             }
         },
@@ -821,7 +821,7 @@
                 "storage.control.shortfn.janet",
             ],
             "settings": {
-                "foreground": "#CC8D66",
+                "foreground": "#d29b79",
             }
         },
         {
@@ -905,7 +905,7 @@
                 "meta.member",
             ],
             "settings": {
-                "foreground": "#CC8D66",
+                "foreground": "#d29b79",
             }
         },
         {
@@ -1165,7 +1165,7 @@
                 "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
             ],
             "settings": {
-                "foreground": "#CC8D66"
+                "foreground": "#d29b79"
             }
         },
         {
