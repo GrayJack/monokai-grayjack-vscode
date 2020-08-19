@@ -2,8 +2,16 @@
 
 All notable changes to the "monokai-grayjack" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## 0.2.2
+ - Add a hover colors different of the active window
 
-## [Unreleased]
+## 0.2.1
+ - Fix a color not matching the color theme in settings
 
-- Initial release
+## 0.2.0
+ - Change gray colors
+ - Add many more color customization (menu, lens, tree-view, etc)
+ - Add a pastel variant of the theme
+
+## 0.1.0
+ - Initial release
