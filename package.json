@@ -7,7 +7,7 @@
         "type": "git",
         "url": "https://github.com/GrayJack/monokai-grayjack-vscode"
     },
-    "version": "0.1.2",
+    "version": "0.2.0",
     "engines": {
         "vscode": "^1.45.0"
     },
@@ -19,7 +19,12 @@
             {
                 "label": "Monokai GrayJack",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Monokai GrayJack-color-theme.json"
+                "path": "./themes/Monokai GrayJack.json"
+            },
+            {
+                "label": "Monokai GrayJack (Pastel)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Monokai Grayjack (Pastel).json"
             }
         ]
     }
