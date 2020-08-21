@@ -690,7 +690,8 @@
                 "meta.function-call.arguments",
                 "string constant.other.placeholder",
                 "punctuation",
-                "keyword.operator.sigil.rust"
+                "keyword.operator.sigil.rust",
+                "meta.function-call.java"
             ],
             "settings": {
                 "foreground": "#fcfcfa"
@@ -786,13 +787,15 @@
                 "support.function.builtin.zig",
             ],
             "settings": {
-                "foreground": "#84b3f5"
+                "foreground": "#84b3f5",
+                "fontStyle": ""
             }
         },
         {
             "name": "Enum variant, Sum Types, etc",
             "scope": [
                 "support.enum.core.rust",
+                "constant.other.haskell",
             ],
             "settings": {
                 "foreground": "#84b3f5",
@@ -804,6 +807,7 @@
             "scope": [
                 "storage.modifier.lifetime.rust",
                 "constant.character.format.placeholder.other.python",
+                "variable.other.generic-type.haskell",
                 // "variable.interpolation.julia",
             ],
             "settings": {
@@ -903,6 +907,7 @@
                 "variable.other.property",
                 "variable.other.member",
                 "meta.member",
+                "variable.other.object.property"
             ],
             "settings": {
                 "foreground": "#d29b79",
@@ -921,17 +926,29 @@
             }
         },
         {
+            "name": "Lisp keyword",
+            "scope": [
+                "constant.keyword.janet"
+            ],
+            "settings": {
+                "foreground": "#fc9867",
+            }
+        },
+        {
             "name": "Class, Support",
             "scope": [
                 "support.type",
                 "support.class",
                 "support.orther.namespace.use.php",
-                "storage.type",
                 "meta.use.php",
                 "support.other.namespace.php",
                 "markup.changed.git_gutter",
                 "support.type.sys-types",
                 "entity.other.attribute-name.table.toml",
+                "storage.type.haskell",
+                "storage.type.java",
+                "storage.type.primitive.java",
+                "storage.type.object.array.java"
             ],
             "settings": {
                 "foreground": "#78dce8",
@@ -1106,7 +1123,12 @@
             "name": "Decorators",
             "scope": [
                 "tag.decorator.js entity.name.tag.js",
-                "tag.decorator.js punctuation.definition.tag.js"
+                "tag.decorator.js punctuation.definition.tag.js",
+                "punctuation.definition.decorator.python",
+                "support.type.python",
+                "meta.function.decorator.python",
+                "punctuation.definition.annotation.java",
+                "storage.type.annotation.java"
             ],
             "settings": {
                 "fontStyle": "italic",

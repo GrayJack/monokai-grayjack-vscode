@@ -2,6 +2,9 @@
 
 All notable changes to the "monokai-grayjack" extension will be documented in this file.
 
+## 0.2.4
+ - Tweaks on several text-mate grammar colors
+
 ## 0.2.3
  - Change the Brown colors in the Pastel variant
 
