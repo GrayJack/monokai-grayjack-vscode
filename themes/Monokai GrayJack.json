@@ -736,6 +736,7 @@
 				"storage.modifier",
 				"punctuation.definition.directive.c",
 				"storage.type.impl.rust",
+				"keyword.type.go",
 			],
 			"settings": {
 				"foreground": "#FF3574"
@@ -966,6 +967,14 @@
 				"storage.type.built-in.c",
 				"meta.function.definition.parameters.c",
 				"entity.name.class.kotlin",
+				"storage.type.go",
+				"storage.type.boolean.go",
+				"storage.type.byte.go",
+				"storage.type.error.go",
+				"storage.type.numeric.go",
+				"storage.type.rune.go",
+				"storage.type.string.go",
+				"storage.type.uintptr.go",
 			],
 			"settings": {
 				"foreground": "#66CCE1",

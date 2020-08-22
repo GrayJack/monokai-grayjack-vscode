@@ -2,8 +2,8 @@
 
 All notable changes to the "monokai-grayjack" extension will be documented in this file.
 
-## Unreleased
- - Tweaks on TextMate for Kotlin
+## 0.2.6
+ - Tweaks on TextMate for Kotlin and Go
 
 ## 0.2.5
  - Tweaks on semantic highlight for TypeScript and Java
