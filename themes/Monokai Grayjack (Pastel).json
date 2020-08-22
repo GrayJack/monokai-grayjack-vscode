@@ -703,6 +703,7 @@
                 "punctuation",
                 "keyword.operator.sigil.rust",
                 "meta.function-call.java",
+                "storage.modifier.import.java",
                 "variable.other.object"
             ],
             "settings": {
@@ -964,7 +965,8 @@
                 "storage.type.object.array.java",
                 "storage.type.c",
                 "storage.type.built-in.c",
-                "meta.function.definition.parameters.c"
+                "meta.function.definition.parameters.c",
+                "entity.name.class.kotlin",
             ],
             "settings": {
                 "foreground": "#78dce8",
