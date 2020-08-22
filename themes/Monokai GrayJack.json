@@ -581,6 +581,10 @@
 			"foreground": "#66CCE1",
 			"fontStyle": "italic",
 		},
+		"type.c": {
+			"foreground": "#66CCe1",
+			"fontStyle": "italic",
+		},
 		"enumMember": {
 			"fontStyle": "underline",
 			"foreground": "#5596f1"
@@ -631,13 +635,17 @@
 			"foreground": "#FAA23D"
 		},
 		"parameter": {
-			"foreground": "#FAA23D",
-			"fontStyle": ""
-		},
-		"parameter:rust": {
 			"foreground": "#fcfcfa",
 			"fontStyle": ""
 		},
+		// "parameter:rust": {
+		// 	"foreground": "#fcfcfa",
+		// 	"fontStyle": ""
+		// },
+		// "parameter:typescript": {
+		// 	"foreground": "#fcfcfa",
+		// 	"fontStyle": ""
+		// },
 		"parameter.declaration": {
 			"foreground": "#FAA23D"
 		},
@@ -648,6 +656,9 @@
 			"foreground": "#AA7DFC"
 		},
 		"variable.static": {
+			"foreground": "#AA7DFC"
+		},
+		"variable.readonly": {
 			"foreground": "#AA7DFC"
 		},
 		"operator.controlFlow": {
@@ -690,7 +701,8 @@
 				"string constant.other.placeholder",
 				"punctuation",
 				"keyword.operator.sigil.rust",
-				"meta.function-call.java"
+				"meta.function-call.java",
+				"variable.other.object"
 			],
 			"settings": {
 				"foreground": "#fcfcfa"
@@ -807,6 +819,7 @@
 				"storage.modifier.lifetime.rust",
 				"constant.character.format.placeholder.other.python",
 				"variable.other.generic-type.haskell",
+				"punctuation.definition.template-expression"
 				// "variable.interpolation.julia",
 			],
 			"settings": {
@@ -947,7 +960,10 @@
 				"storage.type.haskell",
 				"storage.type.java",
 				"storage.type.primitive.java",
-				"storage.type.object.array.java"
+				"storage.type.object.array.java",
+				"storage.type.c",
+				"storage.type.built-in.c",
+				"meta.function.definition.parameters.c"
 			],
 			"settings": {
 				"foreground": "#66CCE1",

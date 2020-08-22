@@ -2,6 +2,10 @@
 
 All notable changes to the "monokai-grayjack" extension will be documented in this file.
 
+## 0.2.5
+ - Tweaks on semantic highlight for TypeScript and Java
+ - Small tweak on TextMate
+
 ## 0.2.4
  - Tweaks on several text-mate grammar colors
 

@@ -582,6 +582,10 @@
             "foreground": "#78dce8",
             "fontStyle": "italic",
         },
+        "type.c": {
+            "foreground": "#78dce8",
+            "fontStyle": "italic",
+        },
         "enumMember": {
             "fontStyle": "underline",
             "foreground": "#84b3f5"
@@ -632,13 +636,17 @@
             "foreground": "#fc9867"
         },
         "parameter": {
-            "foreground": "#fc9867",
-            "fontStyle": ""
-        },
-        "parameter:rust": {
             "foreground": "#fcfcfa",
             "fontStyle": ""
         },
+        // "parameter:rust": {
+        //     "foreground": "#fcfcfa",
+        //     "fontStyle": ""
+        // },
+        // "parameter:typescript": {
+        //     "foreground": "#fcfcfa",
+        //     "fontStyle": ""
+        // },
         "parameter.declaration": {
             "foreground": "#fc9867"
         },
@@ -649,6 +657,9 @@
             "foreground": "#ab9df2"
         },
         "variable.static": {
+            "foreground": "#ab9df2"
+        },
+        "variable.readonly": {
             "foreground": "#ab9df2"
         },
         "operator.controlFlow": {
@@ -691,7 +702,8 @@
                 "string constant.other.placeholder",
                 "punctuation",
                 "keyword.operator.sigil.rust",
-                "meta.function-call.java"
+                "meta.function-call.java",
+                "variable.other.object"
             ],
             "settings": {
                 "foreground": "#fcfcfa"
@@ -808,6 +820,7 @@
                 "storage.modifier.lifetime.rust",
                 "constant.character.format.placeholder.other.python",
                 "variable.other.generic-type.haskell",
+                "punctuation.definition.template-expression"
                 // "variable.interpolation.julia",
             ],
             "settings": {
@@ -948,7 +961,10 @@
                 "storage.type.haskell",
                 "storage.type.java",
                 "storage.type.primitive.java",
-                "storage.type.object.array.java"
+                "storage.type.object.array.java",
+                "storage.type.c",
+                "storage.type.built-in.c",
+                "meta.function.definition.parameters.c"
             ],
             "settings": {
                 "foreground": "#78dce8",
