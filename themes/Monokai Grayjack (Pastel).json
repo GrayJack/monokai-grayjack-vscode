@@ -760,7 +760,8 @@
                 "punctuation.symbol.return-type",
                 "keyword.other.template",
                 "keyword.other.substitution",
-                "punctuation.separator.pointer-access.c"
+                "punctuation.separator.pointer-access.c",
+                "punctuation.definition.function.pointer.dereference.cpp",
             ],
             "settings": {
                 "foreground": "#ff6188"
@@ -933,7 +934,8 @@
             "name": "Parameters",
             "scope": [
                 "variable.parameter",
-                "keyword.other.self.rust"
+                "keyword.other.self.rust",
+                "meta.parens.block.c",
                 // "meta.function.definition.parameters",
             ],
             "settings": {
@@ -968,6 +970,8 @@
                 "storage.type.c",
                 "storage.type.built-in.c",
                 "meta.function.definition.parameters.c",
+                "storage.type.built-in.cpp",
+                "storage.type.built-in.primitive.cpp",
                 "entity.name.class.kotlin",
                 "storage.type.go",
                 "storage.type.boolean.go",
