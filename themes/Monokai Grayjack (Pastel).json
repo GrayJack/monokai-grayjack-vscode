@@ -792,6 +792,16 @@
             }
         },
         {
+            "name": "Function call when there is no type",
+            "scope": [
+                "entity.name.function.core.janet",
+                "entity.name.function.call.janet",
+            ],
+            "settings": {
+                "foreground": "#78dce8"
+            }
+        },
+        {
             "name": "Special functions, Hygienic Macros, etc",
             "scope": [
                 "support.function.macro.rust",
@@ -823,7 +833,8 @@
                 "storage.modifier.lifetime.rust",
                 "constant.character.format.placeholder.other.python",
                 "variable.other.generic-type.haskell",
-                "punctuation.definition.template-expression"
+                "punctuation.definition.template-expression",
+                "constant.other.placeholder.c",
                 // "variable.interpolation.julia",
             ],
             "settings": {

@@ -2,6 +2,10 @@
 
 All notable changes to the "monokai-grayjack" extension will be documented in this file.
 
+## Unreleased
+ - Tweaks on TextMate for Janet
+ - More tweaks on TextMate for C/C++
+
 ## 0.2.7
  - Tweaks on TextMate for C/C++
 
