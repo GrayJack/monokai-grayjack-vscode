@@ -736,6 +736,7 @@
                 "storage.type",
                 "storage.modifier",
                 "punctuation.definition.directive.c",
+                "punctuation.definition.directive.cpp",
                 "storage.type.impl.rust",
                 "keyword.type.go",
             ],
