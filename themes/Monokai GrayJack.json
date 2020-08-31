@@ -738,6 +738,7 @@
 				"punctuation.definition.directive.cpp",
 				"storage.type.impl.rust",
 				"keyword.type.go",
+				"storage.class.d",
 			],
 			"settings": {
 				"foreground": "#FF3574"
@@ -785,7 +786,8 @@
 				"meta.function-call",
 				"variable.function",
 				"support.function",
-				"keyword.other.special-method"
+				"keyword.other.special-method",
+				"keyword.other.common.function",
 			],
 			"settings": {
 				"foreground": "#B2E64C"
@@ -923,6 +925,9 @@
 				"meta.attribute",
 				"meta.attributes",
 				"entity.name.function.attribute",
+				"meta.preprocessor.pragma.nim",
+				"punctuation.pragma.start.nim",
+                "punctuation.pragma.end.nim",
 			],
 			"settings": {
 				"foreground": "#FAF7B1",
@@ -991,6 +996,8 @@
 				"storage.type.rune.go",
 				"storage.type.string.go",
 				"storage.type.uintptr.go",
+				"storage.type.concrete.nim",
+				"storage.type.basic-type.d"
 			],
 			"settings": {
 				"foreground": "#66CCE1",
