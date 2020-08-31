@@ -1003,6 +1003,7 @@
 				"entity.name.type",
 				"keyword.type",
 				"storage.type.built-in.primitive.c",
+				"storage.type.string.python",
 			],
 			"settings": {
 				"foreground": "#66CCE1",
@@ -1168,6 +1169,7 @@
 				"punctuation.definition.decorator.python",
 				"support.type.python",
 				"meta.function.decorator.python",
+				"entity.name.function.decorator.python",
 				"punctuation.definition.annotation.java",
 				"storage.type.annotation.java"
 			],
