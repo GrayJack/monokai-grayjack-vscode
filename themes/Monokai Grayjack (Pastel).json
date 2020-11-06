@@ -675,6 +675,9 @@
             "fontStyle": "underline",
             // "foreground": "#fab464"
         },
+        "*.callable": {
+            "foreground": "#a9dc76"
+        },
         "*.attribute": {
             "foreground": "#ffe599"
         },
@@ -999,7 +1002,8 @@
                 "storage.type.string.go",
                 "storage.type.uintptr.go",
                 "storage.type.concrete.nim",
-                "storage.type.basic-type.d"
+                "storage.type.basic-type.d",
+                "support.type.python",
             ],
             "settings": {
                 "foreground": "#78dce8",
@@ -1177,7 +1181,6 @@
                 "tag.decorator.js entity.name.tag.js",
                 "tag.decorator.js punctuation.definition.tag.js",
                 "punctuation.definition.decorator.python",
-                "support.type.python",
                 "meta.function.decorator.python",
                 "entity.name.function.decorator.python",
                 "punctuation.definition.annotation.java",

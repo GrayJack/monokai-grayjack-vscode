@@ -674,6 +674,9 @@
 			"fontStyle": "underline",
 			// "foreground": "#fab464"
 		},
+		"*.callable": {
+            "foreground": "#B2E64C"
+        },
 		"*.attribute": {
 			"foreground": "#FAF7B1"
 		},
@@ -997,7 +1000,8 @@
 				"storage.type.string.go",
 				"storage.type.uintptr.go",
 				"storage.type.concrete.nim",
-				"storage.type.basic-type.d"
+				"storage.type.basic-type.d",
+				"support.type.python",
 			],
 			"settings": {
 				"foreground": "#66CCE1",

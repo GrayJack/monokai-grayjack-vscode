@@ -1,31 +1,36 @@
 {
-    "name": "monokai-grayjack",
-    "displayName": "monokai-grayjack",
-    "description": "My port for my theme from Atom",
-    "publisher": "GrayJack",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/GrayJack/monokai-grayjack-vscode"
-    },
-    "version": "0.2.7",
-    "engines": {
-        "vscode": "^1.45.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Monokai GrayJack",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Monokai GrayJack.json"
-            },
-            {
-                "label": "Monokai GrayJack (Pastel)",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Monokai Grayjack (Pastel).json"
-            }
-        ]
-    }
+	"name": "monokai-grayjack",
+	"displayName": "monokai-grayjack",
+	"description": "My port for my theme from Atom",
+	"publisher": "GrayJack",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/GrayJack/monokai-grayjack-vscode"
+	},
+	"version": "0.2.10",
+	"engines": {
+		"vscode": "^1.45.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Monokai GrayJack",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Monokai GrayJack.json"
+			},
+			{
+				"label": "Monokai GrayJack (Pastel)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Monokai Grayjack (Pastel).json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "ca7999ed-d374-423b-be37-ddad6160f334",
+		"publisherId": "d9e1a333-9f72-4866-8919-0f9c9ea2680a",
+		"publisherDisplayName": "GrayJack"
+	}
 }
