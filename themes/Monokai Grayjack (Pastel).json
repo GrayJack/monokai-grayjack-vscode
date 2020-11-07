@@ -705,6 +705,7 @@
                 "string constant.other.placeholder",
                 "punctuation",
                 "keyword.operator.sigil.rust",
+                "keyword.operator.access.dot.rust",
                 "meta.function-call.java",
                 "storage.modifier.import.java",
                 "variable.other.object"
@@ -743,6 +744,7 @@
                 "storage.type.impl.rust",
                 "keyword.type.go",
                 "storage.class.d",
+                "variable.language.super.rust",
             ],
             "settings": {
                 "foreground": "#ff6188"
@@ -813,7 +815,9 @@
                 "support.function.macro.rust",
                 "support.function.macro.builtin.rust",
                 "support.function.macro.core.rust",
+                "entity.name.type.macro.rust",
                 "entity.name.function.macro.rust",
+                "entity.name.function.macro.rules.rust",
                 "support.function.macro.julia",
                 "support.function.builtin.zig",
             ],
@@ -826,6 +830,8 @@
             "name": "Enum variant, Sum Types, etc",
             "scope": [
                 "support.enum.core.rust",
+                "entity.name.type.option.rust",
+				"entity.name.type.result.rust",
                 "constant.other.haskell",
             ],
             "settings": {
@@ -853,7 +859,10 @@
             "scope": [
                 "keyword.operator.misc.question-mark.rust",
                 "keyword.operator.misc.special.rust",
+                "keyword.operator.macro.dollar.rust",
+				"variable.other.metavariable.name.rust",
                 "punctuation.section.embedded.meta.tag.format.rust",
+                "keyword.operator.question.rust",
                 "keyword.control.shortfn.janet",
                 "storage.control.shortfn.janet",
                 "entity.name.package.go",
@@ -933,6 +942,8 @@
                 "meta.preprocessor.pragma.nim",
                 "punctuation.pragma.start.nim",
                 "punctuation.pragma.end.nim",
+                "punctuation.brackets.attribute.rust",
+				"punctuation.definition.attribute.rust",
             ],
             "settings": {
                 "foreground": "#ffe599",
@@ -1018,6 +1029,7 @@
                 "keyword.type",
                 "storage.type.built-in.primitive.c",
                 "storage.type.string.python",
+                "variable.other.metavariable.specifier.rust",
             ],
             "settings": {
                 "foreground": "#78dce8",

@@ -4,6 +4,8 @@ All notable changes to the "monokai-grayjack" extension will be documented in th
 
 ## Unreleased
 
+- Tweaks on TextMate for Rust (build-in plugin)
+
 ## 0.2.10
 
 - Fix semantic tokens with callable modifier not being properly colorized
