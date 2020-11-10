@@ -705,6 +705,7 @@
 				"punctuation",
 				"keyword.operator.sigil.rust",
 				"keyword.operator.access.dot.rust",
+				"keyword.operator.key-value.rust",
 				"meta.function-call.java",
 				"storage.modifier.import.java",
 				"variable.other.object"
