@@ -540,6 +540,10 @@
         "function": {
             "foreground": "#a9dc76"
         },
+        "magicFunction": {
+            "foreground": "#a9dc76",
+			"fontStyle": "italic"
+        },
         "number": {
             "foreground": "#ab9df2"
         },
@@ -566,10 +570,6 @@
             "foreground": "#78dce8",
             "fontStyle": "italic",
         },
-        "unresolvedReference": {
-            "foreground": "#fcfcfa",
-            "fontStyle": "italic",
-        },
         "struct": {
             "foreground": "#78dce8",
             "fontStyle": "italic",
@@ -583,6 +583,10 @@
             "fontStyle": "italic",
         },
         "type.c": {
+            "foreground": "#78dce8",
+            "fontStyle": "italic",
+        },
+        "class": {
             "foreground": "#78dce8",
             "fontStyle": "italic",
         },
@@ -616,6 +620,13 @@
         "field": {
             "foreground": "#d29b79"
         },
+        "member": {
+			"foreground": "#d29b79"
+		},
+        "module": {
+            "foreground": "#d29b79",
+            "fontStyle": "italic"
+        },
         "attribute": {
             "foreground": "#ffe599"
         },
@@ -632,6 +643,14 @@
             "fontStyle": "italic"
         },
         "selfKeyword": {
+            "fontStyle": "italic",
+            "foreground": "#fc9867"
+        },
+        "selfParameter": {
+            "fontStyle": "italic",
+            "foreground": "#fc9867"
+        },
+        "clsParameter": {
             "fontStyle": "italic",
             "foreground": "#fc9867"
         },
@@ -680,6 +699,14 @@
         },
         "*.attribute": {
             "foreground": "#ffe599"
+        },
+        "*.typeHint": {
+            "foreground": "#78dce8",
+            "fontStyle": "italic",
+        },
+        "*.decorator": {
+            "foreground": "#84b3f5",
+            "fontStyle": "italic",
         },
         // "punctuation": {
         // 	"foreground": "#fcfcfa",
@@ -770,6 +797,7 @@
                 "keyword.other.substitution",
                 "punctuation.separator.pointer-access.c",
                 "punctuation.definition.function.pointer.dereference.cpp",
+                "punctuation.separator.annotation.result.python",
             ],
             "settings": {
                 "foreground": "#ff6188"
@@ -902,6 +930,7 @@
                 "constant.escape",
                 "variable.other.constant",
                 "constant.other.boolean",
+                "constant.other.caps.python"
                 // "keyword.other.unit",
                 // "keyword.other"
             ],

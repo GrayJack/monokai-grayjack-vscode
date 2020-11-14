@@ -5,6 +5,9 @@ All notable changes to the "monokai-grayjack" extension will be documented in th
 ## Unreleased
 
 - Tweaks on TextMate for Rust (build-in plugin)
+- Tweaks on TextMate for Python (Build-in plugin)
+- Tweak semantic tokens coloring for Rust (rust-analyzer)
+- Tweak semantic tokens coloring for Python (Pylance)
 
 ## 0.2.10
 
@@ -12,7 +15,7 @@ All notable changes to the "monokai-grayjack" extension will be documented in th
 
 ## 0.2.9
 
-- Add color for semantic tokens with callable modifier
+- Add color for semantic tokens with Rust callable modifier (rust-analyzer)
 
 ## 0.2.8
 
@@ -29,7 +32,7 @@ All notable changes to the "monokai-grayjack" extension will be documented in th
 
 ## 0.2.5
 
-- Tweaks on semantic highlight for TypeScript and Java
+- Tweaks on semantic highlight for TypeScript and Java (TSLint , Language Support for Java)
 - Small tweak on TextMate
 
 ## 0.2.4

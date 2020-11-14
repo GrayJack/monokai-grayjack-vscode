@@ -539,6 +539,10 @@
 		"function": {
 			"foreground": "#B2E64C"
 		},
+		"magicFunction": {
+			"foreground": "#B2E64C",
+			"fontStyle": "italic"
+        },
 		"number": {
 			"foreground": "#AA7DFC"
 		},
@@ -565,10 +569,6 @@
 			"foreground": "#66CCE1",
 			"fontStyle": "italic",
 		},
-		"unresolvedReference": {
-			"foreground": "#fcfcfa",
-			"fontStyle": "italic",
-		},
 		"struct": {
 			"foreground": "#66CCE1",
 			"fontStyle": "italic",
@@ -582,6 +582,10 @@
 			"fontStyle": "italic",
 		},
 		"type.c": {
+			"foreground": "#66CCe1",
+			"fontStyle": "italic",
+		},
+		"class": {
 			"foreground": "#66CCe1",
 			"fontStyle": "italic",
 		},
@@ -615,6 +619,13 @@
 		"field": {
 			"foreground": "#CC8D66"
 		},
+		"member": {
+			"foreground": "#CC8D66"
+		},
+		"module": {
+			"foreground": "#CC8D66",
+			"fontStyle": "italic"
+        },
 		"attribute": {
 			"foreground": "#FAF7B1"
 		},
@@ -634,6 +645,14 @@
 			"fontStyle": "italic",
 			"foreground": "#FAA23D"
 		},
+		"selfParameter": {
+            "fontStyle": "italic",
+            "foreground": "#FAA23D"
+		},
+		"clsParameter": {
+            "fontStyle": "italic",
+            "foreground": "#FAA23D"
+        },
 		"parameter": {
 			"foreground": "#fcfcfa",
 			"fontStyle": ""
@@ -680,6 +699,14 @@
 		"*.attribute": {
 			"foreground": "#FAF7B1"
 		},
+		"*.typeHint": {
+            "foreground": "#66CCe1",
+            "fontStyle": "italic",
+        },
+		"*.decorator": {
+            "foreground": "#5596f1",
+            "fontStyle": "italic",
+        },
 		// "punctuation": {
 		// 	"foreground": "#fcfcfa",
 		// },
@@ -769,6 +796,7 @@
 				"keyword.other.substitution",
 				"punctuation.separator.pointer-access.c",
 				"punctuation.definition.function.pointer.dereference.cpp",
+				"punctuation.separator.annotation.result.python",
 			],
 			"settings": {
 				"foreground": "#FF3574"
@@ -900,6 +928,7 @@
 				"constant.escape",
 				"variable.other.constant",
 				"constant.other.boolean",
+				"constant.other.caps.python",
 				// "keyword.other.unit",
 				// "keyword.other"
 			],
