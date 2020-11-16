@@ -582,6 +582,10 @@
             "foreground": "#78dce8",
             "fontStyle": "italic",
         },
+        "type": {
+            "foreground": "#78dce8",
+            "fontStyle": "italic",
+        },
         "type.c": {
             "foreground": "#78dce8",
             "fontStyle": "italic",
@@ -642,6 +646,10 @@
             "foreground": "#d29b79",
             "fontStyle": "italic"
         },
+        "type.namespace:zig": {
+			"foreground": "#d29b79",
+			"fontStyle": "italic"
+		},
         "selfKeyword": {
             "fontStyle": "italic",
             "foreground": "#fc9867"
@@ -657,6 +665,9 @@
         "parameter": {
             "foreground": "#fcfcfa",
             "fontStyle": ""
+        },
+        "string": {
+            "foreground": "#ffd866"
         },
         // "parameter:rust": {
         //     "foreground": "#fcfcfa",
@@ -974,7 +985,9 @@
                 "punctuation.pragma.start.nim",
                 "punctuation.pragma.end.nim",
                 "punctuation.brackets.attribute.rust",
-				"punctuation.definition.attribute.rust",
+                "punctuation.definition.attribute.rust",
+                "entity.name.function.preprocessor.nim",
+                "constant.other.linkage.d"
             ],
             "settings": {
                 "foreground": "#ffe599",
@@ -1045,7 +1058,9 @@
                 "storage.type.uintptr.go",
                 "storage.type.concrete.nim",
                 "storage.type.basic-type.d",
+                "storage.type.d",
                 "support.type.python",
+                "basicTypes.nim",
             ],
             "settings": {
                 "foreground": "#78dce8",

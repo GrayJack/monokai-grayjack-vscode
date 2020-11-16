@@ -581,6 +581,10 @@
 			"foreground": "#66CCE1",
 			"fontStyle": "italic",
 		},
+		"type": {
+			"foreground": "#66CCe1",
+			"fontStyle": "italic",
+		},
 		"type.c": {
 			"foreground": "#66CCe1",
 			"fontStyle": "italic",
@@ -638,6 +642,10 @@
 			"fontStyle": "italic"
 		},
 		"label": {
+			"foreground": "#CC8D66",
+			"fontStyle": "italic"
+		},
+		"type.namespace:zig": {
 			"foreground": "#CC8D66",
 			"fontStyle": "italic"
 		},
@@ -706,7 +714,7 @@
 		"*.decorator": {
             "foreground": "#5596f1",
             "fontStyle": "italic",
-        },
+		},
 		// "punctuation": {
 		// 	"foreground": "#fcfcfa",
 		// },
@@ -973,6 +981,8 @@
 				"punctuation.pragma.end.nim",
 				"punctuation.brackets.attribute.rust",
 				"punctuation.definition.attribute.rust",
+				"entity.name.function.preprocessor.nim",
+				"constant.other.linkage.d"
 			],
 			"settings": {
 				"foreground": "#FAF7B1",
@@ -1043,7 +1053,9 @@
 				"storage.type.uintptr.go",
 				"storage.type.concrete.nim",
 				"storage.type.basic-type.d",
+				"storage.type.d",
 				"support.type.python",
+				"basicTypes.nim",
 			],
 			"settings": {
 				"foreground": "#66CCE1",

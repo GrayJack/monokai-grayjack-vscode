@@ -6,8 +6,11 @@ All notable changes to the "monokai-grayjack" extension will be documented in th
 
 - Tweaks on TextMate for Rust (build-in plugin)
 - Tweaks on TextMate for Python (Build-in plugin)
+- Tweaks on TextMate for Nim (Nim/Nim Alt)
+- Tweaks on TextMate for D-lang (Dlang)
 - Tweak semantic tokens coloring for Rust (rust-analyzer)
 - Tweak semantic tokens coloring for Python (Pylance)
+- Tweak semantic tokens coloring for Zig (ZLS for VSCode)
 
 ## 0.2.10
 
