@@ -688,14 +688,14 @@
 		"variable.readonly": {
 			"foreground": "#AA7DFC"
 		},
-		"operator.controlFlow": {
-			"foreground": "#CC8D66"
-		},
 		"keyword.unsafe": {
 			"foreground": "#ff6897"
 		},
 		"function.unsafe": {
 			"fontStyle": "underline",
+		},
+		"operator.controlFlow": {
+			"foreground": "#CC8D66"
 		},
 		"*.mutable": {
 			"fontStyle": "underline",
@@ -735,6 +735,7 @@
 			"name": "Variables",
 			"scope": [
 				"variable",
+				"punctuation.definition.tag.begin.html",
 				"meta.function-call.arguments",
 				"string constant.other.placeholder",
 				"punctuation",
@@ -743,7 +744,11 @@
 				"keyword.operator.key-value.rust",
 				"meta.function-call.java",
 				"storage.modifier.import.java",
-				"variable.other.object"
+				"variable.other.object",
+				"punctuation.definition.tag",
+                "punctuation.definition.tag.html",
+                "punctuation.definition.tag.begin.html",
+                "punctuation.definition.tag.end.html",
 			],
 			"settings": {
 				"foreground": "#fcfcfa"
@@ -780,6 +785,10 @@
 				"keyword.type.go",
 				"storage.class.d",
 				"variable.language.super.rust",
+				"markup.deleted.git_gutter",
+				"entity.name.tag.css",
+				"punctuation.definition.keyword.css",
+				"entity.name.tag.wildcard.css"
 			],
 			"settings": {
 				"foreground": "#FF3574"
@@ -792,11 +801,8 @@
 				"keyword.control",
 				"constant.other.color",
 				"meta.tag",
-				"punctuation.definition.tag",
 				"punctuation.separator.inheritance.php",
-				"punctuation.definition.tag.html",
-				"punctuation.definition.tag.begin.html",
-				"punctuation.definition.tag.end.html",
+				"punctuation.separator.key-value.html",
 				"punctuation.section.embedded",
 				"punctuation.symbol.match-branch",
 				"punctuation.symbol.return-type",
@@ -815,7 +821,6 @@
 			"scope": [
 				"entity.name.tag",
 				"meta.tag.sgml",
-				"markup.deleted.git_gutter"
 			],
 			"settings": {
 				"foreground": "#FF3574"
@@ -894,11 +899,11 @@
 			"name": "Special syntax 2",
 			"scope": [
 				"keyword.operator.misc.question-mark.rust",
+				"keyword.operator.question.rust",
 				"keyword.operator.misc.special.rust",
 				"keyword.operator.macro.dollar.rust",
 				"variable.other.metavariable.name.rust",
 				"punctuation.section.embedded.meta.tag.format.rust",
-				"keyword.operator.question.rust",
 				"keyword.control.shortfn.janet",
 				"storage.control.shortfn.janet",
 			],
@@ -1006,6 +1011,7 @@
 				"variable.parameter",
 				"keyword.other.self.rust",
 				"meta.parens.block.c",
+				"variable.css"
 				// "meta.function.definition.parameters",
 			],
 			"settings": {
@@ -1071,6 +1077,8 @@
 				"storage.type.built-in.primitive.c",
 				"storage.type.string.python",
 				"variable.other.metavariable.specifier.rust",
+				"entity.other.attribute-name.pseudo-class.css",
+				"entity.other.attribute-name.class.css"
 			],
 			"settings": {
 				"foreground": "#66CCE1",
@@ -1088,8 +1096,8 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#66CCE1",
-				"fontStyle": "italic",
+				"foreground": "#CC8D66",
+				// "fontStyle": "italic",
 			}
 		},
 		{
@@ -1146,11 +1154,12 @@
 			"name": "HTML Attributes",
 			"scope": [
 				"text.html.basic entity.other.attribute-name.html",
-				"text.html.basic entity.other.attribute-name"
+				"text.html.basic entity.other.attribute-name",
+				"entity.other.attribute-name.html"
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FFCB6B"
+				"foreground": "#66CCE1"
 			}
 		},
 		{
@@ -1238,7 +1247,9 @@
 				"meta.function.decorator.python",
 				"entity.name.function.decorator.python",
 				"punctuation.definition.annotation.java",
-				"storage.type.annotation.java"
+				"storage.type.annotation.java",
+				"entity.other.attribute-name.pseudo-class.css",
+				"entity.other.attribute-name.pseudo-element.css",
 			],
 			"settings": {
 				"fontStyle": "italic",
