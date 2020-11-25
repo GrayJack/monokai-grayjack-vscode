@@ -4,6 +4,8 @@ All notable changes to the "monokai-grayjack" extension will be documented in th
 
 ## Unreleased
 
+## 0.2.11
+
 - Tweaks on TextMate for Rust (build-in plugin)
 - Tweaks on TextMate for Python (Build-in plugin)
 - Tweaks on TextMate for HTML (Build-in plugin)
