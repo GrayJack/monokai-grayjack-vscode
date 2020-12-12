@@ -137,10 +137,10 @@
         "sideBar.border": "#19181a",
         "sideBar.dropBackground": "#221f22bf",
         "sideBar.foreground": "#939293",
-        "sideBarTitle.foreground": "#fcfcfa",
+        "sideBarTitle.foreground": "#c3e69f",
         "sideBarSectionHeader.background": "#221f22",
         "sideBarSectionHeader.border": "#221f22",
-        "sideBarSectionHeader.foreground": "#c3e69f",
+        "sideBarSectionHeader.foreground": "#dfb79f",
         // MINIMAP
         "minimap.background": "#221f22",
         "minimap.errorHighlight": "#ff6188",
