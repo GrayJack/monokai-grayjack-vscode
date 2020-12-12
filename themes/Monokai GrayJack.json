@@ -293,7 +293,7 @@
 		"problemsWarningIcon.foreground": "#E6DB7A",
 		"problemsInfoIcon.foreground": "#5596f1",
 		// PEEK VIEW
-		"peekView.border": "#2d2a2e",
+		"peekView.border": "#5596f1",
 		"peekViewEditor.background": "#403e41",
 		"peekViewEditor.matchHighlightBackground": "#5b595c",
 		"peekViewEditor.matchHighlightBorder": "#5b595c",
