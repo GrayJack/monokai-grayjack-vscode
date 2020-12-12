@@ -4,6 +4,9 @@ All notable changes to the "monokai-grayjack" extension will be documented in th
 
 ## Unreleased
 
+- Change bits of overall theme
+- Tweaks semantic tokens coloring for Rust (rust-analyzer)
+
 ## 0.2.11
 
 - Tweaks on TextMate for Rust (build-in plugin)

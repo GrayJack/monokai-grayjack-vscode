@@ -95,12 +95,12 @@
         "scrollbarSlider.hoverBackground": "#fcfcfa12",
         // BADGE
         "badge.background": "#2d2a2e",
-        "badge.foreground": "#84b3f5",
+        "badge.foreground": "#b3d0f9",
         // PROGRESS BAR
         "progressBar.background": "#403e41",
         // LIST AND TREES
         "list.activeSelectionBackground": "#fcfcfa0c",
-        "list.activeSelectionForeground": "#84b3f5",
+        "list.activeSelectionForeground": "#fcfcfa",
         // "list.deemphasizedForeground": "#ff0000",
         "list.dropBackground": "#221f22bf",
         "list.errorForeground": "#ff6188",
@@ -122,25 +122,25 @@
         // "tree.indentGuidesStroke": "#ff0000",
         // ACTIVITY BAR
         "activityBar.background": "#19181a",
-        "activityBar.activeBackground": "#716A60",
+        // "activityBar.activeBackground": "#717171",
         "activityBar.dropBackground": "#221f22bf",
         // "activityBar.activeBorder": "#ff0000",
         // "activityBar.activeFocusBorder": "#ff0000",
         "activityBar.border": "#19181a",
         "activityBar.dropBorder": "#221f22bf",
-        "activityBar.foreground": "#c1c0c0",
-        "activityBar.inactiveForeground": "#5b595c",
-        "activityBarBadge.background": "#84b3f5",
+        "activityBar.foreground": "#b3d0f9",
+        "activityBar.inactiveForeground": "#b3d0f990",
+        "activityBarBadge.background": "#c3e69f",
         "activityBarBadge.foreground": "#2d2a2e",
         // SIDE BAR
         "sideBar.background": "#221f22",
         "sideBar.border": "#19181a",
         "sideBar.dropBackground": "#221f22bf",
         "sideBar.foreground": "#939293",
-        "sideBarTitle.foreground": "#5b595c",
+        "sideBarTitle.foreground": "#fcfcfa",
         "sideBarSectionHeader.background": "#221f22",
         "sideBarSectionHeader.border": "#221f22",
-        "sideBarSectionHeader.foreground": "#727072",
+        "sideBarSectionHeader.foreground": "#c3e69f",
         // MINIMAP
         "minimap.background": "#221f22",
         "minimap.errorHighlight": "#ff6188",
@@ -164,21 +164,21 @@
         "editorGroupHeader.tabsBorder": "#2d2a2e",
         // TABS
         "tab.activeBackground": "#2d2a2e",
-        "tab.activeBorder": "#84b3f5",
+        "tab.activeBorder": "#b3d0f9",
         // "tab.activeBorderTop": "#a9dc76",
-        "tab.activeForeground": "#84b3f5",
+        "tab.activeForeground": "#b3d0f9",
         "tab.activeModifiedBorder": "#5b595c",
         "tab.border": "#2d2a2e",
         "tab.hoverBackground": "#403e41",
-        "tab.hoverBorder": "#a9dc76",
-        "tab.hoverForeground": "#a9dc76",
+        "tab.hoverBorder": "#c3e69f",
+        "tab.hoverForeground": "#c3e69f",
         "tab.inactiveBackground": "#2d2a2e",
         "tab.inactiveForeground": "#939293",
         "tab.inactiveModifiedBorder": "#5b595c",
         "tab.unfocusedActiveBackground": "#403e41",
-        "tab.unfocusedActiveBorder": "#939293",
+        "tab.unfocusedActiveBorder": "#b3d0f990",
         // "tab.unfocusedActiveBorderTop": "#ff0000",
-        // "tab.unfocusedActiveForeground": "#939293",
+        "tab.unfocusedActiveForeground": "#b3d0f990",
         "tab.unfocusedActiveModifiedBorder": "#403e41",
         "tab.unfocusedHoverBackground": "#2d2a2e",
         "tab.unfocusedHoverBorder": "#2d2a2e",
@@ -244,7 +244,7 @@
         "editorInfo.foreground": "#84b3f5",
         "editorLightBulb.foreground": "#ffd866",
         "editorLightBulbAutoFix.foreground": "#a9dc76",
-        // "editorLineNumber.activeForeground": "#ff0000",
+        "editorLineNumber.activeForeground": "#b3d0f9",
         "editorLineNumber.foreground": "#5b595c",
         "editorLink.activeForeground": "#78dce8",
         "editorMarkerNavigation.background": "#403e41",
@@ -354,9 +354,9 @@
         "titleBar.inactiveBackground": "#221f22",
         "titleBar.inactiveForeground": "#5b595c",
         // MENU BAR
-        // "menu.background": "#ff0000",
+        "menu.background": "#221f22",
         // "menu.border": "#ff0000",
-        // "menu.foreground": "#ff0000",
+        "menu.foreground": "#fcfcfa",
         "menu.selectionBackground": "#3C393E",
         // "menu.selectionBorder": "#ff0000",
         // "menu.selectionForeground": "#ff0000",
@@ -538,6 +538,9 @@
             "foreground": "#ff6188"
         },
         "function": {
+            "foreground": "#a9dc76"
+        },
+        "method": {
             "foreground": "#a9dc76"
         },
         "magicFunction": {
@@ -732,7 +735,7 @@
             ],
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#716A60"
+                "foreground": "#717171"
             }
         },
         {
