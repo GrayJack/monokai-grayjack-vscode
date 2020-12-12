@@ -4,6 +4,8 @@ All notable changes to the "monokai-grayjack" extension will be documented in th
 
 ## Unreleased
 
+## 0.3.0
+
 - Change bits of overall theme
 - Tweaks semantic tokens coloring for Rust (rust-analyzer)
 
