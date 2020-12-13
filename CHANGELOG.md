@@ -4,6 +4,10 @@ All notable changes to the "monokai-grayjack" extension will be documented in th
 
 ## Unreleased
 
+## 0.3.1
+
+- Fix CHANGELOG and README in the marketplace
+
 ## 0.3.0
 
 - Change bits of overall theme
