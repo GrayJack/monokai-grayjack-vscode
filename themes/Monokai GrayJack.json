@@ -692,6 +692,9 @@
 		"variable.readonly": {
 			"foreground": "#AA7DFC"
 		},
+		"keywordLiteral:zig": {
+            "foreground": "#AA7DFC"
+        },
 		"keyword.unsafe": {
 			"foreground": "#ff6897"
 		},
@@ -719,9 +722,33 @@
             "foreground": "#5596f1",
             "fontStyle": "italic",
 		},
-		// "punctuation": {
-		// 	"foreground": "#fcfcfa",
-		// },
+		"bracket:rust": {
+            "foreground": "#fcfcfa",
+        },
+        "brace:rust": {
+            "foreground": "#fcfcfa",
+        },
+        "parenthesis:rust": {
+            "foreground": "#fcfcfa",
+        },
+        "angle:rust": {
+            "foreground": "#fcfcfa",
+        },
+        "comma:rust": {
+            "foreground": "#fcfcfa",
+        },
+        "dot:rust": {
+            "foreground": "#fcfcfa",
+        },
+        "colon:rust": {
+            "foreground": "#fcfcfa",
+        },
+        "semicolon:rust": {
+            "foreground": "#fcfcfa",
+        },
+        // "punctuation:rust": {
+        // 	"foreground": "#fcfcfa",
+        // },
 	},
 	"tokenColors": [
 		{
