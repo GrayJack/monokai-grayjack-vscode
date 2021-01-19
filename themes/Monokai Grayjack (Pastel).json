@@ -602,10 +602,6 @@
             "fontStyle": "underline",
             "foreground": "#84b3f5"
         },
-        "tagField": {
-            "fontStyle": "underline",
-            "foreground": "#84b3f5"
-        },
         "errorTag": {
             "fontStyle": "underline",
             "foreground": "#84b3f5"
@@ -682,9 +678,6 @@
         //     "fontStyle": ""
         // },
         "parameter.declaration": {
-            "foreground": "#fc9867"
-        },
-        "parameter.definition": {
             "foreground": "#fc9867"
         },
         "variable.constant": {
