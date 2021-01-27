@@ -719,18 +719,6 @@
             "foreground": "#84b3f5",
             "fontStyle": "italic",
         },
-        "bracket:rust": {
-            "foreground": "#fcfcfa",
-        },
-        "brace:rust": {
-            "foreground": "#fcfcfa",
-        },
-        "parenthesis:rust": {
-            "foreground": "#fcfcfa",
-        },
-        "angle:rust": {
-            "foreground": "#fcfcfa",
-        },
         "comma:rust": {
             "foreground": "#fcfcfa",
         },
