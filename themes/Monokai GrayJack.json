@@ -614,6 +614,9 @@
 		"namespace": {
 			"foreground": "#fcfcfa"
 		},
+		"namespace:go": {
+			"foreground": "#CC8D66"
+		},
 		"variable": {
 			"foreground": "#fcfcfa"
 		},

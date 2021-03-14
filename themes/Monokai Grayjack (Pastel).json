@@ -615,6 +615,9 @@
         "namespace": {
             "foreground": "#fcfcfa"
         },
+        "namespace:go": {
+            "foreground": "#d29b79"
+        },
         "variable": {
             "foreground": "#fcfcfa"
         },
@@ -705,6 +708,21 @@
             "fontStyle": "underline",
             // "foreground": "#fab464"
         },
+        // "comma:rust": {
+        //     "foreground": "#fcfcfa",
+        // },
+        "dot:rust": {
+            "foreground": "#fcfcfa",
+        },
+        "colon:rust": {
+            "foreground": "#fcfcfa",
+        },
+        "semicolon:rust": {
+            "foreground": "#fcfcfa",
+        },
+        // "punctuation:rust": {
+        // 	"foreground": "#fcfcfa",
+        // },
         "*.callable": {
             "foreground": "#a9dc76"
         },
@@ -719,21 +737,6 @@
             "foreground": "#84b3f5",
             "fontStyle": "italic",
         },
-        "comma:rust": {
-            "foreground": "#fcfcfa",
-        },
-        "dot:rust": {
-            "foreground": "#fcfcfa",
-        },
-        "colon:rust": {
-            "foreground": "#fcfcfa",
-        },
-        "semicolon:rust": {
-            "foreground": "#fcfcfa",
-        },
-        // "punctuation:rust": {
-        // 	"foreground": "#fcfcfa",
-        // },
     },
     "tokenColors": [
         {
