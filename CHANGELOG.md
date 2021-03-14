@@ -4,9 +4,19 @@ All notable changes to the "monokai-grayjack" extension will be documented in th
 
 ## Unreleased
 
+## 0.3.4
+
 - Tweak semantic tokens coloring for Zig (ZLS for VSCode)
 - Tweak semantic tokens coloring for Rust (rust-analyzer)
 - Tweak semantic tokens coloring for Go (Go with gopls)
+
+## 0.3.3
+
+- Tweak semantic tokens coloring for Rust (rust-analyzer)
+
+## 0.3.2
+
+- Tweak semantic tokens coloring for Rust (rust-analyzer)
 
 ## 0.3.1
 
