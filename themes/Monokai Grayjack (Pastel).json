@@ -683,6 +683,9 @@
         "parameter.declaration": {
             "foreground": "#fc9867"
         },
+        "parameter.definition:go": {
+            "foreground": "#fc9867"
+        },
         "variable.constant": {
             "foreground": "#ab9df2"
         },

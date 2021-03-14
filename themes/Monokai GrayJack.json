@@ -679,6 +679,9 @@
 		"parameter.declaration": {
 			"foreground": "#FAA23D"
 		},
+		"parameter.definition:go": {
+			"foreground": "#FAA23D"
+		},
 		"variable.constant": {
 			"foreground": "#AA7DFC"
 		},
