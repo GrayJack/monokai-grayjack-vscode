@@ -668,14 +668,6 @@
 			"foreground": "#fcfcfa",
 			"fontStyle": ""
 		},
-		// "parameter:rust": {
-		// 	"foreground": "#fcfcfa",
-		// 	"fontStyle": ""
-		// },
-		// "parameter:typescript": {
-		// 	"foreground": "#fcfcfa",
-		// 	"fontStyle": ""
-		// },
 		"parameter.declaration": {
 			"foreground": "#FAA23D"
 		},
@@ -703,25 +695,7 @@
 		"operator.controlFlow": {
 			"foreground": "#CC8D66"
 		},
-		"*.mutable": {
-			"fontStyle": "underline",
-			// "foreground": "#fab464"
-		},
-		"*.callable": {
-            "foreground": "#B2E64C"
-        },
-		"*.attribute": {
-			"foreground": "#FAF7B1"
-		},
-		"*.typeHint": {
-            "foreground": "#66CCe1",
-            "fontStyle": "italic",
-        },
-		"*.decorator": {
-            "foreground": "#5596f1",
-            "fontStyle": "italic",
-		},
-        "comma:rust": {
+		"comma:rust": {
             "foreground": "#fcfcfa",
         },
         "dot:rust": {
@@ -733,9 +707,42 @@
         "semicolon:rust": {
             "foreground": "#fcfcfa",
         },
-        // "punctuation:rust": {
-        // 	"foreground": "#fcfcfa",
-        // },
+        "angle:rust": {
+            "foreground": "#fcfcfa",
+        },
+        "brace:rust": {
+            "foreground": "#fcfcfa",
+        },
+        "bracket:rust": {
+            "foreground": "#fcfcfa",
+        },
+		"punctuation.injected:rust": {
+            "foreground": "#fcfcfa",
+        },
+        "generic:rust": {
+            "foreground": "#fcfcfa",
+        },
+		"*.mutable": {
+			"fontStyle": "underline",
+			// "foreground": "#fab464"
+		},
+		"*.callable": {
+            "foreground": "#B2E64C"
+        },
+		"*.attribute": {
+			"foreground": "#FAF7B1"
+		},
+		"*.attribute:rust": {
+            "foreground": "#FAF7B1"
+        },
+		"*.typeHint": {
+            "foreground": "#66CCe1",
+            "fontStyle": "italic",
+        },
+		"*.decorator": {
+            "foreground": "#5596f1",
+            "fontStyle": "italic",
+		},
 	},
 	"tokenColors": [
 		{

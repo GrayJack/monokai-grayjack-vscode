@@ -672,14 +672,6 @@
         "string": {
             "foreground": "#ffd866"
         },
-        // "parameter:rust": {
-        //     "foreground": "#fcfcfa",
-        //     "fontStyle": ""
-        // },
-        // "parameter:typescript": {
-        //     "foreground": "#fcfcfa",
-        //     "fontStyle": ""
-        // },
         "parameter.declaration": {
             "foreground": "#fc9867"
         },
@@ -707,13 +699,9 @@
         "operator.controlFlow": {
             "foreground": "#d29b79"
         },
-        "*.mutable": {
-            "fontStyle": "underline",
-            // "foreground": "#fab464"
+        "comma:rust": {
+            "foreground": "#fcfcfa",
         },
-        // "comma:rust": {
-        //     "foreground": "#fcfcfa",
-        // },
         "dot:rust": {
             "foreground": "#fcfcfa",
         },
@@ -723,13 +711,35 @@
         "semicolon:rust": {
             "foreground": "#fcfcfa",
         },
-        // "punctuation:rust": {
-        // 	"foreground": "#fcfcfa",
-        // },
+        "angle:rust": {
+            "foreground": "#fcfcfa",
+        },
+        "brace:rust": {
+            "foreground": "#fcfcfa",
+        },
+        "bracket:rust": {
+            "foreground": "#fcfcfa",
+        },
+        "parenthesis:rust": {
+            "foreground": "#fcfcfa",
+        },
+        "punctuation.injected:rust": {
+            "foreground": "#fcfcfa",
+        },
+        "generic:rust": {
+            "foreground": "#fcfcfa",
+        },
+        "*.mutable": {
+            "fontStyle": "underline",
+            // "foreground": "#fab464"
+        },
         "*.callable": {
             "foreground": "#a9dc76"
         },
         "*.attribute": {
+            "foreground": "#ffe599"
+        },
+        "*.attribute:rust": {
             "foreground": "#ffe599"
         },
         "*.typeHint": {
