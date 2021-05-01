@@ -4,6 +4,9 @@ All notable changes to the "monokai-grayjack" extension will be documented in th
 
 ## Unreleased
 
+-   Tweak semantic tokens coloring for TOML (Even Better TOML)
+-   Tweak TextMate for TOML (Even Better TOML)
+
 ## 0.3.5
 
 -   Tweak semantic tokens coloring for Rust (rust-analyzer)

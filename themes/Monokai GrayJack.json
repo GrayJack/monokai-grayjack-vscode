@@ -547,6 +547,13 @@
 			"foreground": "#B2E64C",
 			"fontStyle": "italic"
         },
+		"tomlArrayKey": {
+            "foreground": "#B2E64C"
+        },
+		"tomlTableKey": {
+			"foreground": "#AA7DFC",
+			"fontStyle": ""
+		},
 		"number": {
 			"foreground": "#AA7DFC"
 		},
@@ -846,6 +853,7 @@
 			"scope": [
 				"entity.name.tag",
 				"meta.tag.sgml",
+				"variable.key.toml"
 			],
 			"settings": {
 				"foreground": "#FF3574"
@@ -1012,7 +1020,8 @@
 				"punctuation.brackets.attribute.rust",
 				"punctuation.definition.attribute.rust",
 				"entity.name.function.preprocessor.nim",
-				"constant.other.linkage.d"
+				"constant.other.linkage.d",
+				"variable.key.array.table.toml"
 			],
 			"settings": {
 				"foreground": "#FAF7B1",
@@ -1058,12 +1067,13 @@
 			"scope": [
 				"support.type",
 				"support.class",
-				"support.orther.namespace.use.php",
+				"support.other.namespace.use.php",
 				"meta.use.php",
 				"support.other.namespace.php",
 				"markup.changed.git_gutter",
 				"support.type.sys-types",
 				"entity.other.attribute-name.table.toml",
+				"variable.key.table.toml",
 				"storage.type.haskell",
 				"storage.type.java",
 				"storage.type.primitive.java",
@@ -1103,7 +1113,7 @@
 				"storage.type.string.python",
 				"variable.other.metavariable.specifier.rust",
 				"entity.other.attribute-name.pseudo-class.css",
-				"entity.other.attribute-name.class.css"
+				"entity.other.attribute-name.class.css",
 			],
 			"settings": {
 				"foreground": "#66CCE1",
