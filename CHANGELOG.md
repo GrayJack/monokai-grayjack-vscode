@@ -4,6 +4,12 @@ All notable changes to the "monokai-grayjack" extension will be documented in th
 
 ## Unreleased
 
+## 0.3.7
+
+-   Fix CHANGELOG
+
+## 0.3.6
+
 -   Tweak semantic tokens coloring for TOML (Even Better TOML)
 -   Tweak TextMate for TOML (Even Better TOML)
 
