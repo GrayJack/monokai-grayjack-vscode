@@ -639,6 +639,10 @@
 		"namespace:go": {
 			"foreground": "#CC8D66"
 		},
+		"namespace:typescript": {
+			"foreground": "#CC8D66",
+			"fontStyle": "italic"
+        },
 		"variable": {
 			"foreground": "#fcfcfa"
 		},
@@ -796,9 +800,18 @@
                 "punctuation.definition.tag.html",
                 "punctuation.definition.tag.begin.html",
                 "punctuation.definition.tag.end.html",
+				"variable.other.readwrite"
 			],
 			"settings": {
 				"foreground": "#fcfcfa"
+			}
+		},
+		{
+			"name": "Mutable variables",
+			"scope": [],
+			"settings": {
+				"foreground": "#ffffff",
+				"fontStyle": "underline"
 			}
 		},
 		{

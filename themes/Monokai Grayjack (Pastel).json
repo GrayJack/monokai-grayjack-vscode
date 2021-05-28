@@ -675,6 +675,10 @@
 			"foreground": "#d29b79",
 			"fontStyle": "italic"
 		},
+        "namespace:typescript": {
+			"foreground": "#d29b79",
+			"fontStyle": "italic"
+        },
         "selfKeyword": {
             "fontStyle": "italic",
             "foreground": "#fc9867"
@@ -802,11 +806,20 @@
                 "punctuation.definition.tag.html",
                 "punctuation.definition.tag.begin.html",
                 "punctuation.definition.tag.end.html",
+                "variable.other.readwrite",
             ],
             "settings": {
                 "foreground": "#fcfcfa"
             }
         },
+        {
+			"name": "Mutable variables",
+			"scope": [],
+			"settings": {
+				"foreground": "#ffffff",
+				"fontStyle": "underline"
+			}
+		},
         {
             "name": "Colors",
             "scope": [
