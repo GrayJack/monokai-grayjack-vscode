@@ -538,6 +538,18 @@
         "operator": {
             "foreground": "#ff6188"
         },
+        "bitwise": {
+            "foreground": "#ff6188"
+        },
+        "comparison": {
+            "foreground": "#ff6188"
+        },
+        "logical": {
+            "foreground": "#ff6188"
+        },
+        "arithmetic": {
+            "foreground": "#ff6188"
+        },
         "function": {
             "foreground": "#a9dc76"
         },
@@ -561,6 +573,9 @@
         "boolean": {
             "foreground": "#ab9df2"
         },
+        "constParameter": {
+			"foreground": "#ab9df2"
+		},
         "escapeSequence": {
             "foreground": "#ab9df2",
             "fontStyle": "italic"
@@ -712,9 +727,9 @@
         "dot:rust": {
             "foreground": "#fcfcfa",
         },
-        "colon:rust": {
-            "foreground": "#fcfcfa",
-        },
+        // "colon:rust": {
+        //     "foreground": "#fcfcfa",
+        // },
         "semicolon:rust": {
             "foreground": "#fcfcfa",
         },

@@ -537,6 +537,18 @@
 		"operator": {
 			"foreground": "#FF3574"
 		},
+		"bitwise": {
+            "foreground": "#FF3574"
+        },
+		"comparison": {
+            "foreground": "#FF3574"
+        },
+        "logical": {
+            "foreground": "#FF3574"
+        },
+        "arithmetic": {
+            "foreground": "#FF3574"
+        },
 		"function": {
 			"foreground": "#B2E64C"
 		},
@@ -558,6 +570,9 @@
 			"foreground": "#AA7DFC"
 		},
 		"boolean": {
+			"foreground": "#AA7DFC"
+		},
+		"constParameter": {
 			"foreground": "#AA7DFC"
 		},
 		"escapeSequence": {
@@ -708,9 +723,9 @@
         "dot:rust": {
             "foreground": "#fcfcfa",
         },
-        "colon:rust": {
-            "foreground": "#fcfcfa",
-        },
+        // "colon:rust": {
+        //     "foreground": "#fcfcfa",
+        // },
         "semicolon:rust": {
             "foreground": "#fcfcfa",
         },
