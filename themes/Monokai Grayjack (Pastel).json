@@ -574,7 +574,8 @@
             "foreground": "#ab9df2"
         },
         "constParameter": {
-			"foreground": "#ab9df2"
+			"foreground": "#ab9df2",
+            "fontStyle": ""
 		},
         "escapeSequence": {
             "foreground": "#ab9df2",
@@ -757,7 +758,12 @@
         },
         "*.mutable": {
             "fontStyle": "underline",
-            // "foreground": "#fab464"
+        },
+        "arithmetic.mutable": {
+            "fontStyle": "none",
+        },
+        "bitwise.mutable": {
+            "fontStyle": "none",
         },
         "*.callable": {
             "foreground": "#a9dc76"
@@ -955,6 +961,7 @@
                 "variable.other.generic-type.haskell",
                 "punctuation.definition.template-expression",
                 "constant.other.placeholder.c",
+                "entity.name.type.module.ts",
                 // "variable.interpolation.julia",
             ],
             "settings": {
