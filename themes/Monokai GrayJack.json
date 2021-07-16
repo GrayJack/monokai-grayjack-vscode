@@ -941,6 +941,7 @@
 				"entity.name.type.option.rust",
 				"entity.name.type.result.rust",
 				"constant.other.haskell",
+				"variable.other.enummember.cpp",
 			],
 			"settings": {
 				"foreground": "#5596f1",
