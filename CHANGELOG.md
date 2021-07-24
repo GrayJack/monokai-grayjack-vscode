@@ -4,6 +4,8 @@ All notable changes to the "monokai-grayjack" extension will be documented in th
 
 ## Unreleased
 
+## 0.3.8
+
 -   Tweak semantic tokens coloring for Rust (rust-analyzer)
 -   Tweak smeantic tokens coloring for TypeScript (Native plugin/JavaScript and TypeScript next)
 -   Tweak TextMate for TypeScript
