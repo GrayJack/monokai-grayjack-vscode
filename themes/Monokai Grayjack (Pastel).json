@@ -1099,12 +1099,22 @@
         {
             "name": "Lisp keyword",
             "scope": [
-                "constant.keyword.janet"
+                "constant.keyword.janet",
             ],
             "settings": {
                 "foreground": "#fc9867",
             }
         },
+        {
+			"name": "Lisp keyword2",
+			"scope": [
+				"keyword.other.racket"
+			],
+			"settings": {
+				"foreground": "#fc9867",
+				"fontStyle": "italic"
+			}
+		},
         {
             "name": "Class, Support",
             "scope": [

@@ -1092,10 +1092,20 @@
 		{
 			"name": "Lisp keyword",
 			"scope": [
-				"constant.keyword.janet"
+				"constant.keyword.janet",
 			],
 			"settings": {
 				"foreground": "#FAA23D",
+			}
+		},
+		{
+			"name": "Lisp keyword2",
+			"scope": [
+				"keyword.other.racket"
+			],
+			"settings": {
+				"foreground": "#FAA23D",
+				"fontStyle": "italic"
 			}
 		},
 		{
