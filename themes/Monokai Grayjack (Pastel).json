@@ -345,8 +345,8 @@
         "statusBarItem.prominentBackground": "#403e41",
         // "statusBarItem.prominentForeground": "#ff0000",
         "statusBarItem.prominentHoverBackground": "#403e41",
-        "statusBarItem.remoteBackground": "#221f22",
-        "statusBarItem.remoteForeground": "#a9dc76",
+        "statusBarItem.remoteBackground": "#a9dc76",
+        "statusBarItem.remoteForeground": "#221f22",
         // TITLE BAR
         "titleBar.activeBackground": "#221f22",
         "titleBar.activeForeground": "#939293",

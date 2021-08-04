@@ -4,7 +4,8 @@ All notable changes to the "monokai-grayjack" extension will be documented in th
 
 ## Unreleased
 
-- Tweak TextMate for Racket (Magic Racket)
+-   Tweak TextMate for Racket (Magic Racket)
+-   Tweak UI colors
 
 ## 0.3.8
 
