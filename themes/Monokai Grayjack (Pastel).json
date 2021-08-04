@@ -583,15 +583,15 @@
         },
         "builtinType": {
             "foreground": "#78dce8",
-            "fontStyle": "italic",
+            // "fontStyle": "italic",
         },
         "typeAlias": {
             "foreground": "#78dce8",
-            "fontStyle": "italic",
+            // "fontStyle": "italic",
         },
         "typeParameter": {
             "foreground": "#78dce8",
-            "fontStyle": "italic",
+            // "fontStyle": "italic",
         },
         "interface": {
             "foreground": "#78dce8",
@@ -599,27 +599,27 @@
         },
         "struct": {
             "foreground": "#78dce8",
-            "fontStyle": "italic",
+            // "fontStyle": "italic",
         },
         "union": {
             "foreground": "#78dce8",
-            "fontStyle": "italic",
+            // "fontStyle": "italic",
         },
         "enum": {
             "foreground": "#78dce8",
-            "fontStyle": "italic",
+            // "fontStyle": "italic",
         },
         "type": {
             "foreground": "#78dce8",
-            "fontStyle": "italic",
+            // "fontStyle": "italic",
         },
         "type.c": {
             "foreground": "#78dce8",
-            "fontStyle": "italic",
+            // "fontStyle": "italic",
         },
         "class": {
             "foreground": "#78dce8",
-            "fontStyle": "italic",
+            // "fontStyle": "italic",
         },
         "enumMember": {
             "fontStyle": "underline",
@@ -776,7 +776,7 @@
         },
         "*.typeHint": {
             "foreground": "#78dce8",
-            "fontStyle": "italic",
+            // "fontStyle": "italic",
         },
         "*.decorator": {
             "foreground": "#84b3f5",
@@ -1153,7 +1153,7 @@
             ],
             "settings": {
                 "foreground": "#78dce8",
-                "fontStyle": "italic",
+                // "fontStyle": "italic",
             }
         },
         {
@@ -1170,7 +1170,7 @@
             ],
             "settings": {
                 "foreground": "#78dce8",
-                "fontStyle": "italic",
+                // "fontStyle": "italic",
             }
         },
         {

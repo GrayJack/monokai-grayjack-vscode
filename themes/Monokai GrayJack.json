@@ -582,15 +582,15 @@
 		},
 		"builtinType": {
 			"foreground": "#66CCE1",
-			"fontStyle": "italic",
+			// "fontStyle": "italic",
 		},
 		"typeAlias": {
 			"foreground": "#66CCE1",
-			"fontStyle": "italic",
+			// "fontStyle": "italic",
 		},
 		"typeParameter": {
 			"foreground": "#66CCE1",
-			"fontStyle": "italic",
+			// "fontStyle": "italic",
 		},
 		"interface": {
 			"foreground": "#66CCE1",
@@ -598,27 +598,27 @@
 		},
 		"struct": {
 			"foreground": "#66CCE1",
-			"fontStyle": "italic",
+			// "fontStyle": "italic",
 		},
 		"union": {
 			"foreground": "#66CCE1",
-			"fontStyle": "italic",
+			// "fontStyle": "italic",
 		},
 		"enum": {
 			"foreground": "#66CCE1",
-			"fontStyle": "italic",
+			// "fontStyle": "italic",
 		},
 		"type": {
 			"foreground": "#66CCe1",
-			"fontStyle": "italic",
+			// "fontStyle": "italic",
 		},
 		"type.c": {
 			"foreground": "#66CCe1",
-			"fontStyle": "italic",
+			// "fontStyle": "italic",
 		},
 		"class": {
 			"foreground": "#66CCe1",
-			"fontStyle": "italic",
+			// "fontStyle": "italic",
 		},
 		"enumMember": {
 			"fontStyle": "underline",
@@ -769,7 +769,7 @@
         },
 		"*.typeHint": {
             "foreground": "#66CCe1",
-            "fontStyle": "italic",
+            // "fontStyle": "italic",
         },
 		"*.decorator": {
             "foreground": "#5596f1",
@@ -1146,7 +1146,7 @@
 			],
 			"settings": {
 				"foreground": "#66CCE1",
-				"fontStyle": "italic",
+				// "fontStyle": "italic",
 			}
 		},
 		{
@@ -1163,7 +1163,7 @@
 			],
 			"settings": {
 				"foreground": "#66CCE1",
-				"fontStyle": "italic",
+				// "fontStyle": "italic",
 			}
 		},
 		{
