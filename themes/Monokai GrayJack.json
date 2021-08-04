@@ -38,7 +38,7 @@
 		// "contrastActiveBorder": "#ff0000",
 		// "contrastBorder":"#ff0000",
 		// BASE
-		"focusBorder": "#727072",
+		"focusBorder": "#84b3f5",
 		"foreground": "#fcfcfa",
 		"widget.shadow": "#19181a",
 		"selection.background": "#c1c0c026",

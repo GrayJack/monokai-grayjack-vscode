@@ -4,6 +4,10 @@ All notable changes to the "monokai-grayjack" extension will be documented in th
 
 ## Unreleased
 
+-   Tweak UI colors
+
+## 0.4.0
+
 -   Tweak TextMate for Racket (Magic Racket)
 -   Tweak UI colors
 -   Tweak standard semantic tokens for types (Concrete Types aren't italic, Interfaces remain italic)
