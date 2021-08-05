@@ -4,6 +4,8 @@ All notable changes to the this extension will be documented in this file.
 
 ## Unreleased
 
+## 0.6.0
+
 -   Add theme OneDark GrayJack
 -   Tweak UI colors on Monokai GrayJack (Solarized)
 -   Tweak semantic highlight so when generic font stylization don't lose inherited stylization
