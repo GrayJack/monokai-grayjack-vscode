@@ -4,6 +4,10 @@ All notable changes to the this extension will be documented in this file.
 
 ## Unreleased
 
+## 0.6.1
+
+-   Fix small mistake on UI colors
+
 ## 0.6.0
 
 -   Add theme OneDark GrayJack
