@@ -4,6 +4,9 @@ All notable changes to the "monokai-grayjack" extension will be documented in th
 
 ## Unreleased
 
+## 0.5.0
+
+-   Add theme Monokai GrayJack (Solarized)
 -   Tweak UI colors
 
 ## 0.4.0
