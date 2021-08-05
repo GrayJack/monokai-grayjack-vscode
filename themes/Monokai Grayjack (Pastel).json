@@ -299,7 +299,7 @@
         "peekViewEditor.matchHighlightBackground": "#5b595c",
         "peekViewEditor.matchHighlightBorder": "#5b595c",
         "peekViewEditorGutter.background": "#403e41",
-        "peekViewResult.background": "#403e41",
+        "peekViewResult.background": "#2d2a2e",
         "peekViewResult.fileForeground": "#939293",
         "peekViewResult.lineForeground": "#939293",
         "peekViewResult.matchHighlightBackground": "#5b595c",
@@ -379,9 +379,9 @@
         // EXTENSION
         // "extensionBadge.remoteBackground": "#ff0000",
         // "extensionBadge.remoteForeground": "#ff0000",
-        "extensionButton.prominentBackground": "#403e41",
+        "extensionButton.prominentBackground": "#a9dc76",
         "extensionButton.prominentForeground": "#fcfcfa",
-        "extensionButton.prominentHoverBackground": "#5b595c",
+        "extensionButton.prominentHoverBackground": "#c3e69f",
         // QUICK PICKER
         "pickerGroup.border": "#2d2a2e",
         "pickerGroup.foreground": "#5b595c",
