@@ -25,6 +25,12 @@
 				"label": "Monokai GrayJack (Pastel)",
 				"uiTheme": "vs-dark",
 				"path": "./themes/Monokai Grayjack (Pastel).json"
+			},
+			{
+				"label": "Monokai GrayJack (Solarized)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Monokai GrayJack (Solarized).json"
+			}
 			}
 		]
 	},
