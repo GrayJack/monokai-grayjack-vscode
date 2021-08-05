@@ -1,8 +1,13 @@
 # Change Log
 
-All notable changes to the "monokai-grayjack" extension will be documented in this file.
+All notable changes to the this extension will be documented in this file.
 
 ## Unreleased
+
+-   Add theme OneDark GrayJack
+-   Tweak UI colors on Monokai GrayJack (Solarized)
+-   Tweak semantic highlight so when generic font stylization don't lose inherited stylization
+-   Tweak semantic highligth for Rust (rust-analyzer): unsafe callables are now italic to distinct from mutable callables.
 
 ## 0.5.0
 
