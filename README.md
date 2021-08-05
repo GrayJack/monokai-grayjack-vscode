@@ -1,6 +1,8 @@
-# Monokai GrayJack
+# GrayJack Themes
 
-A brighter monokai theme variant for VSCode. Based on my Atom theme [monoka-grayjack-syntax](https://github.com/GrayJack/monokai-grayjack-syntax)
+My collection of themes based on classic/famous themes.
+
+For now only themes based on Monokai and OneDark
 
 ## Monokai GrayJack
 ![Preview Monokai Grayjack 1](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/preview-welcome.png)
@@ -11,6 +13,16 @@ A brighter monokai theme variant for VSCode. Based on my Atom theme [monoka-gray
 ![Preview Monokai Grayjack (Pastel) 1](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/preview-welcome-pastel.png)
 
 ![Preview Monokai Grayjack (Pastel) 2](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/preview-code-pastel.png)
+
+## Monokai GrayJack (Solarized)
+![Preview Monokai Grayjack (Solarized) 1](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/preview-welcome-solarized.png)
+
+![Preview Monokai Grayjack (Solarized) 2](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/preview-code-solarized.png)
+
+## OneDark GrayJack
+![Preview OneDark Grayjack 1](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/preview-welcome-onedark.png)
+
+![Preview OneDark Grayjack 2](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/preview-code-onedark.png)
 
 ## Customization
 
