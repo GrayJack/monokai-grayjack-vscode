@@ -1112,6 +1112,7 @@
                 "storage.type.d",
                 "support.type.python",
                 "basicTypes.nim",
+                "meta.class.stanza.dune",
             ],
             "settings": {
                 "foreground": "#56B6C2",

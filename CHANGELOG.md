@@ -4,6 +4,8 @@ All notable changes to the this extension will be documented in this file.
 
 ## Unreleased
 
+-   Tweak TextMate colors for dune files (Ocaml Platform)
+
 ## 0.6.2
 
 -   Fix small mistake on UI colors
