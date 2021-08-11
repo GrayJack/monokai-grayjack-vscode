@@ -5,6 +5,7 @@ All notable changes to the this extension will be documented in this file.
 ## Unreleased
 
 -   Tweak TextMate colors for dune files (Ocaml Platform)
+-   Tweak sidebar colors on Monokai GrayJack and Monokai GrayJack (Pastel)
 
 ## 0.6.2
 
