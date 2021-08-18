@@ -4,6 +4,11 @@ All notable changes to the this extension will be documented in this file.
 
 ## Unreleased
 
+- Fix: textMate tokens only accepts `fontStyle`
+- Tweak sidebar colors on Monokai GrayJack and Monokai GrayJack (Pastel)
+- Tweak ignored resources files color on Monokai GrayJack (Solarized) and
+  OneDark GrayJack
+
 ## 0.6.3
 
 - Tweak TextMate colors for dune files (Ocaml Platform)

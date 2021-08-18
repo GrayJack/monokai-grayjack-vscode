@@ -788,7 +788,7 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"italic": true,
+				"fontStyle": "italic",
 				"foreground": "#717171"
 			}
 		},
@@ -821,7 +821,7 @@
 			"scope": [],
 			"settings": {
 				"foreground": "#ffffff",
-				"underline": true
+				"fontStyle": "underline",
 			}
 		},
 		{
@@ -949,7 +949,7 @@
 			],
 			"settings": {
 				"foreground": "#5596f1",
-				"underline": true,
+				"fontStyle": "underline",
 			}
 		},
 		{
@@ -965,7 +965,7 @@
 			],
 			"settings": {
 				"foreground": "#CC8D66",
-				"italic": true
+				"fontStyle": "italic",
 			}
 		},
 		{
@@ -1109,7 +1109,7 @@
 			],
 			"settings": {
 				"foreground": "#FAA23D",
-				"italic": true
+				"fontStyle": "italic",
 			}
 		},
 		{
@@ -1203,7 +1203,7 @@
 				"variable.language"
 			],
 			"settings": {
-				"italic": true,
+				"fontStyle": "italic",
 				"foreground": "#FAA23D"
 			}
 		},
@@ -1213,7 +1213,7 @@
 				"entity.name.method.js"
 			],
 			"settings": {
-				"italic": true,
+				"fontStyle": "italic",
 				"foreground": "#B2E64C"
 			}
 		},
@@ -1309,7 +1309,7 @@
 			],
 			"settings": {
 				"foreground": "#AA7DFC",
-				"italic": true
+				"fontStyle": "italic",
 			}
 		},
 		{
@@ -1320,7 +1320,7 @@
 				"*uri*"
 			],
 			"settings": {
-				"underline": true
+				"fontStyle": "underline",
 			}
 		},
 		{
@@ -1338,7 +1338,7 @@
 				"entity.other.attribute-name.pseudo-element.css",
 			],
 			"settings": {
-				"italic": true,
+				"fontStyle": "italic",
 				"foreground": "#5596f1"
 			}
 		},
@@ -1348,7 +1348,7 @@
 				"source.js constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"italic": true,
+				"fontStyle": "italic",
 				"foreground": "#FF3574"
 			}
 		},
@@ -1488,7 +1488,7 @@
 				"markup.italic"
 			],
 			"settings": {
-				"italic": true,
+				"fontStyle": "italic",
 				"foreground": "#FAA23D"
 			}
 		},
@@ -1525,7 +1525,7 @@
 				"markup.underline"
 			],
 			"settings": {
-				"underline": true,
+				"fontStyle": "underline",
 				"foreground": "#F78C6C"
 			}
 		},
@@ -1554,7 +1554,7 @@
 				"markup.quote"
 			],
 			"settings": {
-				"italic": true,
+				"fontStyle": "italic",
 			}
 		},
 		{

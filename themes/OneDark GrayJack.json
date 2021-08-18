@@ -753,7 +753,7 @@
                 "punctuation.definition.comment"
             ],
             "settings": {
-                "italic": true,
+                "fontStyle": "italic",
                 "foreground": "#5C6370"
             }
         },
@@ -785,7 +785,7 @@
 			"scope": [],
 			"settings": {
 				"foreground": "#ABB2BF",
-				"underline": true
+				"fontStyle": "underline"
 			}
 		},
         {
@@ -899,7 +899,7 @@
             ],
             "settings": {
                 "foreground": "#61AFEF",
-                "bold": true
+                "fontStyle": "bold"
             }
         },
         {
@@ -913,7 +913,7 @@
             ],
             "settings": {
                 "foreground": "#E06C75",
-                "underline": true,
+                "fontStyle": "underline",
             }
         },
         {
@@ -929,7 +929,7 @@
             ],
             "settings": {
                 "foreground": "#528bff",
-                "italic": true
+                "fontStyle": "italic"
             }
         },
         {
@@ -1055,7 +1055,7 @@
             ],
             "settings": {
                 "foreground": "#be5046",
-                "italic": true
+                "fontStyle": "italic"
             }
         },
         {
@@ -1074,7 +1074,7 @@
 			],
 			"settings": {
 				"foreground": "#be5046",
-				"italic": true
+				"fontStyle": "italic"
 			}
 		},
         {
@@ -1168,7 +1168,7 @@
                 "variable.language"
             ],
             "settings": {
-                "italic": true,
+                "fontStyle": "italic",
                 "foreground": "#be5046"
             }
         },
@@ -1178,7 +1178,7 @@
                 "entity.name.method.js"
             ],
             "settings": {
-                "italic": true,
+                "fontStyle": "italic",
                 "foreground": "#61AFEF"
             }
         },
@@ -1219,7 +1219,7 @@
                 "entity.other.attribute-name.class"
             ],
             "settings": {
-                "italic": true,
+                "fontStyle": "italic",
                 "foreground": "#e5c07b"
                 // "foreground": "#FFCB6B"
             }
@@ -1267,7 +1267,7 @@
             ],
             "settings": {
                 "foreground": "#98C379",
-                "italic": true
+                "fontStyle": "italic"
             }
         },
         {
@@ -1277,7 +1277,7 @@
             ],
             "settings": {
                 "foreground": "#D19A66",
-                "italic": true
+                "fontStyle": "italic"
             }
         },
         {
@@ -1288,7 +1288,7 @@
                 "*uri*"
             ],
             "settings": {
-                "underline": true
+                "fontStyle": "underline"
             }
         },
         {
@@ -1305,7 +1305,7 @@
                 "entity.other.attribute-name.pseudo-element.css",
             ],
             "settings": {
-                "italic": true,
+                "fontStyle": "italic",
                 "foreground": "#5596f1"
             }
         },
@@ -1315,7 +1315,7 @@
                 "source.js constant.other.object.key.js string.unquoted.label.js"
             ],
             "settings": {
-                "italic": true,
+                "fontStyle": "italic",
                 "foreground": "#E06C75"
             }
         },
@@ -1437,7 +1437,7 @@
             ],
             "settings": {
                 "foreground": "#E06C75",
-                "bold": true
+                "fontStyle": "bold"
             }
         },
         {
@@ -1455,7 +1455,7 @@
                 "markup.italic"
             ],
             "settings": {
-                "italic": true,
+                "fontStyle": "italic",
                 "foreground": "#D19A66"
             }
         },
@@ -1467,7 +1467,7 @@
                 "markup.bold string"
             ],
             "settings": {
-                "bold": true,
+                "fontStyle": "bold",
                 "foreground": "#D19A66"
             }
         },
@@ -1492,7 +1492,7 @@
                 "markup.underline"
             ],
             "settings": {
-                "underline": true,
+                "fontStyle": "underline",
                 "foreground": "#D19A66"
             }
         },
@@ -1503,7 +1503,7 @@
             ],
             "settings": {
                 "foreground": "#E06C75",
-                "bold": true
+                "fontStyle": "bold"
             }
         },
         {
@@ -1521,7 +1521,7 @@
                 "markup.quote"
             ],
             "settings": {
-                "italic": true,
+                "fontStyle": "italic",
             }
         },
         {
@@ -1604,7 +1604,7 @@
                 "meta.separator"
             ],
             "settings": {
-                "bold": true,
+                "fontStyle": "bold",
                 "foreground": "#65737E"
             }
         },
