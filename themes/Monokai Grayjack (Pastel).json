@@ -139,7 +139,7 @@
         "sideBar.foreground": "#939293",
         "sideBarTitle.foreground": "#c3e69f",
         "sideBarSectionHeader.background": "#403e41",
-        "sideBarSectionHeader.border": "#403e41",
+        "sideBarSectionHeader.border": "#19181a",
         "sideBarSectionHeader.foreground": "#dfb79f",
         // MINIMAP
         "minimap.background": "#221f22",
