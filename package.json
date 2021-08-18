@@ -45,6 +45,11 @@
 				"label": "OneDark GrayJack",
 				"uiTheme": "vs-dark",
 				"path": "./themes/OneDark GrayJack.json"
+			},
+			{
+				"label": "Ariake GrayJack",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Ariake Grayjack.json"
 			}
 		]
 	},
