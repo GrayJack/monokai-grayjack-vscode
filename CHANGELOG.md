@@ -4,6 +4,8 @@ All notable changes to the this extension will be documented in this file.
 
 ## Unreleased
 
+## 0.7.0
+
 - Add theme Ariake GrayJack
 - Fix: textMate tokens only accepts `fontStyle`
 - Tweak sidebar colors on Monokai GrayJack and Monokai GrayJack (Pastel)
