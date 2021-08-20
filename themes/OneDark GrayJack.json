@@ -26,7 +26,7 @@
         "textSeparator.foreground": "#727072",
         // BUTTON
         "button.background": "#4D78CC",
-        "button.foreground": "#ABB2BF",
+        "button.foreground": "#D7DAE0",
         "button.hoverBackground": "#6087CF",
         "button.secondaryBackground": "#3E4451",
         "button.secondaryForeground": "#939293",
@@ -324,7 +324,7 @@
         "titleBar.inactiveForeground": "#ABB2BF26",
         // MENU BAR
         "menu.background": "#221f22",
-        // "menu.border": "#ff0000",
+        // "menu.border": "#ff0https://github.com/microsoft/vscode/issues/131176000",
         "menu.foreground": "#ABB2BF",
         "menu.selectionBackground": "#3C393E",
         // "menu.selectionBorder": "#ff0000",

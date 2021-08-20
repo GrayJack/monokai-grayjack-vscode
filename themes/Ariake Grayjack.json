@@ -50,7 +50,7 @@
         "textSeparator.foreground": "#727072",
         // BUTTON
         "button.background": "#4d8acb",
-        "button.foreground": "#b9bed5",
+        "button.foreground": "#D7DAE0",
         "button.hoverBackground": "#85b1e0",
         "button.secondaryBackground": "#3c404e",
         "button.secondaryForeground": "#939293",

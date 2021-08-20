@@ -26,7 +26,7 @@
         "textSeparator.foreground": "#727072",
         // BUTTON
         "button.background": "#4D78CC",
-        "button.foreground": "#ABB2BF",
+        "button.foreground": "#D7DAE0",
         "button.hoverBackground": "#6087CF",
         "button.secondaryBackground": "#3E4451",
         "button.secondaryForeground": "#939293",

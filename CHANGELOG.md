@@ -4,6 +4,9 @@ All notable changes to the this extension will be documented in this file.
 
 ## Unreleased
 
+- Tweak button colors on Ariake GrayJack, Monokai GrayJack (Solarized) and
+  OneDark GrayJack
+
 ## 0.7.0
 
 - Add theme Ariake GrayJack
