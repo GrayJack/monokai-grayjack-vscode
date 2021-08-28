@@ -627,6 +627,7 @@
         },
         "errorTag": {
             "underline": true,
+            "italic": true,
             "foreground": "#84b3f5"
         },
         "macro": {

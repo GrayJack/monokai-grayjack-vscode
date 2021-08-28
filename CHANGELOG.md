@@ -7,6 +7,7 @@ All notable changes to the this extension will be documented in this file.
 - Change some OneDark colors
 - Tweak button colors on Ariake GrayJack, Monokai GrayJack (Solarized) and
   OneDark GrayJack
+- Tweak semantic styling on error variant in Zig (ZLS for VSCode)
 
 ## 0.7.0
 
