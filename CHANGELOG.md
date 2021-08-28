@@ -2,8 +2,9 @@
 
 All notable changes to the this extension will be documented in this file.
 
-## Unreleased
+## 0.8.0
 
+- Change some Ariake colors
 - Change some OneDark colors
 - Tweak button colors on Ariake GrayJack, Monokai GrayJack (Solarized) and
   OneDark GrayJack
