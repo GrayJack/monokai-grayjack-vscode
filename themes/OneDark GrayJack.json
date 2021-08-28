@@ -1,3 +1,13 @@
+// #E06C75: Fields and labels/lifetimes (italic) and controlflow operators and Namespace in some cases (italic)
+// #C678DD: Keywords and operators
+// #e06caf: unsafe/should be used with caution keywords
+// #be5046: Parameters and `this`/`self` (italic), lisp keywords
+// #98C379: strings
+// #e5c07b: Attributes
+// #61AFEF: Function/methods/callables (mutable => underline) (unsafe => italic)
+// #56B6C2: Types/Classes/Type Annotations/Interfaces
+// #8e85f5: Macros/Build-in functions and EnumVariants (underline) and decorators (italic)
+// #D19A66: Literals/Constants
 {
     "name": "OneDark GrayJack",
     "type": "dark",
@@ -6,7 +16,7 @@
         // "contrastActiveBorder": "#ff0000",
         // "contrastBorder":"#ff0000",
         // BASE
-        "focusBorder": "#528BFF",
+        "focusBorder": "#61AFEF",
         "foreground": "#ABB2BF",
         "widget.shadow": "#19181a",
         "selection.background": "#99BBFF0A",
@@ -434,9 +444,9 @@
         "symbolIcon.constantForeground": "#D19A66",
         "symbolIcon.constructorForeground": "#61AFEF",
         "symbolIcon.enumeratorForeground": "#56B6C2",
-        "symbolIcon.enumeratorMemberForeground": "#E06C75",
+        "symbolIcon.enumeratorMemberForeground": "#8e85f5",
         "symbolIcon.eventForeground": "#be5046",
-        "symbolIcon.fieldForeground": "#d29b79",
+        "symbolIcon.fieldForeground": "#E06C75",
         "symbolIcon.fileForeground": "#c1c0c0",
         "symbolIcon.folderForeground": "#c1c0c0",
         "symbolIcon.functionForeground": "#61AFEF",
@@ -444,15 +454,15 @@
         "symbolIcon.keyForeground": "#be5046",
         "symbolIcon.keywordForeground": "#C678DD",
         "symbolIcon.methodForeground": "#61AFEF",
-        "symbolIcon.moduleForeground": "#d29b79",
-        "symbolIcon.namespaceForeground": "#d29b79",
+        "symbolIcon.moduleForeground": "#E06C75",
+        "symbolIcon.namespaceForeground": "#E06C75",
         "symbolIcon.nullForeground": "#D19A66",
         "symbolIcon.numberForeground": "#D19A66",
         "symbolIcon.objectForeground": "#56B6C2",
         "symbolIcon.operatorForeground": "#C678DD",
         "symbolIcon.unitForeground": "#D19A66",
-        "symbolIcon.packageForeground": "#d29b79",
-        "symbolIcon.propertyForeground": "#ffe599",
+        "symbolIcon.packageForeground": "#e06caf",
+        "symbolIcon.propertyForeground": "#e5c07b",
         "symbolIcon.referenceForeground": "#be5046",
         "symbolIcon.structForeground": "#56B6C2",
         "symbolIcon.snippetForeground": "#E06C75",
@@ -583,19 +593,17 @@
 		},
 		"enumMember": {
 			"underline": true,
-			"foreground": "#E06C75"
+			"foreground": "#8e85f5"
 		},
 		"errorTag": {
 			"underline": true,
-			"foreground": "#E06C75"
+			"foreground": "#8e85f5"
 		},
 		"macro": {
-			"foreground": "#61AFEF",
-            "bold": true
+			"foreground": "#8e85f5",
 		},
 		"builtin": {
-			"foreground": "#61AFEF",
-            "bold": true
+			"foreground": "#8e85f5",
 		},
 		"namespace": {
 			"foreground": "#ABB2BF"
@@ -621,26 +629,26 @@
 			"foreground": "#E06C75"
 		},
 		"module": {
-			"foreground": "#98C379",
+			"foreground": "#E06C75",
 			"italic": true
         },
 		"attribute": {
 			"foreground": "#e5c07b"
 		},
 		"formatSpecifier": {
-			"foreground": "#528bff",
+			"foreground": "#E06C75",
 			"bold": true
 		},
 		"lifetime": {
-			"foreground": "#528bff",
+			"foreground": "#E06C75",
 			"italic": true
 		},
 		"label": {
-			"foreground": "#528bff",
+			"foreground": "#E06C75",
 			"italic": true
 		},
 		"type.namespace:zig": {
-			"foreground": "#D19A66",
+			"foreground": "#E06C75",
 			"italic": true
 		},
 		"selfKeyword": {
@@ -659,12 +667,13 @@
 			"foreground": "#ABB2BF",
 			"fontStyle": ""
 		},
+        "string": {
+            "foreground": "#98C379"
+        },
 		"parameter.declaration": {
-            "italic": true,
 			"foreground": "#be5046"
 		},
 		"parameter.definition:go": {
-            "italic": true,
 			"foreground": "#be5046"
 		},
 		"variable.constant": {
@@ -680,7 +689,7 @@
             "foreground": "#D19A66"
         },
 		"keyword.unsafe": {
-			"foreground": "#be5046",
+			"foreground": "#e06caf",
 			"fontStyle": "none"
 		},
         "interface.unsafe": {
@@ -690,7 +699,7 @@
 			"italic": true,
 		},
 		"operator.controlFlow": {
-			"foreground": "#5596f1"
+			"foreground": "#E06C75"
 		},
 		"comma:rust": {
             "foreground": "#ABB2BF",
@@ -741,7 +750,7 @@
             "foreground": "#56B6C2",
         },
 		"*.decorator": {
-            "foreground": "#5596f1",
+            "foreground": "#8e85f5",
             "italic": true,
 		},
 	},
@@ -804,7 +813,7 @@
                 "invalid.illegal"
             ],
             "settings": {
-                "foreground": "#be5046"
+                "foreground": "#e06caf"
             }
         },
         {
@@ -898,8 +907,7 @@
                 "support.function.builtin.zig",
             ],
             "settings": {
-                "foreground": "#61AFEF",
-                "fontStyle": "bold"
+                "foreground": "#8e85f5",
             }
         },
         {
@@ -912,7 +920,7 @@
                 "variable.other.enummember.cpp",
             ],
             "settings": {
-                "foreground": "#E06C75",
+                "foreground": "#8e85f5",
                 "fontStyle": "underline",
             }
         },
@@ -928,7 +936,7 @@
                 // "variable.interpolation.julia",
             ],
             "settings": {
-                "foreground": "#528bff",
+                "foreground": "#E06C75",
                 "fontStyle": "italic"
             }
         },
@@ -946,7 +954,7 @@
                 "entity.name.package.go",
             ],
             "settings": {
-                "foreground": "#528bff",
+                "foreground": "#E06C75",
             }
         },
         {
@@ -1010,7 +1018,7 @@
                 "keyword.other.unsafe",
             ],
             "settings": {
-                "foreground": "#be5046",
+                "foreground": "#e06caf",
             }
         },
         {
@@ -1055,7 +1063,6 @@
             ],
             "settings": {
                 "foreground": "#be5046",
-                "fontStyle": "italic"
             }
         },
         {
@@ -1306,7 +1313,7 @@
             ],
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#5596f1"
+                "foreground": "#8e85f5"
             }
         },
         {
@@ -1397,7 +1404,7 @@
                 "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
             ],
             "settings": {
-                "foreground": "#5596f1"
+                "foreground": "#8e85f5"
             }
         },
         {

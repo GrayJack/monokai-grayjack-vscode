@@ -1,3 +1,14 @@
+// #d29b79: Fields and labels/lifetimes (italic) and Namespace in some cases (italic)
+// #ff6188: Keywords
+// #ff94ae: unsafe/should be used with caution keywords
+// #fc9867: Parameters and `this`/`self` (italic) and lisp keywords
+// #ffd866: strings
+// #ffe599: Attributes
+// #a9dc76: Function/methods/callables (mutable => underline) (unsafe => italic)
+// #78dce8: Types/Classes/Type Annotations
+// #84b3f5: Macros/Build-in functions and EnumVariants (underline) and decorators (italic)
+// #ab9df2: Literals/Constants
+
 {
     "name": "Monokai GrayJack (Solarized)",
     "type": "dark",
@@ -608,7 +619,8 @@
             "foreground": "#ABB2BF"
         },
         "namespace:go": {
-            "foreground": "#d29b79"
+            "foreground": "#d29b79",
+            "italic": true
         },
         "variable": {
             "foreground": "#ABB2BF"
@@ -631,7 +643,7 @@
         },
         "formatSpecifier": {
             "foreground": "#d29b79",
-            "fontStyle": "bold"
+            "bold": true
         },
         "lifetime": {
             "foreground": "#d29b79",
@@ -711,9 +723,9 @@
         "semicolon:rust": {
             "foreground": "#ABB2BF",
         },
-        // "angle:rust": {
-        //     "foreground": "#ABB2BF",
-        // },
+        "angle:rust": {
+            "foreground": "#ABB2BF",
+        },
         "brace:rust": {
             "foreground": "#ABB2BF",
         },
