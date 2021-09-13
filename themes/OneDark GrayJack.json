@@ -1035,7 +1035,8 @@
                 "punctuation.definition.attribute.rust",
                 "entity.name.function.preprocessor.nim",
                 "constant.other.linkage.d",
-                "variable.key.array.table.toml"
+                "variable.key.array.table.toml",
+				"support.function.attribute.fsharp"
             ],
             "settings": {
                 "foreground": "#E5C07B",

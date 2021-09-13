@@ -2,6 +2,8 @@
 
 All notable changes to the this extension will be documented in this file.
 
+- Tweak TextMate for F#
+
 ## 0.8.0
 
 - Change some Ariake colors
