@@ -39,7 +39,7 @@ All notable changes to the this extension will be documented in this file.
 - Tweak UI colors on Monokai GrayJack (Solarized)
 - Tweak semantic highlight so when generic font stylization don't lose inherited
   stylization
-- Tweak semantic highligth for Rust (rust-analyzer): unsafe callables are now
+- Tweak semantic highlight for Rust (rust-analyzer): unsafe callables are now
   italic to distinct from mutable callables.
 
 ## 0.5.0
@@ -57,7 +57,7 @@ All notable changes to the this extension will be documented in this file.
 ## 0.3.8
 
 - Tweak semantic tokens coloring for Rust (rust-analyzer)
-- Tweak smeantic tokens coloring for TypeScript (Native plugin/JavaScript and
+- Tweak semantic tokens coloring for TypeScript (Native plugin/JavaScript and
   TypeScript next)
 - Tweak TextMate for TypeScript
 - Tweak TextMate for C++ (Better C++ Syntax)
