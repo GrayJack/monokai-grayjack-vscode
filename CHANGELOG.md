@@ -2,7 +2,11 @@
 
 All notable changes to the this extension will be documented in this file.
 
-- Tweak TextMate for F#
+## 0.8.1
+
+- Add support for bracket colorization for all themes
+- Tweak TextMate for F# (Ionide-fsharp)
+- Tweak TextMate for AGDA (language-agda)
 
 ## 0.8.0
 

@@ -207,6 +207,13 @@
         "editor.wordHighlightBorder": "#00000000",
         "editor.wordHighlightStrongBackground": "#b9bed526",
         "editor.wordHighlightStrongBorder": "#00000000",
+        "editorBracketHighlight.foreground2": "#b489f6",
+        "editorBracketHighlight.foreground1": "#e6b9f8",
+        "editorBracketHighlight.foreground6": "#99bee5",
+        "editorBracketHighlight.foreground3": "#9292e2",
+        "editorBracketHighlight.foreground4": "#6197d1",
+        "editorBracketHighlight.foreground5": "#b0f2ef",
+        "editorBracketHighlight.unexpectedBracket.foreground": "#F47983",
         "editorBracketMatch.background": "#2a2d37",
         "editorBracketMatch.border": "#727072",
         "editorCodeLens.foreground": "#727072",
@@ -1047,7 +1054,8 @@
                 "entity.name.function.preprocessor.nim",
                 "constant.other.linkage.d",
                 "variable.key.array.table.toml",
-				"support.function.attribute.fsharp"
+				"support.function.attribute.fsharp",
+				"support.pragma.block.agda"
             ],
             "settings": {
                 "foreground": "#efd494",
