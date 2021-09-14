@@ -1044,7 +1044,8 @@
                 "constant.other.linkage.d",
                 "variable.key.array.table.toml",
 				"support.function.attribute.fsharp",
-				"support.pragma.block.agda"
+				"support.pragma.block.agda",
+                "punctuation.definition.pragma.agda"
             ],
             "settings": {
                 "foreground": "#E5C07B",
