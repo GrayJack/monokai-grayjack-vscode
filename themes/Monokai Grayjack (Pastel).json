@@ -539,6 +539,10 @@
     },
     "semanticHighlighting": true,
     "semanticTokenColors": {
+        "comment": {
+			"foreground": "#717171",
+			"italic": true
+		},
         "keyword": {
             "foreground": "#ff6188"
         },
@@ -557,15 +561,34 @@
         "arithmetic": {
             "foreground": "#ff6188"
         },
+        "newOperator": {
+            "foreground": "#ff6188"
+        },
         "function": {
             "foreground": "#a9dc76"
         },
         "method": {
             "foreground": "#a9dc76"
         },
+        "templateFunction": {
+			"foreground": "#a9dc76"
+		},
+        "member:cpp": {
+			// Acording to docs in CPP member is related to member function
+			// https://code.visualstudio.com/docs/cpp/colorization-cpp
+			"foreground": "#a9dc76"
+		},
         "magicFunction": {
             "foreground": "#a9dc76",
 			"italic": true
+        },
+        "operatorOverload": {
+            "foreground": "#a9dc76",
+			"underline": true
+        },
+        "memberOperatorOverload": {
+            "foreground": "#a9dc76",
+			"underline": true
         },
         "tomlArrayKey": {
             "foreground": "#a9dc76"
@@ -580,6 +603,12 @@
         "boolean": {
             "foreground": "#ab9df2"
         },
+        "numberLiteral": {
+			"foreground": "#ab9df2"
+		},
+        "customLiteral": {
+			"foreground": "#ab9df2"
+		},
         "constParameter": {
 			"foreground": "#ab9df2",
             "fontStyle": ""
@@ -590,15 +619,12 @@
         },
         "builtinType": {
             "foreground": "#78dce8",
-            // "italic": true,
         },
         "typeAlias": {
             "foreground": "#78dce8",
-            // "italic": true,
         },
         "typeParameter": {
             "foreground": "#78dce8",
-            // "italic": true,
         },
         "interface": {
             "foreground": "#78dce8",
@@ -606,28 +632,25 @@
         },
         "struct": {
             "foreground": "#78dce8",
-            // "italic": true,
         },
         "union": {
             "foreground": "#78dce8",
-            // "italic": true,
         },
         "enum": {
             "foreground": "#78dce8",
-            // "italic": true,
         },
         "type": {
             "foreground": "#78dce8",
-            // "italic": true,
         },
         "type.c": {
             "foreground": "#78dce8",
-            // "italic": true,
         },
         "class": {
             "foreground": "#78dce8",
-            // "italic": true,
         },
+        "genericType": {
+			"foreground": "#78dce8",
+		},
         "enumMember": {
             "underline": true,
             "foreground": "#84b3f5"
@@ -705,8 +728,11 @@
             "fontStyle": ""
         },
         "string": {
-            "foreground": "#ffd866"
-        },
+			"foreground": "#ffd866"
+		},
+		"stringLiteral": {
+			"foreground": "#ffd866",
+		},
         "parameter.declaration": {
             "foreground": "#fc9867"
         },
@@ -768,6 +794,9 @@
         "generic:rust": {
             "foreground": "#fcfcfa",
         },
+        "variable.global": {
+			"underline": true,
+		},
         "*.mutable": {
             "underline": true,
         },

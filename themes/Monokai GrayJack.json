@@ -538,6 +538,10 @@
 	},
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
+		"comment": {
+			"foreground": "#717171",
+			"italic": true
+		},
 		"keyword": {
 			"foreground": "#FF3574"
 		},
@@ -556,15 +560,34 @@
         "arithmetic": {
             "foreground": "#FF3574"
         },
+		"newOperator": {
+            "foreground": "#FF3574"
+        },
 		"function": {
 			"foreground": "#B2E64C"
 		},
 		"method": {
 			"foreground": "#B2E64C"
 		},
+		"templateFunction": {
+			"foreground": "#B2E64C"
+		},
+		"member:cpp": {
+			// Acording to docs in CPP member is related to member function
+			// https://code.visualstudio.com/docs/cpp/colorization-cpp
+			"foreground": "#B2E64C"
+		},
 		"magicFunction": {
 			"foreground": "#B2E64C",
 			"italic": true
+        },
+		"operatorOverload": {
+            "foreground": "#B2E64C",
+			"underline": true
+        },
+		"memberOperatorOverload": {
+            "foreground": "#B2E64C",
+			"underline": true
         },
 		"tomlArrayKey": {
             "foreground": "#B2E64C"
@@ -579,6 +602,12 @@
 		"boolean": {
 			"foreground": "#AA7DFC"
 		},
+		"numberLiteral": {
+			"foreground": "#AA7DFC"
+		},
+		"customLiteral": {
+			"foreground": "#AA7DFC"
+		},
 		"constParameter": {
 			"foreground": "#AA7DFC",
             "fontStyle": ""
@@ -587,17 +616,20 @@
 			"foreground": "#AA7DFC",
 			"italic": true
 		},
+		"string": {
+			"foreground": "#E6DB7A",
+		},
+		"stringLiteral": {
+			"foreground": "#E6DB7A",
+		},
 		"builtinType": {
 			"foreground": "#66CCE1",
-			// "italic": true,
 		},
 		"typeAlias": {
 			"foreground": "#66CCE1",
-			// "italic": true,
 		},
 		"typeParameter": {
 			"foreground": "#66CCE1",
-			// "italic": true,
 		},
 		"interface": {
 			"foreground": "#66CCE1",
@@ -605,27 +637,24 @@
 		},
 		"struct": {
 			"foreground": "#66CCE1",
-			// "italic": true,
 		},
 		"union": {
 			"foreground": "#66CCE1",
-			// "italic": true,
 		},
 		"enum": {
 			"foreground": "#66CCE1",
-			// "italic": true,
 		},
 		"type": {
 			"foreground": "#66CCe1",
-			// "italic": true,
 		},
 		"type.c": {
 			"foreground": "#66CCe1",
-			// "italic": true,
 		},
 		"class": {
 			"foreground": "#66CCe1",
-			// "italic": true,
+		},
+		"genericType": {
+			"foreground": "#66CCe1",
 		},
 		"enumMember": {
 			"underline": true,
@@ -761,6 +790,9 @@
         "generic:rust": {
             "foreground": "#fcfcfa",
         },
+		"variable.global": {
+			"underline": true,
+		},
 		"*.mutable": {
 			"underline": true,
 		},

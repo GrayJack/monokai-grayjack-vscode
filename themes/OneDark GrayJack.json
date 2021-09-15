@@ -518,6 +518,10 @@
     },
     "semanticHighlighting": true,
 	"semanticTokenColors": {
+        "comment": {
+			"foreground": "#5C6370",
+			"italic": true
+		},
 		"keyword": {
 			"foreground": "#C678DD"
 		},
@@ -536,15 +540,34 @@
         "arithmetic": {
             "foreground": "#C678DD"
         },
+        "newOperator": {
+            "foreground": "#C678DD"
+        },
 		"function": {
 			"foreground": "#61AFEF"
 		},
 		"method": {
 			"foreground": "#61AFEF"
 		},
+        "templateFunction": {
+			"foreground": "#61AFEF"
+		},
+        "member:cpp": {
+			// Acording to docs in CPP member is related to member function
+			// https://code.visualstudio.com/docs/cpp/colorization-cpp
+			"foreground": "#61AFEF"
+		},
 		"magicFunction": {
 			"foreground": "#61AFEF",
 			"italic": true
+        },
+        "operatorOverload": {
+            "foreground": "#61AFEF",
+			"underline": true
+        },
+        "memberOperatorOverload": {
+            "foreground": "#61AFEF",
+			"underline": true
         },
 		"tomlArrayKey": {
             "foreground": "#61AFEF"
@@ -557,6 +580,12 @@
 			"foreground": "#D19A66"
 		},
 		"boolean": {
+			"foreground": "#D19A66"
+		},
+        "numberLiteral": {
+			"foreground": "#D19A66"
+		},
+        "customLiteral": {
 			"foreground": "#D19A66"
 		},
 		"constParameter": {
@@ -596,6 +625,9 @@
 			"foreground": "#56B6C2",
 		},
 		"class": {
+			"foreground": "#56B6C2",
+		},
+        "genericType": {
 			"foreground": "#56B6C2",
 		},
 		"enumMember": {
@@ -678,6 +710,9 @@
         "string": {
             "foreground": "#98C379"
         },
+        "stringLiteral": {
+			"foreground": "#98C379",
+		},
 		"parameter.declaration": {
 			"foreground": "#be5046"
 		},
@@ -736,6 +771,9 @@
         "generic:rust": {
             "foreground": "#ABB2BF",
         },
+        "variable.global": {
+			"underline": true,
+		},
 		"*.mutable": {
 			"underline": true,
 		},

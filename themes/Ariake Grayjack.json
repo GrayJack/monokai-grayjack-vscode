@@ -526,7 +526,12 @@
         // "notebookScrollbarSlider.activeBackground": "#ff0000"
     },
     "semanticHighlighting": true,
+    // Missing default `event` and `regexp` tokens
 	"semanticTokenColors": {
+        "comment": {
+			"foreground": "#5f6786",
+			"italic": true
+		},
 		"keyword": {
 			"foreground": "#7e7edd"
 		},
@@ -545,15 +550,34 @@
         "arithmetic": {
             "foreground": "#7e7edd"
         },
+        "newOperator": {
+            "foreground": "#7e7edd"
+        },
 		"function": {
 			"foreground": "#f5faff"
 		},
 		"method": {
 			"foreground": "#f5faff"
 		},
+        "templateFunction": {
+			"foreground": "#f5faff"
+		},
+        "member:cpp": {
+			// Acording to docs in CPP member is related to member function
+			// https://code.visualstudio.com/docs/cpp/colorization-cpp
+			"foreground": "#f5faff"
+		},
 		"magicFunction": {
 			"foreground": "#f5faff",
 			"italic": true
+        },
+        "operatorOverload": {
+            "foreground": "#f5faff",
+			"underline": true
+        },
+        "memberOperatorOverload": {
+            "foreground": "#f5faff",
+			"underline": true
         },
 		"tomlArrayKey": {
             "foreground": "#f5faff"
@@ -566,6 +590,12 @@
 			"foreground": "#dda2f6"
 		},
 		"boolean": {
+			"foreground": "#dda2f6"
+		},
+        "numberLiteral": {
+			"foreground": "#dda2f6"
+		},
+        "customLiteral": {
 			"foreground": "#dda2f6"
 		},
 		"constParameter": {
@@ -605,6 +635,9 @@
 			"foreground": "#a571f4",
 		},
 		"class": {
+			"foreground": "#a571f4",
+		},
+        "genericType": {
 			"foreground": "#a571f4",
 		},
 		"enumMember": {
@@ -693,6 +726,9 @@
         "string": {
             "foreground": "#9aefea"
         },
+        "stringLiteral": {
+			"foreground": "#9aefea",
+		},
 		"variable.constant": {
 			"foreground": "#dda2f6"
 		},
@@ -747,6 +783,9 @@
         "generic:rust": {
             "foreground": "#b9bed5",
         },
+        "variable.global": {
+			"underline": true,
+		},
 		"*.mutable": {
 			"underline": true,
 		},
