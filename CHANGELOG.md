@@ -5,6 +5,7 @@ All notable changes to the this extension will be documented in this file.
 ## Unreleased
 
 - Tweak semantic highlight for C++ ([C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools))
+- Tweak semantic highlight for C# ([C#](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp))
 - Tweak TextMate for C# ([C#](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp))
 - Tweak TextMate colors for Rust files (Build-in)
 

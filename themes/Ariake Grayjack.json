@@ -567,6 +567,9 @@
 			// https://code.visualstudio.com/docs/cpp/colorization-cpp
 			"foreground": "#f5faff"
 		},
+        "member:csharp": {
+			"foreground": "#f5faff"
+		},
 		"magicFunction": {
 			"foreground": "#f5faff",
 			"italic": true
@@ -1107,6 +1110,7 @@
             "name": "Fields",
             "scope": [
                 "variable.other.property",
+                "entity.name.variable.field",
                 "variable.other.member",
                 "meta.member",
                 "variable.other.object.property"
