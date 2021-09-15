@@ -964,6 +964,8 @@
 			"name": "Special syntax",
 			"scope": [
 				"storage.modifier.lifetime.rust",
+				"punctuation.definition.lifetime.rust",
+				"entity.name.type.lifetime.rust",
 				"constant.character.format.placeholder.other.python",
 				"variable.other.generic-type.haskell",
 				"punctuation.definition.template-expression",
@@ -1159,6 +1161,7 @@
 				"support.type.python",
 				"basicTypes.nim",
 				"meta.class.stanza.dune",
+				"storage.type.cs"
 			],
 			"settings": {
 				"foreground": "#66CCE1",
