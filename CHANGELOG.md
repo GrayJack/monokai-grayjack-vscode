@@ -2,7 +2,7 @@
 
 All notable changes to the this extension will be documented in this file.
 
-## Unreleased
+## 0.8.3
 
 - Tweak semantic highlight for C++ ([C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools))
 - Tweak semantic highlight for C# ([C#](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp))
