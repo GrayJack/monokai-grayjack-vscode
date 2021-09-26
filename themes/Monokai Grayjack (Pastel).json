@@ -926,6 +926,9 @@
                 "keyword.other.substitution",
                 "punctuation.separator.pointer-access.c",
                 "punctuation.definition.function.pointer.dereference.cpp",
+                "punctuation.separator.namespace.access.cpp",
+                "punctuation.separator.scope-resolution.function.definition.cpp",
+                "punctuation.separator.scope-resolution.cpp",
                 "punctuation.separator.annotation.result.python",
             ],
             "settings": {
@@ -1126,7 +1129,8 @@
                 "entity.name.variable.field",
                 "variable.other.member",
                 "meta.member",
-                "variable.other.object.property"
+                "variable.other.object.property",
+				"entity.name.variable.property"
             ],
             "settings": {
                 "foreground": "#d29b79",

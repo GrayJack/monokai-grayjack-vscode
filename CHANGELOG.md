@@ -2,22 +2,35 @@
 
 All notable changes to the this extension will be documented in this file.
 
+## Unreleased
+
+- Tweak TextMate colors for C++
+  ([Better C++ Syntax](https://marketplace.visualstudio.com/items?itemName=jeff-hykin.better-cpp-syntax))
+- Tweak TextMate color for C#
+  ([C#](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp))
+
 ## 0.8.3
 
-- Tweak semantic highlight for C++ ([C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools))
-- Tweak semantic highlight for C# ([C#](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp))
-- Tweak TextMate for C# ([C#](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp))
+- Tweak semantic highlight for C++
+  ([C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools))
+- Tweak semantic highlight for C#
+  ([C#](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp))
+- Tweak TextMate for C#
+  ([C#](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp))
 - Tweak TextMate colors for Rust files (Build-in)
 
 ## 0.8.2
 
-- Fix missing TextMate for AGDA ([language-agda](https://marketplace.visualstudio.com/items?itemName=j-mueller.agda))
+- Fix missing TextMate for AGDA
+  ([language-agda](https://marketplace.visualstudio.com/items?itemName=j-mueller.agda))
 
 ## 0.8.1
 
 - Add support for bracket colorization for all themes
-- Tweak TextMate for F# ([Ionide-fsharp](https://marketplace.visualstudio.com/items?itemName=Ionide.Ionide-fsharp))
-- Tweak TextMate for AGDA ([language-agda](https://marketplace.visualstudio.com/items?itemName=j-mueller.agda))
+- Tweak TextMate for F#
+  ([Ionide-fsharp](https://marketplace.visualstudio.com/items?itemName=Ionide.Ionide-fsharp))
+- Tweak TextMate for AGDA
+  ([language-agda](https://marketplace.visualstudio.com/items?itemName=j-mueller.agda))
 
 ## 0.8.0
 
@@ -25,7 +38,8 @@ All notable changes to the this extension will be documented in this file.
 - Change some OneDark colors
 - Tweak button colors on Ariake GrayJack, Monokai GrayJack (Solarized) and
   OneDark GrayJack
-- Tweak semantic styling on error variant in Zig ([ZLS for VSCode](https://marketplace.visualstudio.com/items?itemName=AugusteRame.zls-vscode))
+- Tweak semantic styling on error variant in Zig
+  ([ZLS for VSCode](https://marketplace.visualstudio.com/items?itemName=AugusteRame.zls-vscode))
 
 ## 0.7.0
 
@@ -37,7 +51,8 @@ All notable changes to the this extension will be documented in this file.
 
 ## 0.6.3
 
-- Tweak TextMate colors for dune files ([Ocaml Platform](https://marketplace.visualstudio.com/items?itemName=ocamllabs.ocaml-platform))
+- Tweak TextMate colors for dune files
+  ([Ocaml Platform](https://marketplace.visualstudio.com/items?itemName=ocamllabs.ocaml-platform))
 - Tweak sidebar colors on Monokai GrayJack and Monokai GrayJack (Pastel)
 
 ## 0.6.2
@@ -54,8 +69,9 @@ All notable changes to the this extension will be documented in this file.
 - Tweak UI colors on Monokai GrayJack (Solarized)
 - Tweak semantic highlight so when generic font stylization don't lose inherited
   stylization
-- Tweak semantic highlight for Rust ([rust-analyzer](https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer)): unsafe callables are now
-  italic to distinct from mutable callables.
+- Tweak semantic highlight for Rust
+  ([rust-analyzer](https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer)):
+  unsafe callables are now italic to distinct from mutable callables.
 
 ## 0.5.0
 
@@ -64,18 +80,21 @@ All notable changes to the this extension will be documented in this file.
 
 ## 0.4.0
 
-- Tweak TextMate for Racket ([Magic Racket](https://marketplace.visualstudio.com/items?itemName=evzen-wybitul.magic-racket))
+- Tweak TextMate for Racket
+  ([Magic Racket](https://marketplace.visualstudio.com/items?itemName=evzen-wybitul.magic-racket))
 - Tweak UI colors
 - Tweak standard semantic tokens for types (Concrete Types aren't italic,
   Interfaces remain italic)
 
 ## 0.3.8
 
-- Tweak semantic tokens coloring for Rust ([rust-analyzer](https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer))
+- Tweak semantic tokens coloring for Rust
+  ([rust-analyzer](https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer))
 - Tweak semantic tokens coloring for TypeScript (Native plugin/JavaScript and
   TypeScript next)
 - Tweak TextMate for TypeScript (Build-in)
-- Tweak TextMate for C++ ([Better C++ Syntax](https://marketplace.visualstudio.com/items?itemName=jeff-hykin.better-cpp-syntax))
+- Tweak TextMate for C++
+  ([Better C++ Syntax](https://marketplace.visualstudio.com/items?itemName=jeff-hykin.better-cpp-syntax))
 
 ## 0.3.7
 
@@ -83,26 +102,34 @@ All notable changes to the this extension will be documented in this file.
 
 ## 0.3.6
 
-- Tweak semantic tokens coloring for TOML ([Even Better TOML](https://marketplace.visualstudio.com/items?itemName=tamasfe.even-better-toml))
-- Tweak TextMate for TOML ([Even Better TOML](https://marketplace.visualstudio.com/items?itemName=tamasfe.even-better-toml))
+- Tweak semantic tokens coloring for TOML
+  ([Even Better TOML](https://marketplace.visualstudio.com/items?itemName=tamasfe.even-better-toml))
+- Tweak TextMate for TOML
+  ([Even Better TOML](https://marketplace.visualstudio.com/items?itemName=tamasfe.even-better-toml))
 
 ## 0.3.5
 
-- Tweak semantic tokens coloring for Rust ([rust-analyzer](https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer))
+- Tweak semantic tokens coloring for Rust
+  ([rust-analyzer](https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer))
 
 ## 0.3.4
 
-- Tweak semantic tokens coloring for Zig ([ZLS for VSCode](https://marketplace.visualstudio.com/items?itemName=AugusteRame.zls-vscode))
-- Tweak semantic tokens coloring for Rust ([rust-analyzer](https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer))
-- Tweak semantic tokens coloring for Go ([Go with gopls](https://marketplace.visualstudio.com/items?itemName=golang.Go))
+- Tweak semantic tokens coloring for Zig
+  ([ZLS for VSCode](https://marketplace.visualstudio.com/items?itemName=AugusteRame.zls-vscode))
+- Tweak semantic tokens coloring for Rust
+  ([rust-analyzer](https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer))
+- Tweak semantic tokens coloring for Go
+  ([Go with gopls](https://marketplace.visualstudio.com/items?itemName=golang.Go))
 
 ## 0.3.3
 
-- Tweak semantic tokens coloring for Rust ([rust-analyzer](https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer))
+- Tweak semantic tokens coloring for Rust
+  ([rust-analyzer](https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer))
 
 ## 0.3.2
 
-- Tweak semantic tokens coloring for Rust ([rust-analyzer](https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer))
+- Tweak semantic tokens coloring for Rust
+  ([rust-analyzer](https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer))
 
 ## 0.3.1
 
@@ -111,7 +138,8 @@ All notable changes to the this extension will be documented in this file.
 ## 0.3.0
 
 - Change bits of overall theme
-- Tweaks semantic tokens coloring for Rust ([rust-analyzer](https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer))
+- Tweaks semantic tokens coloring for Rust
+  ([rust-analyzer](https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer))
 
 ## 0.2.11
 
@@ -119,11 +147,16 @@ All notable changes to the this extension will be documented in this file.
 - Tweaks on TextMate for Python (Build-in plugin)
 - Tweaks on TextMate for HTML (Build-in plugin)
 - Tweaks on TextMate for CSS-like (Build-in plugin)
-- Tweaks on TextMate for Nim ([Nim](https://marketplace.visualstudio.com/items?itemName=kosz78.nim)/[Nim Alt](https://marketplace.visualstudio.com/items?itemName=garym.nim-alt))
-- Tweaks on TextMate for D-lang ([Dlang](https://marketplace.visualstudio.com/items?itemName=webfreak.code-d))
-- Tweak semantic tokens coloring for Rust ([rust-analyzer](https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer))
-- Tweak semantic tokens coloring for Python ([Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance))
-- Tweak semantic tokens coloring for Zig ([ZLS for VSCode](https://marketplace.visualstudio.com/items?itemName=AugusteRame.zls-vscode))
+- Tweaks on TextMate for Nim
+  ([Nim](https://marketplace.visualstudio.com/items?itemName=kosz78.nim)/[Nim Alt](https://marketplace.visualstudio.com/items?itemName=garym.nim-alt))
+- Tweaks on TextMate for D-lang
+  ([Dlang](https://marketplace.visualstudio.com/items?itemName=webfreak.code-d))
+- Tweak semantic tokens coloring for Rust
+  ([rust-analyzer](https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer))
+- Tweak semantic tokens coloring for Python
+  ([Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance))
+- Tweak semantic tokens coloring for Zig
+  ([ZLS for VSCode](https://marketplace.visualstudio.com/items?itemName=AugusteRame.zls-vscode))
 
 ## 0.2.10
 
@@ -131,7 +164,8 @@ All notable changes to the this extension will be documented in this file.
 
 ## 0.2.9
 
-- Add color for semantic tokens with Rust callable modifier ([rust-analyzer](https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer))
+- Add color for semantic tokens with Rust callable modifier
+  ([rust-analyzer](https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer))
 
 ## 0.2.8
 
@@ -148,8 +182,8 @@ All notable changes to the this extension will be documented in this file.
 
 ## 0.2.5
 
-- Tweaks on semantic highlight for TypeScript and Java ([Language
-  Support for Java](https://marketplace.visualstudio.com/items?itemName=redhat.java))
+- Tweaks on semantic highlight for TypeScript and Java
+  ([Language Support for Java](https://marketplace.visualstudio.com/items?itemName=redhat.java))
 - Small tweak on TextMate
 
 ## 0.2.4
