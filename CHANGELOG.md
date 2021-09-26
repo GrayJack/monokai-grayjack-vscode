@@ -2,6 +2,9 @@
 
 All notable changes to the this extension will be documented in this file.
 
+- Tweak UI for Monokai (Solarized), Ariake and OneDark
+- Add new theme: Tokyo Night GrayJack
+
 ## 0.8.4
 
 - Tweak TextMate colors for C++

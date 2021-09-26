@@ -34,6 +34,12 @@ For now only themes based on Monokai and OneDark
 
 ![Preview Ariake Grayjack 2](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/preview-code-ariake.png)
 
+## Tokyo Night GrayJack
+
+![Preview Tokyo Night Grayjack 1](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/preview-welcome-tokyo.png)
+
+![Preview Tokyo Night Grayjack 2](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/preview-code-tokyo.png)
+
 ## Customization
 
 Didn't like something the way I did? You can easily change the configuration in

@@ -19,11 +19,13 @@
 		"color",
 		"theme",
 		"dark",
+		"one",
 		"one dark",
 		"onedark",
 		"monokai",
 		"pastel",
-		"solarized"
+		"solarized",
+		"tokyo"
 	],
 	"contributes": {
 		"themes": [
@@ -51,6 +53,11 @@
 				"label": "Ariake GrayJack",
 				"uiTheme": "vs-dark",
 				"path": "./themes/Ariake Grayjack.json"
+			},
+			{
+				"label": "Tokyo Night GrayJack",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Tokyo Night Grayjack.json"
 			}
 		]
 	},

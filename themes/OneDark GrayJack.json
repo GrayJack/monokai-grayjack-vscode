@@ -139,7 +139,7 @@
         "editorGroup.focusedEmptyBorder": "#181A1F",
         "editorGroupHeader.border": "#21252B",
         "editorGroupHeader.noTabsBackground": "#21252B",
-        "editorGroupHeader.tabsBackground": "#21252B",
+        "editorGroupHeader.tabsBackground": "#282C34",
         "editorGroupHeader.tabsBorder": "#21252B",
         // TABS
         "tab.activeBackground": "#21252B",
@@ -231,7 +231,7 @@
         "editorLightBulb.foreground": "#e5c07b",
         "editorLightBulbAutoFix.foreground": "#98C379",
         "editorLineNumber.activeForeground": "#ABB2BF",
-        "editorLineNumber.foreground": "#636D83",
+        "editorLineNumber.foreground": "#474c5c",
         "editorLink.activeForeground": "#56B6C2",
         "editorMarkerNavigation.background": "#3E4451",
         "editorMarkerNavigationError.background": "#E06C75",
