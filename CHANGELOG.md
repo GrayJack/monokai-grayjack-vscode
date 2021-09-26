@@ -2,6 +2,8 @@
 
 All notable changes to the this extension will be documented in this file.
 
+## 0.9.0
+
 - Tweak UI for Monokai (Solarized), Ariake and OneDark
 - Add new theme: Tokyo Night GrayJack
 
