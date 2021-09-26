@@ -2,7 +2,7 @@
 
 All notable changes to the this extension will be documented in this file.
 
-## Unreleased
+## 0.8.4
 
 - Tweak TextMate colors for C++
   ([Better C++ Syntax](https://marketplace.visualstudio.com/items?itemName=jeff-hykin.better-cpp-syntax))
