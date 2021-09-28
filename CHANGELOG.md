@@ -5,6 +5,7 @@ All notable changes to the this extension will be documented in this file.
 ## Unreleased
 
 - Fix diff colors on Tokyo Night GrayJack
+- Fix peek view for Tokyo Night GrayJack
 - Change diff colors for Ariake GrayJack
 
 ## 0.9.0
