@@ -2,6 +2,10 @@
 
 All notable changes to the this extension will be documented in this file.
 
+## Unreleased
+
+- Fix diff colors on Tokyo Night GrayJack
+
 ## 0.9.0
 
 - Tweak UI for Monokai (Solarized), Ariake and OneDark
