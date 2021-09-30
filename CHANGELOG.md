@@ -2,15 +2,18 @@
 
 All notable changes to the this extension will be documented in this file.
 
+## Unreleased
+
+- Change colors of line numbers on Ariake, Monokai (Solarized), One Dark and
+  Tokyo Night
+  - Improvements to colors when on diff view
+  - Makes more colorful
+
 ## 0.9.1
 
 - Fix diff colors on Tokyo Night GrayJack
 - Fix peek view for Tokyo Night GrayJack
 - Change diff colors for Ariake GrayJack
-- Change colors of line numbers on Ariake, Monokai (Solarized), One Dark and
-  Tokyo Night
-  - Improvements to colors when on diff view
-  - Makes more coloful
 
 ## 0.9.0
 
