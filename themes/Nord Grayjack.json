@@ -44,9 +44,9 @@
         "textPreformat.foreground": "#D8DEE9",
         "textSeparator.foreground": "#545c7e",
         // BUTTON
-        "button.background": "#88C0D0",
+        "button.background": "#81A1C1",
         "button.foreground": "#D7DAE0",
-        "button.hoverBackground": "#81A1C1",
+        "button.hoverBackground": "#5e81ac",
         "button.secondaryBackground": "#232831",
         "button.secondaryForeground": "#7982a9",
         "button.secondaryHoverBackground": "#2e3440",
