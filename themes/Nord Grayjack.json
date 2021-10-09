@@ -7,7 +7,7 @@
 // #BF616A: unsafe/should be used with caution keywords
 // #EBCB8B: Parameters and `this`/`self` (italic) and lisp keywords
 // #A3BE8C: strings
-// #b4f9f8: Attributes
+// #5e81ac: Attributes
 // #88C0D0: Function/methods/callables (mutable => underline) (unsafe => italic)
 // #8FBCBB: Types/Classes/Type Annotations
 // #8761bf: Macros/Build-in functions and EnumVariants (underline) and decorators (italic)
@@ -46,7 +46,7 @@
         // BUTTON
         "button.background": "#88C0D0",
         "button.foreground": "#D7DAE0",
-        "button.hoverBackground": "#D08770",
+        "button.hoverBackground": "#81A1C1",
         "button.secondaryBackground": "#232831",
         "button.secondaryForeground": "#7982a9",
         "button.secondaryHoverBackground": "#2e3440",
@@ -490,9 +490,9 @@
         // "debugConsole.errorForeground": "#ff0000",
         // "debugConsole.infoForeground": "#ff0000",
         // "debugConsole.sourceForeground": "#ff0000",
-        "debugConsole.warningForeground": "#b4f9f8",
+        "debugConsole.warningForeground": "#5e81ac",
         // "debugConsoleInputIcon.foreground": "#ff0000",
-        "debugIcon.breakpointCurrentStackframeForeground": "#b4f9f8",
+        "debugIcon.breakpointCurrentStackframeForeground": "#5e81ac",
         "debugIcon.breakpointDisabledForeground": "#a9b1d6",
         "debugIcon.breakpointForeground": "#BF616A",
         "debugIcon.breakpointStackframeForeground": "#D8DEE9",
@@ -686,7 +686,7 @@
 			"italic": true
         },
 		"attribute": {
-			"foreground": "#b4f9f8"
+			"foreground": "#5e81ac"
 		},
 		"formatSpecifier": {
 			"foreground": "#D08770",
@@ -801,10 +801,10 @@
             "foreground": "#88C0D0"
         },
 		"*.attribute": {
-			"foreground": "#b4f9f8"
+			"foreground": "#5e81ac"
 		},
 		"*.attribute:rust": {
-            "foreground": "#b4f9f8"
+            "foreground": "#5e81ac"
         },
 		"*.typeHint": {
             "foreground": "#8FBCBB",
@@ -1105,7 +1105,7 @@
                 "punctuation.definition.pragma.agda"
             ],
             "settings": {
-                "foreground": "#b4f9f8",
+                "foreground": "#5e81ac",
             }
         },
         {
@@ -1277,7 +1277,7 @@
                 "entity.other.attribute-name"
             ],
             "settings": {
-                "foreground": "#b4f9f8"
+                "foreground": "#5e81ac"
             }
         },
         {
@@ -1458,7 +1458,7 @@
                 "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
             ],
             "settings": {
-                "foreground": "#b4f9f8"
+                "foreground": "#5e81ac"
             }
         },
         {
