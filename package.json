@@ -59,6 +59,11 @@
 				"label": "Tokyo Night GrayJack",
 				"uiTheme": "vs-dark",
 				"path": "./themes/Tokyo Night Grayjack.json"
+			},
+			{
+				"label": "Nord GrayJack",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Nord Grayjack.json"
 			}
 		]
 	},

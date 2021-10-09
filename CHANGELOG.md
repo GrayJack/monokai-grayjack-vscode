@@ -2,6 +2,11 @@
 
 All notable changes to the this extension will be documented in this file.
 
+## Unreleased
+
+- Add new theme: Nord GrayJack
+- Tweak colors on Tokyo Night GrayJack
+
 ## 0.9.2
 
 - Change colors of line numbers on Ariake, Monokai (Solarized), One Dark and
