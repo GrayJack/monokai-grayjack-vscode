@@ -374,9 +374,9 @@
         // EXTENSION
         // "extensionBadge.remoteBackground": "#ff0000",
         // "extensionBadge.remoteForeground": "#ff0000",
-        "extensionButton.prominentBackground": "#EBCB8B",
+        "extensionButton.prominentBackground": "#A3BE8C",
         "extensionButton.prominentForeground": "#232831",
-        "extensionButton.prominentHoverBackground": "#D08770",
+        "extensionButton.prominentHoverBackground": "#8FBCBB",
         // QUICK PICKER
         "pickerGroup.border": "#D08770",
         "pickerGroup.foreground": "#D8DEE926",
