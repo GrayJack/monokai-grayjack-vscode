@@ -7,7 +7,7 @@
 		"type": "git",
 		"url": "https://github.com/GrayJack/monokai-grayjack-vscode"
 	},
-	"version": "0.9.2",
+	"version": "0.10.0",
 	"engines": {
 		"vscode": "^1.45.0"
 	},
@@ -23,6 +23,7 @@
 		"one dark",
 		"onedark",
 		"monokai",
+		"nord",
 		"pastel",
 		"solarized",
 		"tokyo",
