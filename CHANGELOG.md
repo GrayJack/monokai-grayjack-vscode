@@ -5,7 +5,7 @@ All notable changes to the this extension will be documented in this file.
 ## Unreleased
 
 - Add new theme: Nord GrayJack
-- Tweak colors on Tokyo Night GrayJack
+- Tweak colors on Ariake, Tokyo Night, OneDark
 
 ## 0.9.2
 
