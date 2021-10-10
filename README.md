@@ -40,6 +40,12 @@ For now only themes based on Monokai and OneDark
 
 ![Preview Tokyo Night Grayjack 2](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/preview-code-tokyo.png)
 
+## Nord GrayJack
+
+![Preview Nord Night Grayjack 1](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/preview-welcome-nord.png)
+
+![Preview Nord Night Grayjack 2](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/preview-code-nord.png)
+
 ## Customization
 
 Didn't like something the way I did? You can easily change the configuration in
