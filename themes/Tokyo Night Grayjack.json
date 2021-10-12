@@ -538,6 +538,10 @@
 		"operator": {
 			"foreground": "#bb9af7"
 		},
+        "operatorOverloaded": {
+			"foreground": "#bb9af7",
+            "italic": true
+		},
 		"bitwise": {
             "foreground": "#bb9af7"
         },
@@ -576,11 +580,11 @@
         },
         "operatorOverload": {
             "foreground": "#7aa2f7",
-			"underline": true
+			"italic": true
         },
         "memberOperatorOverload": {
             "foreground": "#7aa2f7",
-			"underline": true
+			"italic": true
         },
 		"tomlArrayKey": {
             "foreground": "#7aa2f7"

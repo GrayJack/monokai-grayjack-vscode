@@ -2,6 +2,13 @@
 
 All notable changes to the this extension will be documented in this file.
 
+## 0.10.1
+
+- Tweak semantic highlight for overloaded operator C#
+  ([C#](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp))
+- Tweak semantic highlight for overload operator in C++
+  ([C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools))
+
 ## 0.10.0
 
 - Add new theme: Nord GrayJack
