@@ -724,6 +724,9 @@
             "foreground": "#ABB2BF",
             "fontStyle": ""
         },
+        "character": {
+			"foreground": "#ffd866",
+		},
         "string": {
             "foreground": "#ffd866"
         },

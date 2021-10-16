@@ -623,6 +623,9 @@
 			"foreground": "#AA7DFC",
 			"italic": true
 		},
+		"character": {
+			"foreground": "#E6DB7A",
+		},
 		"string": {
 			"foreground": "#E6DB7A",
 		},

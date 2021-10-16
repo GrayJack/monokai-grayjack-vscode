@@ -730,6 +730,9 @@
 		"parameter.definition:go": {
 			"foreground": "#4d8acb"
 		},
+        "character": {
+			"foreground": "#9aefea",
+		},
         "string": {
             "foreground": "#9aefea"
         },

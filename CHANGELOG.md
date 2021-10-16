@@ -2,6 +2,11 @@
 
 All notable changes to the this extension will be documented in this file.
 
+## Unreleased
+
+- Tweak semantic highlight for Rust
+  ([rust-analyzer](https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer))
+
 ## 0.10.1
 
 - Tweak semantic highlight for overloaded operator C#
