@@ -125,7 +125,7 @@
         "sideBar.dropBackground": "#221f22bf",
         "sideBar.foreground": "#616e88",
         "sideBarTitle.foreground": "#A3BE8C",
-        "sideBarSectionHeader.background": "#232831",
+        "sideBarSectionHeader.background": "#2e3440",
         "sideBarSectionHeader.border": "#221f22",
         "sideBarSectionHeader.foreground": "#b48ead",
         // MINIMAP
@@ -312,7 +312,7 @@
         "merge.incomingContentBackground": "#A3BE8C19",
         "merge.incomingHeaderBackground": "#A3BE8C26",
         // PANEL
-        "panel.background": "#232831",
+        "panel.background": "#1b1f26",
         "panel.border": "#2e3440",
         "panel.dropBorder": "#221f22bf",
         // "panelInput.border": "#ff0000",
@@ -384,7 +384,7 @@
         // "quickInput.foreground": "#ff0000",
         // "quickInputTitle.background": "#ff0000",
         // TERMINAL
-        "terminal.background": "#232831",
+        "terminal.background": "#1b1f26",
         "terminal.foreground": "#D8DEE9",
         "terminal.ansiBlack": "#232831",
         "terminal.ansiBrightBlack": "#545c7e",
