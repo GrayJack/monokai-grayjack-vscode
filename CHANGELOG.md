@@ -2,7 +2,7 @@
 
 All notable changes to the this extension will be documented in this file.
 
-## Unreleased
+## 0.11.0
 
 - Add coloring for Inlay Hints
 - Add coloring for Rust-Analyzer Inlay Hints
