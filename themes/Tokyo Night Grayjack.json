@@ -580,12 +580,9 @@
         "templateFunction": {
 			"foreground": "#7aa2f7"
 		},
-        "member:cpp": {
+        "member": {
 			// Acording to docs in CPP member is related to member function
 			// https://code.visualstudio.com/docs/cpp/colorization-cpp
-			"foreground": "#7aa2f7"
-		},
-        "member:csharp": {
 			"foreground": "#7aa2f7"
 		},
 		"magicFunction": {
@@ -702,9 +699,6 @@
 			"foreground": "#7dcfff"
 		},
 		"field": {
-			"foreground": "#7dcfff"
-		},
-		"member": {
 			"foreground": "#7dcfff"
 		},
 		"attribute": {
