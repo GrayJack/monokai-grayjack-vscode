@@ -685,8 +685,37 @@
 		"variable": {
 			"foreground": "#ABB2BF"
 		},
+        "variable:javascript": {
+			"foreground": "#D19A66",
+			"underline": true
+		},
+		"variable:typescript": {
+			"foreground": "#D19A66",
+			"underline": true
+		},
+		"variable.local:javascript": {
+			"foreground": "#ABB2BF",
+		},
+		"variable.local:typescript": {
+			"foreground": "#ABB2BF",
+		},
+		"variable.readonly": {
+			"underline": false,
+		},
 		"property": {
 			"foreground": "#E06C75"
+		},
+        "property:javascript": {
+			"underline": true
+		},
+		"property:typescript": {
+			"underline": true
+		},
+        "property.readonly:javascript": {
+			"underline": false
+		},
+		"property.readonly:typescript": {
+			"underline": false
 		},
 		"field": {
 			"foreground": "#E06C75"
@@ -745,9 +774,6 @@
 			"foreground": "#D19A66"
 		},
 		"variable.static": {
-			"foreground": "#D19A66"
-		},
-		"variable.readonly": {
 			"foreground": "#D19A66"
 		},
 		"keywordLiteral:zig": {

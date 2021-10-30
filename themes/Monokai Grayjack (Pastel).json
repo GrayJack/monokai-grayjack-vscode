@@ -706,9 +706,38 @@
         "variable": {
             "foreground": "#fcfcfa"
         },
+        "variable:javascript": {
+			"foreground": "#ab9df2",
+			"underline": true
+		},
+		"variable:typescript": {
+			"foreground": "#ab9df2",
+			"underline": true
+		},
+		"variable.local:javascript": {
+			"foreground": "#fcfcfa",
+		},
+		"variable.local:typescript": {
+			"foreground": "#fcfcfa",
+		},
+		"variable.readonly": {
+			"underline": false,
+		},
         "property": {
             "foreground": "#d29b79"
         },
+        "property:javascript": {
+			"underline": true
+		},
+		"property:typescript": {
+			"underline": true
+		},
+        "property.readonly:javascript": {
+			"underline": false
+		},
+		"property.readonly:typescript": {
+			"underline": false
+		},
         "field": {
             "foreground": "#d29b79"
         },
@@ -770,9 +799,6 @@
             "foreground": "#ab9df2"
         },
         "variable.static": {
-            "foreground": "#ab9df2"
-        },
-        "variable.readonly": {
             "foreground": "#ab9df2"
         },
         "keywordLiteral:zig": {
