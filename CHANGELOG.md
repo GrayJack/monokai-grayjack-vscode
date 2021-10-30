@@ -10,6 +10,9 @@ All notable changes to the this extension will be documented in this file.
 - Tweak UI colors for Nord and Tokyo Night themes
 - Tweak semantic highlight for Rust
   ([rust-analyzer](https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer))
+- Add semantic coloring for `record` tokens
+- Tweak semantic highlight for Java
+  ([Language Support for Java(TM) by Red Hat](https://marketplace.visualstudio.com/items?itemName=redhat.java))
 
 ## 0.10.1
 

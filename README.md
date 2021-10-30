@@ -2,7 +2,7 @@
 
 My collection of themes based on classic/famous themes.
 
-For now only themes based on Monokai and OneDark
+For now only themes based on Ariake, Monokai, Nord, OneDark and Tokyo Night
 
 ## Monokai GrayJack
 

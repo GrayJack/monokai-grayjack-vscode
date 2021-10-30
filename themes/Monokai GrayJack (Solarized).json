@@ -229,19 +229,19 @@
         "editorIndentGuide.background": "#ABB2BF26",
         "editorInfo.border": "#00000000",
         "editorInfo.foreground": "#84b3f5",
-        "editorInlayHint.background": "#00000000",
+        "editorInlayHint.background": "#31353fC0",
         "editorInlayHint.foreground": "#717171C0",
-        "editorInlayHint.typeBackground": "#00000000",
+        "editorInlayHint.typeBackground": "#31353fC0",
         "editorInlayHint.typeForeground": "#78dce8C0",
-        "editorInlayHint.parameterBackground": "#00000000",
+        "editorInlayHint.parameterBackground": "#31353fC0",
         "editorInlayHint.parameterForeground": "#fc9867C0",
-        "rust_analyzer.inlayHints.background": "#00000000",
+        "rust_analyzer.inlayHints.background": "#31353fC0",
         "rust_analyzer.inlayHints.foreground": "#717171C0",
-        "rust_analyzer.inlayHints.background.typeHints": "#00000000",
+        "rust_analyzer.inlayHints.background.typeHints": "#31353fC0",
         "rust_analyzer.inlayHints.foreground.typeHints": "#78dce8C0",
-        "rust_analyzer.inlayHints.background.chainingHints": "#00000000",
+        "rust_analyzer.inlayHints.background.chainingHints": "#31353fC0",
         "rust_analyzer.inlayHints.foreground.chainingHints": "#78dce8C0",
-        "rust_analyzer.inlayHints.background.parameterHints": "#00000000",
+        "rust_analyzer.inlayHints.background.parameterHints": "#31353fC0",
         "rust_analyzer.inlayHints.foreground.parameterHints": "#fc9867C0",
         "editorLightBulb.foreground": "#ffd866",
         "editorLightBulbAutoFix.foreground": "#c5ec79",
@@ -620,15 +620,12 @@
         },
         "builtinType": {
             "foreground": "#78dce8",
-            // "italic": true,
         },
         "typeAlias": {
             "foreground": "#78dce8",
-            // "italic": true,
         },
         "typeParameter": {
             "foreground": "#78dce8",
-            // "italic": true,
         },
         "interface": {
             "foreground": "#78dce8",
@@ -636,28 +633,25 @@
         },
         "struct": {
             "foreground": "#78dce8",
-            // "italic": true,
         },
         "union": {
             "foreground": "#78dce8",
-            // "italic": true,
         },
         "enum": {
             "foreground": "#78dce8",
-            // "italic": true,
         },
         "type": {
             "foreground": "#78dce8",
-            // "italic": true,
         },
         "type.c": {
             "foreground": "#78dce8",
-            // "italic": true,
         },
         "class": {
             "foreground": "#78dce8",
-            // "italic": true,
         },
+        "record": {
+			"foreground": "#78dce8",
+		},
         "genericType": {
 			"foreground": "#78dce8",
 		},
