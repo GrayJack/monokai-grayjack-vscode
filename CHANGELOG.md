@@ -2,6 +2,14 @@
 
 All notable changes to the this extension will be documented in this file.
 
+## Unreleased
+
+- Tweak semantic highlight for JavaScript (Build-in and
+  [Deno](https://marketplace.visualstudio.com/items?itemName=denoland.vscode-deno))
+- Simplify coloring of namespaces (there is more languages the uses `.` (dot) to
+  access namespace as well as fields and methods access than languages that uses
+  a different token to namespaces like Rust and C++)
+
 ## 0.11.0
 
 - Add coloring for Inlay Hints

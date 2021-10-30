@@ -679,16 +679,21 @@
 		"builtin": {
 			"foreground": "#2ac3de",
 		},
-		"namespace": {
-			"foreground": "#c0caf5"
-		},
-		"namespace:go": {
-			"foreground": "#ff9e64",
-            "italic": true
-		},
-		"namespace:typescript": {
+        "module": {
 			"foreground": "#7dcfff",
 			"italic": true
+        },
+		"namespace": {
+			"foreground": "#7dcfff",
+            "italic": true
+		},
+		"namespace:rust": {
+			"foreground": "#c0caf5",
+            "italic": false
+		},
+		"namespace:cpp": {
+			"foreground": "#c0caf5",
+			"italic": false
         },
 		"variable": {
 			"foreground": "#c0caf5"
@@ -702,10 +707,6 @@
 		"member": {
 			"foreground": "#7dcfff"
 		},
-		"module": {
-			"foreground": "#c0caf5",
-			"italic": true
-        },
 		"attribute": {
 			"foreground": "#b4f9f8"
 		},
