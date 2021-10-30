@@ -679,11 +679,11 @@
             "italic": true
         },
         "namespace:rust": {
-            "foreground": "#fcfcfa",
+            "foreground": "#ABB2BF",
             "italic": false
         },
         "namespace:cpp": {
-            "foreground": "#fcfcfa",
+            "foreground": "#ABB2BF",
             "italic": false
         },
         "variable": {
