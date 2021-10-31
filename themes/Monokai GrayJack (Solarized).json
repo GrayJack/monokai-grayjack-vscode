@@ -700,6 +700,9 @@
 		"variable.local:typescript": {
 			"foreground": "#ABB2BF",
 		},
+        "variable:kotlin": {
+			"underline": true
+		},
 		"variable.readonly": {
 			"underline": false,
 		},
@@ -712,10 +715,10 @@
 		"property:typescript": {
 			"underline": true
 		},
-        "property.readonly:javascript": {
-			"underline": false
+        "property:kotlin": {
+			"underline": true
 		},
-		"property.readonly:typescript": {
+        "property.readonly": {
 			"underline": false
 		},
         "field": {

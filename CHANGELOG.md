@@ -8,6 +8,8 @@ All notable changes to the this extension will be documented in this file.
   [Deno](https://marketplace.visualstudio.com/items?itemName=denoland.vscode-deno))
 - Tweak semantic highlight for TypeScript (Build-in and
   [Deno](https://marketplace.visualstudio.com/items?itemName=denoland.vscode-deno))
+- Tweak semantic highlight for Kotlin
+  ([Kotlin](https://marketplace.visualstudio.com/items?itemName=fwcd.kotlin))
 - Simplify coloring of `member` token
 - Simplify coloring of `namespace` token (there is more languages the uses `.`
   (dot) to access namespace as well as fields and methods access than languages
