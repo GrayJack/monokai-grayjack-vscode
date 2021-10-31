@@ -2,7 +2,7 @@
 
 All notable changes to the this extension will be documented in this file.
 
-## Unreleased
+## 0.12.0
 
 - Tweak semantic highlight for JavaScript (Build-in and
   [Deno](https://marketplace.visualstudio.com/items?itemName=denoland.vscode-deno))
