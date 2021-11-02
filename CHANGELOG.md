@@ -2,6 +2,11 @@
 
 All notable changes to the this extension will be documented in this file.
 
+## 0.12.1
+
+- Tweak TextMate colors for Python
+- Fix a mistake on TextMate
+
 ## 0.12.0
 
 - Tweak semantic highlight for JavaScript (Build-in and

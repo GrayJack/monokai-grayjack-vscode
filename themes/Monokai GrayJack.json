@@ -891,7 +891,7 @@
 				"punctuation.definition.tag.begin.html",
 				"meta.function-call.arguments",
 				"string constant.other.placeholder",
-				"punctuation",
+				// "punctuation",
 				"keyword.operator.sigil.rust",
 				"keyword.operator.access.dot.rust",
 				"keyword.operator.key-value.rust",
@@ -975,6 +975,7 @@
 				"punctuation.separator.namespace.access.cpp",
 				"punctuation.separator.scope-resolution.function.definition.cpp",
 				"punctuation.separator.scope-resolution.cpp",
+				"punctuation.separator.colon.python",
 				"punctuation.separator.annotation.result.python",
 			],
 			"settings": {
