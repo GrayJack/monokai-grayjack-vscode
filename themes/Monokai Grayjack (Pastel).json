@@ -902,6 +902,7 @@
                 "keyword.operator.sigil.rust",
                 "keyword.operator.access.dot.rust",
                 "keyword.operator.key-value.rust",
+                "punctuation.separator.period.python",
                 "meta.function-call.java",
                 "storage.modifier.import.java",
                 "variable.other.object",
@@ -1120,7 +1121,9 @@
                 "constant.escape",
                 "variable.other.constant",
                 "constant.other.boolean",
-                "constant.other.caps.python"
+                "constant.other.caps.python",
+                "keyword.constant.bool.zig",
+                "keyword.constant.default.zig"
                 // "keyword.other.unit",
                 // "keyword.other"
             ],

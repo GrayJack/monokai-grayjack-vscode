@@ -2,6 +2,11 @@
 
 All notable changes to the this extension will be documented in this file.
 
+## Unreleased
+
+- Tweak TextMate colors for
+  [Zig](https://marketplace.visualstudio.com/items?itemName=tiehuis.zig)
+
 ## 0.12.1
 
 - Tweak TextMate colors for Python
