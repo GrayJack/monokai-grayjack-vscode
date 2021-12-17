@@ -2,7 +2,7 @@
 
 All notable changes to the this extension will be documented in this file.
 
-## Unreleased
+## 0.12.2
 
 - Tweak TextMate colors for
   [Zig](https://marketplace.visualstudio.com/items?itemName=tiehuis.zig)
