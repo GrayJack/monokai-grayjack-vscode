@@ -2,10 +2,15 @@
 
 All notable changes to the this extension will be documented in this file.
 
+## 0.12.3
+
+- Tweak semantic highlight for Lua
+  ([Lua](https://marketplace.visualstudio.com/items?itemName=sumneko.lua))
+
 ## 0.12.2
 
-- Tweak TextMate colors for
-  [Zig](https://marketplace.visualstudio.com/items?itemName=tiehuis.zig)
+- Tweak TextMate colors for Zig
+  ([Zig](https://marketplace.visualstudio.com/items?itemName=tiehuis.zig))
 
 ## 0.12.1
 

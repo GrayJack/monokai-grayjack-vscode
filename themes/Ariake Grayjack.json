@@ -571,6 +571,9 @@
         "newOperator": {
             "foreground": "#7e7edd"
         },
+        "type.modification:lua": {
+            "foreground": "#7e7edd"
+        },
 		"function": {
 			"foreground": "#f5faff"
 		},
@@ -861,6 +864,9 @@
             "foreground": "#93ddfb",
             "italic": true,
 		},
+        "*.readonly:lua": {
+            "foreground": "#dda2f6"
+        },
 	},
     "tokenColors": [
         {
