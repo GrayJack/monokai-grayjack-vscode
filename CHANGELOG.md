@@ -7,6 +7,10 @@ All notable changes to the this extension will be documented in this file.
 - Tweak semantic highlight for Lua
   ([Lua](https://marketplace.visualstudio.com/items?itemName=sumneko.lua))
 
+## Unreleased
+
+- Tweak TextMate colors for Swift
+
 ## 0.12.2
 
 - Tweak TextMate colors for Zig

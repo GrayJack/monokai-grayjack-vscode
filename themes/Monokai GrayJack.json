@@ -909,7 +909,9 @@
                 "punctuation.definition.tag.html",
                 "punctuation.definition.tag.begin.html",
                 "punctuation.definition.tag.end.html",
-				"variable.other.readwrite"
+				"variable.other.readwrite",
+				"support.variable.swift",
+                "meta.function-call.swift"
 			],
 			"settings": {
 				"foreground": "#fcfcfa"
@@ -1008,7 +1010,7 @@
 				"variable.function",
 				"support.function",
 				"keyword.other.special-method",
-				"keyword.other.common.function",
+				"keyword.other.common.function"
 			],
 			"settings": {
 				"foreground": "#B2E64C"
@@ -1171,7 +1173,8 @@
 				"variable.key.array.table.toml",
 				"support.function.attribute.fsharp",
 				"support.pragma.block.agda",
-                "punctuation.definition.pragma.agda"
+                "punctuation.definition.pragma.agda",
+                "storage.modifier.attribute.swift"
 			],
 			"settings": {
 				"foreground": "#FAF7B1",

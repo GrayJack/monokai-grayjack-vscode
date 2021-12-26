@@ -899,6 +899,8 @@
                 "punctuation.definition.tag.begin.html",
                 "punctuation.definition.tag.end.html",
                 "variable.other.readwrite",
+                "support.variable.swift",
+                "meta.function-call.swift"
             ],
             "settings": {
                 "foreground": "#c0caf5"
@@ -1160,7 +1162,8 @@
                 "variable.key.array.table.toml",
 				"support.function.attribute.fsharp",
 				"support.pragma.block.agda",
-                "punctuation.definition.pragma.agda"
+                "punctuation.definition.pragma.agda",
+                "storage.modifier.attribute.swift"
             ],
             "settings": {
                 "foreground": "#b4f9f8",
