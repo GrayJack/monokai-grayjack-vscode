@@ -2,14 +2,16 @@
 
 All notable changes to the this extension will be documented in this file.
 
+## Unreleased
+
+- Tweak semantic highlight for C++
+  ([C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools))
+- Tweak TextMate colors for Swift
+
 ## 0.12.3
 
 - Tweak semantic highlight for Lua
   ([Lua](https://marketplace.visualstudio.com/items?itemName=sumneko.lua))
-
-## Unreleased
-
-- Tweak TextMate colors for Swift
 
 ## 0.12.2
 

@@ -460,7 +460,7 @@
         // "breadcrumbPicker.background": "#ff0000",
         // SYMBOL ICONS
         "symbolIcon.arrayForeground": "#ff6188",
-        "symbolIcon.booleanForeground": "#ff6188",
+        "symbolIcon.booleanForeground": "#ab9df2",
         "symbolIcon.classForeground": "#78dce8",
         "symbolIcon.colorForeground": "#ab9df2",
         "symbolIcon.constantForeground": "#ab9df2",
@@ -655,6 +655,9 @@
         "genericType": {
 			"foreground": "#78dce8",
 		},
+        "templateType": {
+            "foreground": "#78dce8",
+        },
         "enumMember": {
             "underline": true,
             "foreground": "#84b3f5"
@@ -997,7 +1000,8 @@
                 "variable.function",
                 "support.function",
                 "keyword.other.special-method",
-                "keyword.other.common.function"
+                "keyword.other.common.function",
+                "entity.name.command",
             ],
             "settings": {
                 "foreground": "#a9dc76"
@@ -1055,6 +1059,8 @@
                 "punctuation.definition.template-expression",
                 "constant.other.placeholder.c",
                 "entity.name.type.module.ts",
+                "punctuation.definition.evaluation",
+                "variable.language.special.shell"
                 // "variable.interpolation.julia",
             ],
             "settings": {

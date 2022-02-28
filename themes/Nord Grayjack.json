@@ -664,6 +664,9 @@
         "genericType": {
 			"foreground": "#8FBCBB",
 		},
+        "templateType": {
+            "foreground": "#8FBCBB",
+        },
 		"enumMember": {
 			"underline": true,
 			"foreground": "#8761bf"
@@ -999,7 +1002,8 @@
                 "variable.function",
                 "support.function",
                 "keyword.other.special-method",
-                "keyword.other.common.function"
+                "keyword.other.common.function",
+                "entity.name.command",
             ],
             "settings": {
                 "foreground": "#88C0D0"
@@ -1056,6 +1060,8 @@
                 "punctuation.definition.template-expression",
                 "constant.other.placeholder.c",
                 "entity.name.type.module.ts",
+                "punctuation.definition.evaluation",
+                "variable.language.special.shell"
                 // "variable.interpolation.julia",
             ],
             "settings": {
