@@ -4,6 +4,11 @@ All notable changes to the this extension will be documented in this file.
 
 ## Unreleased
 
+- Tweak semantic highlight for Rust
+  ([rust-analyzer](https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer))
+- Tweak TextMate colors for Racket
+  ([Magic Racket](https://marketplace.visualstudio.com/items?itemName=evzen-wybitul.magic-racket))
+
 ## 0.12.4
 
 - Tweak semantic highlight for C++

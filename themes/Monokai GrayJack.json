@@ -686,6 +686,9 @@
 		"templateType": {
             "foreground": "#66CCe1",
         },
+		"selfTypeKeyword": {
+            "foreground": "#66CCe1",
+        },
 		"enumMember": {
 			"underline": true,
 			"foreground": "#5596f1"
@@ -962,7 +965,8 @@
 				"markup.deleted.git_gutter",
 				"entity.name.tag.css",
 				"punctuation.definition.keyword.css",
-				"entity.name.tag.wildcard.css"
+				"entity.name.tag.wildcard.css",
+                "storage.struct.racket",
 			],
 			"settings": {
 				"foreground": "#FF3574"
@@ -1269,7 +1273,8 @@
 				"support.type.python",
 				"basicTypes.nim",
 				"meta.class.stanza.dune",
-				"storage.type.cs"
+				"storage.type.cs",
+                "entity.name.struct.racket"
 			],
 			"settings": {
 				"foreground": "#66CCE1",

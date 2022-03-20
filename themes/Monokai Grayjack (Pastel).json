@@ -682,6 +682,9 @@
             "underline": true,
             "foreground": "#84b3f5"
         },
+        "selfTypeKeyword": {
+            "foreground": "#78dce8",
+        },
         "errorTag": {
             "underline": true,
             "italic": true,
@@ -969,7 +972,8 @@
                 "markup.deleted.git_gutter",
                 "entity.name.tag.css",
                 "punctuation.definition.keyword.css",
-                "entity.name.tag.wildcard.css"
+                "entity.name.tag.wildcard.css",
+                "storage.struct.racket",
             ],
             "settings": {
                 "foreground": "#ff6188"
@@ -1277,7 +1281,8 @@
                 "support.type.python",
                 "basicTypes.nim",
                 "meta.class.stanza.dune",
-				"storage.type.cs"
+				"storage.type.cs",
+                "entity.name.struct.racket"
             ],
             "settings": {
                 "foreground": "#78dce8",
