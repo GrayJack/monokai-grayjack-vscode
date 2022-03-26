@@ -2,7 +2,7 @@
 
 All notable changes to the this extension will be documented in this file.
 
-## Unreleased
+## 0.12.5
 
 - Tweak semantic highlight for Rust
   ([rust-analyzer](https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer))
