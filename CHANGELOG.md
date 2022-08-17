@@ -2,6 +2,10 @@
 
 All notable changes to the this extension will be documented in this file.
 
+## Unreleased
+
+- Tweak TextMate colors for ARM assembly ([Arm Assembly](https://marketplace.visualstudio.com/items?itemName=dan-c-underwood.arm))
+
 ## 0.12.5
 
 - Tweak semantic highlight for Rust

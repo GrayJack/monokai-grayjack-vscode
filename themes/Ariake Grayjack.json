@@ -1066,7 +1066,8 @@
                 "constant.other.placeholder.c",
                 "entity.name.type.module.ts",
                 "punctuation.definition.evaluation",
-                "variable.language.special.shell"
+                "variable.language.special.shell",
+                "routine.arm"
                 // "variable.interpolation.julia",
             ],
             "settings": {
