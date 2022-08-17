@@ -5,6 +5,7 @@ All notable changes to the this extension will be documented in this file.
 ## Unreleased
 
 - Tweak TextMate colors for ARM assembly ([Arm Assembly](https://marketplace.visualstudio.com/items?itemName=dan-c-underwood.arm))
+- Tweak TextMate colors for ARM64 assembly ([ARM64 Assembly](https://marketplace.visualstudio.com/items?itemName=MKornelsen.vscode-arm64))
 
 ## 0.12.5
 

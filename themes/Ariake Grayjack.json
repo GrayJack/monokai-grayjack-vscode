@@ -1067,7 +1067,8 @@
                 "entity.name.type.module.ts",
                 "punctuation.definition.evaluation",
                 "variable.language.special.shell",
-                "routine.arm"
+                "routine.arm",
+                "variable.name.labels.arm64"
                 // "variable.interpolation.julia",
             ],
             "settings": {
