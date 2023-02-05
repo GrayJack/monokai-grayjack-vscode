@@ -485,7 +485,7 @@
         "symbolIcon.keywordForeground": "#7e7edd",
         "symbolIcon.methodForeground": "#f5faff",
         "symbolIcon.moduleForeground": "#85b1e0",
-        "symbolIcon.namespaceForeground": "#85b1e0",
+        "symbolIcon.namespaceForeground": "#898C93",
         "symbolIcon.nullForeground": "#dda2f6",
         "symbolIcon.numberForeground": "#dda2f6",
         "symbolIcon.objectForeground": "#a571f4",
@@ -693,17 +693,8 @@
 			"italic": true
         },
 		"namespace": {
-			"foreground": "#85b1e0",
-            "italic": true
+			"foreground": "#898C93",
 		},
-		"namespace:rust": {
-			"foreground": "#C4C9D2",
-            "italic": false
-		},
-		"namespace:cpp": {
-			"foreground": "#C4C9D2",
-			"italic": false
-        },
 		"variable": {
 			"foreground": "#C4C9D2"
 		},
@@ -757,10 +748,6 @@
 			"italic": true
 		},
 		"label": {
-			"foreground": "#85b1e0",
-			"italic": true
-		},
-		"type.namespace:zig": {
 			"foreground": "#85b1e0",
 			"italic": true
 		},
