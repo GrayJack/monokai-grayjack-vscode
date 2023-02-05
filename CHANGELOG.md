@@ -4,6 +4,11 @@ All notable changes to the this extension will be documented in this file.
 
 ## Unreleased
 
+## 0.12.7
+- Improvements to selected text background for Ariake, Monokai (Solarized), One Dark
+
+## 0.12.6
+
 - Tweak TextMate colors for ARM assembly ([Arm Assembly](https://marketplace.visualstudio.com/items?itemName=dan-c-underwood.arm))
 - Tweak TextMate colors for ARM64 assembly ([ARM64 Assembly](https://marketplace.visualstudio.com/items?itemName=MKornelsen.vscode-arm64))
 
