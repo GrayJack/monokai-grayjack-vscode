@@ -796,14 +796,8 @@
             "foreground": "#FAA23D"
         },
 		"parameter": {
-			"foreground": "#fcfcfa",
+			"foreground": "#FAA23D",
 			"fontStyle": ""
-		},
-		"parameter.declaration": {
-			"foreground": "#FAA23D"
-		},
-		"parameter.definition:go": {
-			"foreground": "#FAA23D"
 		},
 		"variable.constant": {
 			"foreground": "#AA7DFC"

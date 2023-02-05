@@ -772,7 +772,7 @@
             "foreground": "#fc9867"
         },
         "parameter": {
-            "foreground": "#C4C9D2",
+            "foreground": "#fc9867",
             "fontStyle": ""
         },
         "character": {
@@ -784,12 +784,6 @@
         "stringLiteral": {
 			"foreground": "#ffd866",
 		},
-        "parameter.declaration": {
-            "foreground": "#fc9867"
-        },
-        "parameter.definition:go": {
-            "foreground": "#fc9867"
-        },
         "variable.constant": {
             "foreground": "#ab9df2"
         },

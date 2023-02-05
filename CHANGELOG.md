@@ -8,6 +8,7 @@ All notable changes to the this extension will be documented in this file.
   - Provides a better contrast between both without removing the information or making it too distracting.
 - Ariake, Monokai (Solarized) and OneDark themes have a slightly lighter text color.
   - Improves contrast between the text and the background.
+- Parameter now have the same color in the function body as in their definition.
 
 ## 0.12.7
 

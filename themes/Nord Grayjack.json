@@ -777,14 +777,8 @@
             "foreground": "#EBCB8B"
         },
 		"parameter": {
-			"foreground": "#D8DEE9",
+			"foreground": "#EBCB8B",
 			"fontStyle": ""
-		},
-		"parameter.declaration": {
-			"foreground": "#EBCB8B"
-		},
-		"parameter.definition:go": {
-			"foreground": "#EBCB8B"
 		},
         "character": {
 			"foreground": "#A3BE8C",
