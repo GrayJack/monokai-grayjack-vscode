@@ -6,6 +6,8 @@ All notable changes to the this extension will be documented in this file.
 
 - Make Punctuation a faded color of the normal text color.
   - Provides a better contrast between both without removing the information or making it too distracting.
+- Ariake, Monokai (Solarized) and OneDark themes have a slightly lighter text color.
+  - Improves contrast between the text and the background.
 
 ## 0.12.7
 
