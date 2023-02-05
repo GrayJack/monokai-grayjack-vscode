@@ -557,6 +557,9 @@
 			"foreground": "#717171",
 			"italic": true
 		},
+        "punctuation": {
+            "foreground": "#b0b0af"
+        },
         "keyword": {
             "foreground": "#ff6188"
         },
@@ -830,34 +833,34 @@
             "foreground": "#d29b79"
         },
         "comma:rust": {
-            "foreground": "#fcfcfa",
+            "foreground": "#b0b0af",
         },
         "dot:rust": {
-            "foreground": "#fcfcfa",
+            "foreground": "#b0b0af",
         },
         // "colon:rust": {
-        //     "foreground": "#fcfcfa",
+        //     "foreground": "#b0b0af",
         // },
         "semicolon:rust": {
-            "foreground": "#fcfcfa",
+            "foreground": "#b0b0af",
         },
         // "angle:rust": {
-        //     "foreground": "#fcfcfa",
+        //     "foreground": "#b0b0af",
         // },
         "brace:rust": {
-            "foreground": "#fcfcfa",
+            "foreground": "#b0b0af",
         },
         "bracket:rust": {
-            "foreground": "#fcfcfa",
+            "foreground": "#b0b0af",
         },
         "parenthesis:rust": {
-            "foreground": "#fcfcfa",
+            "foreground": "#b0b0af",
         },
         "punctuation.injected:rust": {
-            "foreground": "#fcfcfa",
+            "foreground": "#b0b0af",
         },
         "generic:rust": {
-            "foreground": "#fcfcfa",
+            "foreground": "#b0b0af",
         },
         "variable.global": {
 			"underline": true,
@@ -905,16 +908,25 @@
             }
         },
         {
+            "name": "Punctuation",
+            "scope": [
+                "punctuation",
+                "punctuation.separator.period.python",
+                "keyword.operator.sigil.rust",
+                "keyword.operator.key-value.rust",
+                "keyword.operator.access.dot.rust"
+            ],
+            "settings": {
+                "foreground": "#b0b0af"
+            }
+        },
+        {
             "name": "Variables",
             "scope": [
                 "variable",
                 "meta.function-call.arguments",
                 "string constant.other.placeholder",
                 // "punctuation",
-                "keyword.operator.sigil.rust",
-                "keyword.operator.access.dot.rust",
-                "keyword.operator.key-value.rust",
-                "punctuation.separator.period.python",
                 "meta.function-call.java",
                 "storage.modifier.import.java",
                 "variable.other.object",

@@ -546,6 +546,9 @@
 			"foreground": "#616E88",
 			"italic": true
 		},
+        "punctuation": {
+            "foreground": "#979BA3"
+        },
 		"keyword": {
 			"foreground": "#81A1C1"
 		},
@@ -816,28 +819,28 @@
 			"bold": true
 		},
 		"comma:rust": {
-            "foreground": "#D8DEE9",
+            "foreground": "#979BA3",
         },
         "dot:rust": {
-            "foreground": "#D8DEE9",
+            "foreground": "#979BA3",
         },
         // "colon:rust": {
-        //     "foreground": "#D8DEE9",
+        //     "foreground": "#979BA3",
         // },
         "semicolon:rust": {
-            "foreground": "#D8DEE9",
+            "foreground": "#979BA3",
         },
         "angle:rust": {
-            "foreground": "#D8DEE9",
+            "foreground": "#979BA3",
         },
         "brace:rust": {
-            "foreground": "#D8DEE9",
+            "foreground": "#979BA3",
         },
         "bracket:rust": {
-            "foreground": "#D8DEE9",
+            "foreground": "#979BA3",
         },
 		"punctuation.injected:rust": {
-            "foreground": "#D8DEE9",
+            "foreground": "#979BA3",
         },
         "generic:rust": {
             "foreground": "#D8DEE9",
@@ -887,16 +890,24 @@
             }
         },
         {
+            "name": "Punctuation",
+            "scope": [
+                "punctuation",
+                "punctuation.separator.period.python",
+                "keyword.operator.sigil.rust",
+                "keyword.operator.key-value.rust",
+                "keyword.operator.access.dot.rust"
+            ],
+            "settings": {
+                "foreground": "#979BA3"
+            }
+        },
+        {
             "name": "Variables",
             "scope": [
                 "variable",
                 "meta.function-call.arguments",
                 "string constant.other.placeholder",
-                // "punctuation",
-                "keyword.operator.sigil.rust",
-                "keyword.operator.access.dot.rust",
-                "keyword.operator.key-value.rust",
-                "punctuation.separator.period.python",
                 "meta.function-call.java",
                 "storage.modifier.import.java",
                 "variable.other.object",

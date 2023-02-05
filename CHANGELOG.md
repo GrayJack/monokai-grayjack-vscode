@@ -4,7 +4,11 @@ All notable changes to the this extension will be documented in this file.
 
 ## Unreleased
 
+- Make Punctuation a faded color of the normal text color.
+  - Provides a better contrast between both without removing the information or making it too distracting.
+
 ## 0.12.7
+
 - Improvements to selected text background for Ariake, Monokai (Solarized), One Dark
 
 ## 0.12.6
