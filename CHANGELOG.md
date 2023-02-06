@@ -12,6 +12,8 @@ All notable changes to the this extension will be documented in this file.
   - Uses a slitly faded color of the normal text color.
 - Tweak semantic highlight for Python ([Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance))
   - Color global read-only variables as constant.
+- Tweak TextMate colors for Python
+  - Format placeholder is styled like format placeholder in semantic highlight.
 
 ## 0.12.7
 

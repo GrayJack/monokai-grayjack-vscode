@@ -1042,7 +1042,6 @@
                 "storage.modifier.lifetime.rust",
                 "punctuation.definition.lifetime.rust",
                 "entity.name.type.lifetime.rust",
-                "constant.character.format.placeholder.other.python",
                 "variable.other.generic-type.haskell",
                 "punctuation.definition.template-expression",
                 "constant.other.placeholder.c",
@@ -1072,6 +1071,16 @@
             ],
             "settings": {
                 "foreground": "#E06C75",
+            }
+        },
+        {
+            "name": "Format parameter",
+            "scope": [
+                "constant.character.format.placeholder.other.python",
+            ],
+            "settings": {
+                "foreground": "#E06C75",
+                "fontStyle": "bold"
             }
         },
         {
