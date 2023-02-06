@@ -495,7 +495,7 @@
 		"symbolIcon.keyForeground": "#FAA23D",
 		"symbolIcon.keywordForeground": "#FF3574",
 		"symbolIcon.methodForeground": "#B2E64C",
-		"symbolIcon.moduleForeground": "#CC8D66",
+		"symbolIcon.moduleForeground": "#b0b0af",
 		"symbolIcon.namespaceForeground": "#b0b0af",
 		"symbolIcon.nullForeground": "#AA7DFC",
 		"symbolIcon.numberForeground": "#AA7DFC",
@@ -708,8 +708,7 @@
 			"foreground": "#5596f1"
 		},
 		"module": {
-			"foreground": "#CC8D66",
-			"italic": true
+			"foreground": "#b0b0af",
         },
 		"namespace": {
 			"foreground": "#b0b0af",
@@ -1067,7 +1066,6 @@
 				"variable.other.generic-type.haskell",
 				"punctuation.definition.template-expression",
 				"constant.other.placeholder.c",
-				"entity.name.type.module.ts",
 				"punctuation.definition.evaluation",
                 "variable.language.special.shell",
                 "routine.arm",
@@ -1095,6 +1093,15 @@
 				"foreground": "#CC8D66",
 			}
 		},
+		{
+            "name": "Namespace",
+            "scope": [
+                "entity.name.type.module.ts",
+            ],
+            "settings": {
+                "foreground": "#b0b0af",
+            }
+        },
 		{
 			"name": "Block Level Variables",
 			"scope": [

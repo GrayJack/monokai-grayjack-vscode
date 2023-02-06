@@ -475,8 +475,8 @@
         "symbolIcon.keyForeground": "#be5046",
         "symbolIcon.keywordForeground": "#C678DD",
         "symbolIcon.methodForeground": "#61AFEF",
-        "symbolIcon.moduleForeground": "#E06C75",
-        "symbolIcon.namespaceForeground": "#898C93",
+        "symbolIcon.moduleForeground": "#9CA0A8",
+        "symbolIcon.namespaceForeground": "#9CA0A8",
         "symbolIcon.nullForeground": "#D19A66",
         "symbolIcon.numberForeground": "#D19A66",
         "symbolIcon.objectForeground": "#56B6C2",
@@ -679,11 +679,10 @@
 			"foreground": "#8e85f5",
 		},
         "module": {
-			"foreground": "#E06C75",
-			"italic": true
+			"foreground": "#9CA0A8",
         },
 		"namespace": {
-            "foreground": "#898C93",
+            "foreground": "#9CA0A8",
 		},
 		"variable": {
 			"foreground": "#C4C9D2"
@@ -1044,7 +1043,6 @@
                 "variable.other.generic-type.haskell",
                 "punctuation.definition.template-expression",
                 "constant.other.placeholder.c",
-                "entity.name.type.module.ts",
                 "punctuation.definition.evaluation",
                 "variable.language.special.shell",
                 "routine.arm",
@@ -1071,6 +1069,15 @@
             ],
             "settings": {
                 "foreground": "#E06C75",
+            }
+        },
+        {
+            "name": "Namespace",
+            "scope": [
+                "entity.name.type.module.ts",
+            ],
+            "settings": {
+                "foreground": "#898C93",
             }
         },
         {
