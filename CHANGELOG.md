@@ -10,6 +10,8 @@ All notable changes to the this extension will be documented in this file.
   - Improves contrast between the text and the background.
 - Unify the color of the namespace token.
   - Uses a slitly faded color of the normal text color.
+- Tweak semantic highlight for Python ([Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance))
+  - Color global read-only variables as constant.
 
 ## 0.12.7
 

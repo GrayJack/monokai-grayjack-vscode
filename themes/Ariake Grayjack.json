@@ -781,6 +781,9 @@
 		"variable.static": {
 			"foreground": "#dda2f6"
 		},
+        "variable.readonly:python": {
+            "foreground": "#dda2f6"
+        },
 		"keywordLiteral:zig": {
             "foreground": "#dda2f6"
         },
