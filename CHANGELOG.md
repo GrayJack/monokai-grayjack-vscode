@@ -2,7 +2,7 @@
 
 All notable changes to the this extension will be documented in this file.
 
-## Unreleased
+## 0.13.0
 
 - Make Punctuation a faded color of the normal text color.
   - Provides a better contrast between both without removing the information or making it too distracting.
