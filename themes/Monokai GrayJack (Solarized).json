@@ -390,6 +390,7 @@
         // "quickInput.foreground": "#ff0000",
         // "quickInputTitle.background": "#ff0000",
         // TERMINAL
+        "terminal.selectionBackground": "#717171C0",
         "terminal.background": "#3E4451",
         "terminal.foreground": "#C4C9D2",
         "terminal.ansiBlack": "#3E4451",
