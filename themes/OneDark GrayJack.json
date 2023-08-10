@@ -684,6 +684,9 @@
 		"namespace": {
             "foreground": "#9CA0A8",
 		},
+        "type.namespace:zig": {
+			"foreground": "#9CA0A8",
+		},
 		"variable": {
 			"foreground": "#C4C9D2"
 		},

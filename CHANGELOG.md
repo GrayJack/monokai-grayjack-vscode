@@ -2,6 +2,10 @@
 
 All notable changes to the this extension will be documented in this file.
 
+## Unreleased
+
+- Tweak semantic and TextMate highlight for [Zig](https://marketplace.visualstudio.com/items?itemName=ziglang.vscode-zig)
+
 ## 0.13.0
 
 - Make Punctuation a faded color of the normal text color.

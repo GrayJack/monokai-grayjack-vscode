@@ -705,6 +705,9 @@
         "namespace": {
             "foreground": "#b0b0af",
         },
+        "type.namespace:zig": {
+			"foreground": "#b0b0af",
+		},
         "variable": {
             "foreground": "#fcfcfa"
         },
@@ -1057,10 +1060,21 @@
 				"entity.name.type.result.rust",
                 "constant.other.haskell",
                 "variable.other.enummember.cpp",
+                "variable.other.enummember.zig"
             ],
             "settings": {
                 "foreground": "#84b3f5",
                 "fontStyle": "underline",
+            }
+        },
+        {
+            "name": "Error tags",
+            "scope": [
+                "variable.constant.error.zig",
+            ],
+            "settings": {
+                "foreground": "#84b3f5",
+                "fontStyle": "underline italic",
             }
         },
         {
@@ -1188,7 +1202,7 @@
         {
             "name": "Attributes",
             "scope": [
-                "meta.attribute",
+                // "meta.attribute",
                 "meta.attributes",
                 "entity.name.function.attribute",
                 "meta.preprocessor.pragma.nim",
