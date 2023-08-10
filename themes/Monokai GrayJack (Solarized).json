@@ -362,7 +362,7 @@
         // "menu.selectionBorder": "#ff0000",
         // "menu.selectionForeground": "#ff0000",
         // "menu.separatorBackground": "#ff0000",
-        // "menubar.selectionBackground": "#ff0000",
+        // "menubar.selectionBackground": "#3e4451A0",
         // "menubar.selectionBorder": "#ff0000",
         // "menubar.selectionForeground": "#ff0000",
         // NOTIFICATION
@@ -776,6 +776,9 @@
             "foreground": "#ab9df2"
         },
         "variable.readonly:python": {
+            "foreground": "#ab9df2"
+        },
+        "property.readonly:java": {
             "foreground": "#ab9df2"
         },
         "keywordLiteral:zig": {

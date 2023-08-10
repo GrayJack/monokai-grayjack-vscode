@@ -798,6 +798,9 @@
         "variable.readonly:python": {
             "foreground": "#ab9df2"
         },
+        "property.readonly:java": {
+            "foreground": "#ab9df2"
+        },
         "keywordLiteral:zig": {
             "foreground": "#ab9df2"
         },

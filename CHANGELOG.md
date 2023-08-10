@@ -4,6 +4,7 @@ All notable changes to the this extension will be documented in this file.
 
 ## Unreleased
 
+- Tweak semantic highlight for [Java](https://marketplace.visualstudio.com/items?itemName=redhat.java) -> colorize `readonly` as constant color
 - Tweak semantic and TextMate highlight for [Zig](https://marketplace.visualstudio.com/items?itemName=ziglang.vscode-zig)
 
 ## 0.13.0
