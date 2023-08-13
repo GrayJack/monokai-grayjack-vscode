@@ -858,6 +858,10 @@
 		"*.typeHint": {
             "foreground": "#73daca",
         },
+        "annotation:java": {
+            "foreground": "#2ac3de",
+            "italic": true,
+        },
 		"*.decorator": {
             "foreground": "#2ac3de",
             "italic": true,

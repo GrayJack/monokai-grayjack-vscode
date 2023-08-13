@@ -872,6 +872,10 @@
             "foreground": "#78dce8",
             // "italic": true,
         },
+        "annotation:java": {
+            "foreground": "#84b3f5",
+            "italic": true,
+        },
         "*.decorator": {
             "foreground": "#84b3f5",
             "italic": true,

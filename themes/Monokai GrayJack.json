@@ -868,6 +868,10 @@
             "foreground": "#66CCe1",
             // "italic": true,
         },
+		"annotation:java": {
+            "foreground": "#5596f1",
+            "italic": true,
+        },
 		"*.decorator": {
             "foreground": "#5596f1",
             "italic": true,
