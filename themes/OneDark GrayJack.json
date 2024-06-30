@@ -731,6 +731,9 @@
 		"attribute": {
 			"foreground": "#e5c07b"
 		},
+        "modifier:swift": {
+			"foreground": "#e5c07b"
+		},
 		"formatSpecifier": {
 			"foreground": "#E06C75",
 			"bold": true
@@ -1040,7 +1043,8 @@
 				"entity.name.type.result.rust",
                 "constant.other.haskell",
                 "variable.other.enummember.cpp",
-                "variable.other.enummember.zig"
+                "variable.other.enummember.zig",
+                "variable.other.enummember.swift"
             ],
             "settings": {
                 "foreground": "#8e85f5",
