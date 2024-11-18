@@ -2,7 +2,7 @@
 
 All notable changes to the this extension will be documented in this file.
 
-## Unreleased
+## 0.14.0
 
 -   UI: Improve stick scroll visibility
 -   Tweak semantic highlight for [Swift](https://marketplace.visualstudio.com/items?itemName=sswg.swift-lang) -> handle attributes (they have the `modifier` token for some reason)
