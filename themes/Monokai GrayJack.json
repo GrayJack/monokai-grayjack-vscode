@@ -140,6 +140,8 @@
 		"sideBarSectionHeader.background": "#403e41",
 		"sideBarSectionHeader.border": "#19181a",
 		"sideBarSectionHeader.foreground": "#d9aa8c",
+		"sideBarStickyScroll.border": "#19181a",
+        "sideBarStickyScroll.shadow": "#19181a",
 		// MINIMAP
 		"minimap.background": "#221f22",
 		"minimap.errorHighlight": "#FF3574",
@@ -214,6 +216,9 @@
 		// "editor.stackFrameHighlightBackground": "#ff0000",
 		// "editor.symbolHighlightBackground": "#ff0000",
 		// "editor.symbolHighlightBorder": "#ff0000",
+		"editorStickyScroll.border": "#19181a",
+        "editorStickyScroll.shadow": "#19181a",
+        "editorStickyScrollHover.background": "#403e41",
 		"editor.wordHighlightBackground": "#fcfcfa26",
 		"editor.wordHighlightBorder": "#00000000",
 		"editor.wordHighlightStrongBackground": "#fcfcfa26",
@@ -346,6 +351,8 @@
 		// "panelSectionHeader.background": "#ff0000",
 		// "panelSectionHeader.border": "#ff0000",
 		// "panelSectionHeader.foreground": "#ff0000",
+		"panelStickyScroll.border": "#19181a",
+        "panelStickyScroll.shadow": "#19181a",
 		"panelTitle.activeBorder": "#5596f1",
 		"panelTitle.activeForeground": "#5596f1",
 		"panelTitle.inactiveForeground": "#939293",
@@ -775,6 +782,10 @@
 			"foreground": "#CC8D66",
 			"italic": true
 		},
+		"function.argumentLabel": {
+            "foreground": "#CC8D66",
+            "italic": true
+        },
 		"selfKeyword": {
 			"italic": true,
 			"foreground": "#FAA23D"
@@ -1124,6 +1135,8 @@
             "name": "Format parameter",
             "scope": [
                 "constant.character.format.placeholder.other.python",
+				"punctuation.section.embedded.begin.swift",
+                "punctuation.section.embedded.end.swift"
             ],
             "settings": {
                 "foreground": "#CC8D66",
@@ -1248,7 +1261,8 @@
 				"variable.parameter",
 				"keyword.other.self.rust",
 				"meta.parens.block.c",
-				"variable.css"
+				"variable.css",
+                "variable.language.closure-parameter.swift"
 				// "meta.function.definition.parameters",
 			],
 			"settings": {

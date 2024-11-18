@@ -4,6 +4,7 @@ All notable changes to the this extension will be documented in this file.
 
 ## Unreleased
 
+-   UI: Improve stick scroll visibility
 -   Tweak semantic highlight for [Swift](https://marketplace.visualstudio.com/items?itemName=sswg.swift-lang) -> handle attributes (they have the `modifier` token for some reason)
 -   Tweak TextMate for [Swift](https://marketplace.visualstudio.com/items?itemName=sswg.swift-lang) -> handle enum variant
 -   Tweak semantic highlight for [Java](https://marketplace.visualstudio.com/items?itemName=redhat.java) -> handle `@` annotations

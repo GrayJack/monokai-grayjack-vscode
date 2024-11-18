@@ -119,6 +119,8 @@
         "sideBarSectionHeader.background": "#333842",
         "sideBarSectionHeader.border": "#221f22",
         "sideBarSectionHeader.foreground": "#dfb79f",
+        "sideBarStickyScroll.border": "#19181a",
+        "sideBarStickyScroll.shadow": "#19181a",
         // MINIMAP
         "minimap.background": "#21252B",
         "minimap.errorHighlight": "#E06C75",
@@ -194,6 +196,9 @@
         // "editor.stackFrameHighlightBackground": "#ff0000",
         // "editor.symbolHighlightBackground": "#ff0000",
         // "editor.symbolHighlightBorder": "#ff0000",
+        "editorStickyScroll.border": "#19181a",
+        "editorStickyScroll.shadow": "#19181a",
+        "editorStickyScrollHover.background": "#3E4451",
         "editor.wordHighlightBackground": "#C4C9D226",
         "editor.wordHighlightBorder": "#00000000",
         "editor.wordHighlightStrongBackground": "#C4C9D226",
@@ -326,6 +331,8 @@
         // "panelSectionHeader.background": "#ff0000",
         // "panelSectionHeader.border": "#ff0000",
         // "panelSectionHeader.foreground": "#ff0000",
+        "panelStickyScroll.border": "#19181a",
+        "panelStickyScroll.shadow": "#19181a",
         "panelTitle.activeBorder": "#61AFEF",
         "panelTitle.activeForeground": "#61AFEF",
         "panelTitle.inactiveForeground": "#939293",
@@ -746,6 +753,10 @@
 			"foreground": "#E06C75",
 			"italic": true
 		},
+        "function.argumentLabel": {
+            "foreground": "#E06C75",
+            "italic": true
+        },
 		"selfKeyword": {
 			"italic": true,
 			"foreground": "#be5046"
@@ -1102,6 +1113,8 @@
             "name": "Format parameter",
             "scope": [
                 "constant.character.format.placeholder.other.python",
+                "punctuation.section.embedded.begin.swift",
+                "punctuation.section.embedded.end.swift"
             ],
             "settings": {
                 "foreground": "#E06C75",
@@ -1226,7 +1239,8 @@
                 "variable.parameter",
                 "keyword.other.self.rust",
                 "meta.parens.block.c",
-                "variable.css"
+                "variable.css",
+                "variable.language.closure-parameter.swift"
                 // "meta.function.definition.parameters",
             ],
             "settings": {
