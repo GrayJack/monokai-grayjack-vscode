@@ -70,7 +70,7 @@
         "dropdown.background": "#2d2a2e",
         "dropdown.border": "#2d2a2e",
         "dropdown.foreground": "#939293",
-        "dropdown.listBackground": "#403e41",
+        "dropdown.listBackground": "#3d3c3e",
         // INPUT CONTROL
         "input.border": "#403e41",
         "input.background": "#333234",
