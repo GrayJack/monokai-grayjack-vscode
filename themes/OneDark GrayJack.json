@@ -1,7 +1,7 @@
 // #E06C75: Fields and labels/lifetimes (italic) and controlflow operators and Namespace in some cases (italic)
 // #C678DD: Keywords and operators
 // #e06caf: unsafe/should be used with caution keywords
-// #be5046: Parameters and `this`/`self` (italic), lisp keywords
+// #C46158: Parameters and `this`/`self` (italic), lisp keywords
 // #98C379: strings
 // #e5c07b: Attributes
 // #61AFEF: Function/methods/callables (mutable => underline) (unsafe => italic)
@@ -209,7 +209,7 @@
         "editorBracketHighlight.foreground4": "#a6cb8b",
         "editorBracketHighlight.foreground5": "#69bec9",
         "editorBracketHighlight.foreground6": "#a49df7",
-        "editorBracketHighlight.unexpectedBracket.foreground": "#be5046",
+        "editorBracketHighlight.unexpectedBracket.foreground": "#C46158",
         "editorBracketMatch.background": "#282C34",
         "editorBracketMatch.border": "#727072",
         "editorCodeLens.foreground": "#727072",
@@ -238,7 +238,7 @@
         "editorInlayHint.typeBackground": "#31353fC0",
         "editorInlayHint.typeForeground": "#56B6C2C0",
         "editorInlayHint.parameterBackground": "#31353fC0",
-        "editorInlayHint.parameterForeground": "#be5046C0",
+        "editorInlayHint.parameterForeground": "#C46158C0",
         "rust_analyzer.inlayHints.background": "#31353fC0",
         "rust_analyzer.inlayHints.foreground": "#5C6370C0",
         "rust_analyzer.inlayHints.background.typeHints": "#31353fC0",
@@ -246,7 +246,7 @@
         "rust_analyzer.inlayHints.background.chainingHints": "#31353fC0",
         "rust_analyzer.inlayHints.foreground.chainingHints": "#56B6C2C0",
         "rust_analyzer.inlayHints.background.parameterHints": "#31353fC0",
-        "rust_analyzer.inlayHints.foreground.parameterHints": "#be5046C0",
+        "rust_analyzer.inlayHints.foreground.parameterHints": "#C46158C0",
         "editorLightBulb.foreground": "#e5c07b",
         "editorLightBulbAutoFix.foreground": "#98C379",
         "editorLineNumber.activeForeground": "#d7a1e7",
@@ -408,8 +408,8 @@
         "terminal.ansiBrightYellow": "#e5c07b",
         "terminal.ansiBlue": "#61AFEF",
         "terminal.ansiBrightBlue": "#61AFEF",
-        "terminal.ansiMagenta": "#be5046",
-        "terminal.ansiBrightMagenta": "#be5046",
+        "terminal.ansiMagenta": "#C46158",
+        "terminal.ansiBrightMagenta": "#C46158",
         "terminal.ansiCyan": "#56B6C2",
         "terminal.ansiBrightCyan": "#56B6C2",
         "terminal.ansiWhite": "#C4C9D2",
@@ -440,7 +440,7 @@
         "gitDecoration.ignoredResourceForeground": "#C4C9D276",
         "gitDecoration.modifiedResourceForeground": "#61AFEF",
         "gitDecoration.submoduleResourceForeground": "#56B6C2",
-        "gitDecoration.untrackedResourceForeground": "#be5046",
+        "gitDecoration.untrackedResourceForeground": "#C46158",
         // SETTINGS EDITOR
         "settings.checkboxBackground": "#3E4451",
         "settings.checkboxBorder": "#3E4451",
@@ -473,13 +473,13 @@
         "symbolIcon.constructorForeground": "#61AFEF",
         "symbolIcon.enumeratorForeground": "#56B6C2",
         "symbolIcon.enumeratorMemberForeground": "#8e85f5",
-        "symbolIcon.eventForeground": "#be5046",
+        "symbolIcon.eventForeground": "#C46158",
         "symbolIcon.fieldForeground": "#E06C75",
         "symbolIcon.fileForeground": "#c1c0c0",
         "symbolIcon.folderForeground": "#c1c0c0",
         "symbolIcon.functionForeground": "#61AFEF",
         "symbolIcon.interfaceForeground": "#56B6C2",
-        "symbolIcon.keyForeground": "#be5046",
+        "symbolIcon.keyForeground": "#C46158",
         "symbolIcon.keywordForeground": "#C678DD",
         "symbolIcon.methodForeground": "#61AFEF",
         "symbolIcon.moduleForeground": "#9CA0A8",
@@ -491,7 +491,7 @@
         "symbolIcon.unitForeground": "#D19A66",
         "symbolIcon.packageForeground": "#e06caf",
         "symbolIcon.propertyForeground": "#e5c07b",
-        "symbolIcon.referenceForeground": "#be5046",
+        "symbolIcon.referenceForeground": "#C46158",
         "symbolIcon.structForeground": "#56B6C2",
         "symbolIcon.snippetForeground": "#E06C75",
         "symbolIcon.stringForeground": "#98C379",
@@ -759,18 +759,18 @@
         },
 		"selfKeyword": {
 			"italic": true,
-			"foreground": "#be5046"
+			"foreground": "#C46158"
 		},
 		"selfParameter": {
             "italic": true,
-            "foreground": "#be5046"
+            "foreground": "#C46158"
 		},
 		"clsParameter": {
             "italic": true,
-            "foreground": "#be5046"
+            "foreground": "#C46158"
         },
 		"parameter": {
-			"foreground": "#be5046",
+			"foreground": "#C46158",
 			"fontStyle": ""
 		},
         "character": {
@@ -1244,7 +1244,7 @@
                 // "meta.function.definition.parameters",
             ],
             "settings": {
-                "foreground": "#be5046",
+                "foreground": "#C46158",
             }
         },
         {
@@ -1253,7 +1253,7 @@
                 "constant.keyword.janet",
             ],
             "settings": {
-                "foreground": "#be5046",
+                "foreground": "#C46158",
             }
         },
         {
@@ -1262,7 +1262,7 @@
 				"keyword.other.racket"
 			],
 			"settings": {
-				"foreground": "#be5046",
+				"foreground": "#C46158",
 				"fontStyle": "italic"
 			}
 		},
@@ -1360,7 +1360,7 @@
             ],
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#be5046"
+                "foreground": "#C46158"
             }
         },
         {
@@ -1579,7 +1579,7 @@
                 "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
             ],
             "settings": {
-                "foreground": "#be5046"
+                "foreground": "#C46158"
             }
         },
         {

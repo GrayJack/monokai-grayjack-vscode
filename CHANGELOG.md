@@ -6,6 +6,7 @@ All notable changes to the this extension will be documented in this file.
 -   UI: Nord: Fix shadows being invisible on some of the backgrounds
 -   UI: Monokai and Monokai Pastel: Make list dropdown background slightly darker
 -   UI: Monokai Solarized: Change color of the active line
+-   UI: One Dark: Reduce contrast of the "orange" color
 
 ## 0.14.0
 
