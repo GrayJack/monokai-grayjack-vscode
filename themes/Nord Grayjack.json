@@ -27,7 +27,7 @@
         // BASE
         "focusBorder": "#88C0D0",
         "foreground": "#D8DEE9",
-        "widget.shadow": "#232831",
+        "widget.shadow": "#181A1F",
         "selection.background": "#6f7bb630",
         "descriptionForeground": "#616e88",
         "errorForeground": "#BF616A",

@@ -2,6 +2,9 @@
 
 All notable changes to the this extension will be documented in this file.
 
+## Unreleased
+-   UI: Nord: Fix shadows being invisible on some of the backgrounds
+
 ## 0.14.0
 
 -   UI: Improve stick scroll visibility
