@@ -250,7 +250,7 @@
         "rust_analyzer.inlayHints.foreground.parameterHints": "#fc9867C0",
         "editorLightBulb.foreground": "#ffd866",
         "editorLightBulbAutoFix.foreground": "#c5ec79",
-        "editorLineNumber.activeForeground": "#b3d0f9",
+        "editorLineNumber.activeForeground": "#c4e7a1",
         "editorLineNumber.foreground": "#737f95",
         "editorLink.activeForeground": "#78dce8",
         "editorMarkerNavigation.background": "#3E4451",
