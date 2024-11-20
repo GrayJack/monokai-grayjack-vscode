@@ -24,7 +24,7 @@ All notable changes to the this extension will be documented in this file.
 -   Ariake, Monokai (Solarized) and OneDark themes have a slightly lighter text color.
     -   Improves contrast between the text and the background.
 -   Unify the color of the namespace token.
-    -   Uses a slitly faded color of the normal text color.
+    -   Uses a slightly faded color of the normal text color.
 -   Tweak semantic highlight for Python ([Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance))
     -   Color global read-only variables as constant.
 -   Tweak TextMate colors for Python

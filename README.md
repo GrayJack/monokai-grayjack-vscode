@@ -46,6 +46,46 @@ For now only themes based on Ariake, Monokai, Nord, OneDark and Tokyo Night
 
 ![Preview Nord Night Grayjack 2](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/preview-code-nord.png)
 
+## Language specific support
+
+This plugin should work reasonable well with any language if their TextMate grammar follow the VSCode standards and the LSP Semantic Tokens follow the LSP standards.
+If this is not the case, and things feels out of place, fell free to open a issue or a pull request in the repository.
+
+With that said, optimizations for coloring was made for the following languages:
+
+- AARCH64 Assembly
+- AGDA
+- ARM Assembly
+- C
+- C#
+- C++
+- Clojure
+- CSS
+- D
+- F#
+- Go
+- Haskell
+- HTML
+- Janet
+- Java
+- JavaScript
+- JSON/JSONC
+- Julia
+- Kotlin
+- Lua
+- Markdown
+- Nim
+- OCaml
+- Python
+- Racket
+- Rust
+- Swift
+- TOML
+- TypeScript
+- X86/X86_64 Assembly
+- YAML
+- Zig
+
 ## Customization
 
 Didn't like something the way I did? You can easily change the configuration in
