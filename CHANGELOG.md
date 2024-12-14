@@ -7,6 +7,7 @@ All notable changes to the this extension will be documented in this file.
 -   UI: Monokai and Monokai Pastel: Make list dropdown background slightly darker
 -   UI: Monokai Solarized: Change color of the active line
 -   UI: One Dark: Reduce contrast of the "orange" color
+-   UI: Ariake and Monokai Solarized: Fix selection color on menus and inputs
 -   Tweak property highlight for JS/TS
 -   Add initial support for Koka
 
