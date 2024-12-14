@@ -913,7 +913,8 @@
                 "punctuation.separator.period.python",
                 "keyword.operator.sigil.rust",
                 "keyword.operator.key-value.rust",
-                "keyword.operator.access.dot.rust"
+                "keyword.operator.access.dot.rust",
+                "koka.type",
             ],
             "settings": {
                 "foreground": "#b0b0af"
@@ -1011,6 +1012,7 @@
 				"punctuation.separator.scope-resolution.cpp",
 				"punctuation.separator.colon.python",
 				"punctuation.separator.annotation.result.python",
+				"koka.op",
 			],
 			"settings": {
 				"foreground": "#FF3574"
@@ -1147,6 +1149,7 @@
             "name": "Namespace",
             "scope": [
                 "entity.name.type.module.ts",
+				"koka.moduleid",
             ],
             "settings": {
                 "foreground": "#b0b0af",
@@ -1263,7 +1266,8 @@
 				"keyword.other.self.rust",
 				"meta.parens.block.c",
 				"variable.css",
-                "variable.language.closure-parameter.swift"
+                "variable.language.closure-parameter.swift",
+				"koka.id.param",
 				// "meta.function.definition.parameters",
 			],
 			"settings": {
@@ -1327,7 +1331,8 @@
 				"basicTypes.nim",
 				"meta.class.stanza.dune",
 				"storage.type.cs",
-                "entity.name.struct.racket"
+                "entity.name.struct.racket",
+                "koka.type.typecon",
 			],
 			"settings": {
 				"foreground": "#66CCE1",

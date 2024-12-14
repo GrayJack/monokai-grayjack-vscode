@@ -50,7 +50,7 @@ For now only themes based on Ariake, Monokai, Nord, OneDark and Tokyo Night
 
 This plugin should work reasonable well with any language if their TextMate grammar follow the VSCode standards and the LSP Semantic Tokens follow the LSP standards.
 If this is not the case, and things feels out of place, fell free to open a issue or a pull request in the repository.
-
+c
 With that said, optimizations for coloring was made for the following languages:
 
 - AARCH64 Assembly
