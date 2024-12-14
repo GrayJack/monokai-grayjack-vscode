@@ -1227,6 +1227,7 @@
                 "variable.other.member",
                 "meta.member",
                 "variable.other.object.property",
+                "variable.object.property",
 				"entity.name.variable.property"
             ],
             "settings": {
