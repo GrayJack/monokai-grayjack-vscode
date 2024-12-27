@@ -15,6 +15,7 @@ All notable changes to the this extension will be documented in this file.
     - This also makes custom codes inside attributes remain colorized as code instead of overwriting with the attribute color.
     - This also makes literals inside attributes remain colorized their literal color instead of overwriting with the attribute color.
 -   Add initial support for Koka
+-   Fix JSON warnings
 
 ## 0.14.0
 
