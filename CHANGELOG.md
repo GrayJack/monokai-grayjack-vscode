@@ -8,7 +8,12 @@ All notable changes to the this extension will be documented in this file.
 -   UI: Monokai Solarized: Change color of the active line
 -   UI: One Dark: Reduce contrast of the "orange" color
 -   UI: Ariake and Monokai Solarized: Fix selection color on menus and inputs
--   Tweak property highlight for JS/TS
+-   Tweak TextMate for TS/JS -> Tweak property highlight for JS/TS
+-   Tweak TextMate for Rust -> Add scope used by recent version of the TextMate grammar
+-   Tweak semantic highlight for [Rust]((https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer)) -> Rework the highlight for rust attributes
+    - This change makes derives names being italic like all interfaces but remain the color of attributes
+    - This also makes custom codes inside attributes remain colorized as code instead of overwriting with the attribute color.
+    - This also makes literals inside attributes remain colorized their literal color instead of overwriting with the attribute color.
 -   Add initial support for Koka
 
 ## 0.14.0

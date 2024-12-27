@@ -767,6 +767,28 @@
 		"attribute": {
 			"foreground": "#FAF7B1"
 		},
+		"attributeBracket": {
+            "foreground": "#FAF7B1"
+        },
+        "builtinAttribute": {
+            "foreground": "#FAF7B1"
+        },
+        "deriveHelper": {
+            "foreground": "#FAF7B1"
+        },
+        "generic.attribute": {
+            "foreground": "#FAF7B1"
+        },
+        "decorator.attribute": {
+            "foreground": "#FAF7B1"
+        },
+		"operator.attribute": {
+            "foreground": "#FAF7B1"
+        },
+        "derive": {
+            "foreground": "#FAF7B1",
+            "italic": true
+        },
 		"modifier:swift": {
 			"foreground": "#FAF7B1"
 		},
@@ -871,12 +893,6 @@
         },
 		"*.callable": {
             "foreground": "#B2E64C"
-        },
-		"*.attribute": {
-			"foreground": "#FAF7B1"
-		},
-		"*.attribute:rust": {
-            "foreground": "#FAF7B1"
         },
 		"*.typeHint": {
             "foreground": "#66CCe1",
@@ -1136,6 +1152,7 @@
 		{
             "name": "Format parameter",
             "scope": [
+				"punctuation.definition.interpolation.rust",
                 "constant.character.format.placeholder.other.python",
 				"punctuation.section.embedded.begin.swift",
                 "punctuation.section.embedded.end.swift"
@@ -1230,6 +1247,8 @@
 				"meta.preprocessor.pragma.nim",
 				"punctuation.pragma.start.nim",
 				"punctuation.pragma.end.nim",
+				"meta.attribute.rust",
+				"meta.attribute.rust keyword.operator.namespace.rust",
 				"punctuation.brackets.attribute.rust",
 				"punctuation.definition.attribute.rust",
 				"entity.name.function.preprocessor.nim",
@@ -1244,6 +1263,16 @@
 				"foreground": "#FAF7B1",
 			}
 		},
+		{
+            "name": "Attributes types",
+            "scope": [
+                "meta.attribute.rust entity.name.type.rust",
+            ],
+            "settings": {
+                "foreground": "#FAF7B1",
+                "fontStyle": "italic"
+            }
+        },
 		{
 			"name": "Fields",
 			"scope": [

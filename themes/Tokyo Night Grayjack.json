@@ -748,6 +748,28 @@
 		"attribute": {
 			"foreground": "#b4f9f8"
 		},
+        "attributeBracket": {
+            "foreground": "#b4f9f8"
+        },
+        "builtinAttribute": {
+            "foreground": "#b4f9f8"
+        },
+        "deriveHelper": {
+            "foreground": "#b4f9f8"
+        },
+        "generic.attribute": {
+            "foreground": "#b4f9f8"
+        },
+        "decorator.attribute": {
+            "foreground": "#b4f9f8"
+        },
+        "operator.attribute": {
+            "foreground": "#b4f9f8"
+        },
+        "derive": {
+            "foreground": "#b4f9f8",
+            "italic": true
+        },
         "modifier.swift": {
 			"foreground": "#b4f9f8"
 		},
@@ -862,12 +884,6 @@
         },
 		"*.callable": {
             "foreground": "#7aa2f7"
-        },
-		"*.attribute": {
-			"foreground": "#b4f9f8"
-		},
-		"*.attribute:rust": {
-            "foreground": "#b4f9f8"
         },
 		"*.typeHint": {
             "foreground": "#73daca",
@@ -1125,6 +1141,7 @@
         {
             "name": "Format parameter",
             "scope": [
+                "punctuation.definition.interpolation.rust",
                 "constant.character.format.placeholder.other.python",
                 "punctuation.section.embedded.begin.swift",
                 "punctuation.section.embedded.end.swift"
@@ -1219,6 +1236,8 @@
                 "meta.preprocessor.pragma.nim",
                 "punctuation.pragma.start.nim",
                 "punctuation.pragma.end.nim",
+                "meta.attribute.rust",
+                "meta.attribute.rust keyword.operator.namespace.rust",
                 "punctuation.brackets.attribute.rust",
                 "punctuation.definition.attribute.rust",
                 "entity.name.function.preprocessor.nim",
@@ -1231,6 +1250,16 @@
             ],
             "settings": {
                 "foreground": "#b4f9f8",
+            }
+        },
+        {
+            "name": "Attributes types",
+            "scope": [
+                "meta.attribute.rust entity.name.type.rust",
+            ],
+            "settings": {
+                "foreground": "#b4f9f8",
+                "fontStyle": "italic"
             }
         },
         {
