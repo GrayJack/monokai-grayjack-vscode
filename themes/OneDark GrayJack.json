@@ -518,7 +518,7 @@
         "debugIcon.stepIntoForeground": "#C4C9D2",
         "debugIcon.stepOutForeground": "#C4C9D2",
         "debugIcon.stepOverForeground": "#C4C9D2",
-        "debugIcon.stopForeground": "#E06C75",
+        "debugIcon.stopForeground": "#E06C75"
         // NOTEBOOK
         // "notebook.cellBorderColor": "#ff0000",
         // "notebook.cellHoverBackground": "#ff0000",
@@ -628,47 +628,47 @@
 			"italic": true
 		},
 		"builtinType": {
-			"foreground": "#56B6C2",
+			"foreground": "#56B6C2"
 		},
 		"typeAlias": {
-			"foreground": "#56B6C2",
+			"foreground": "#56B6C2"
 		},
 		"typeParameter": {
-			"foreground": "#56B6C2",
+			"foreground": "#56B6C2"
 		},
 		"interface": {
 			"foreground": "#56B6C2",
             "italic": true
 		},
 		"struct": {
-			"foreground": "#56B6C2",
+			"foreground": "#56B6C2"
 		},
 		"union": {
-			"foreground": "#56B6C2",
+			"foreground": "#56B6C2"
 		},
 		"enum": {
-			"foreground": "#56B6C2",
+			"foreground": "#56B6C2"
 		},
 		"type": {
-			"foreground": "#56B6C2",
+			"foreground": "#56B6C2"
 		},
 		"type.c": {
-			"foreground": "#56B6C2",
+			"foreground": "#56B6C2"
 		},
 		"class": {
-			"foreground": "#56B6C2",
+			"foreground": "#56B6C2"
 		},
         "record": {
-			"foreground": "#56B6C2",
+			"foreground": "#56B6C2"
 		},
         "genericType": {
-			"foreground": "#56B6C2",
+			"foreground": "#56B6C2"
 		},
         "templateType": {
-            "foreground": "#56B6C2",
+            "foreground": "#56B6C2"
         },
         "selfTypeKeyword": {
-            "foreground": "#56B6C2",
+            "foreground": "#56B6C2"
         },
 		"enumMember": {
 			"underline": true,
@@ -680,19 +680,19 @@
 			"foreground": "#8e85f5"
 		},
 		"macro": {
-			"foreground": "#8e85f5",
+			"foreground": "#8e85f5"
 		},
 		"builtin": {
-			"foreground": "#8e85f5",
+			"foreground": "#8e85f5"
 		},
         "module": {
-			"foreground": "#9CA0A8",
+			"foreground": "#9CA0A8"
         },
 		"namespace": {
-            "foreground": "#9CA0A8",
+            "foreground": "#9CA0A8"
 		},
         "type.namespace:zig": {
-			"foreground": "#9CA0A8",
+			"foreground": "#9CA0A8"
 		},
 		"variable": {
 			"foreground": "#C4C9D2"
@@ -706,16 +706,16 @@
 			"underline": true
 		},
 		"variable.local:javascript": {
-			"foreground": "#C4C9D2",
+			"foreground": "#C4C9D2"
 		},
 		"variable.local:typescript": {
-			"foreground": "#C4C9D2",
+			"foreground": "#C4C9D2"
 		},
         "variable:kotlin": {
 			"underline": true
 		},
 		"variable.readonly": {
-			"underline": false,
+			"underline": false
 		},
 		"property": {
 			"foreground": "#E06C75"
@@ -748,6 +748,9 @@
             "foreground": "#e5c07b"
         },
         "generic.attribute": {
+            "foreground": "#e5c07b"
+        },
+        "generic.macro": {
             "foreground": "#e5c07b"
         },
         "decorator.attribute": {
@@ -796,13 +799,13 @@
 			"fontStyle": ""
 		},
         "character": {
-			"foreground": "#98C379",
+			"foreground": "#98C379"
 		},
         "string": {
             "foreground": "#98C379"
         },
         "stringLiteral": {
-			"foreground": "#98C379",
+			"foreground": "#98C379"
 		},
 		"variable.constant": {
 			"foreground": "#D19A66"
@@ -824,70 +827,70 @@
 			"fontStyle": "none"
 		},
         "interface.unsafe": {
-            "underline": true,
+            "underline": true
         },
 		"*.unsafe": {
-			"italic": true,
+			"italic": true
 		},
 		"operator.controlFlow": {
 			"foreground": "#E06C75"
 		},
 		"comma:rust": {
-            "foreground": "#898C93",
+            "foreground": "#898C93"
         },
         "dot:rust": {
-            "foreground": "#898C93",
+            "foreground": "#898C93"
         },
         // "colon:rust": {
         //     "foreground": "#898C93",
         // },
         "semicolon:rust": {
-            "foreground": "#898C93",
+            "foreground": "#898C93"
         },
         "angle:rust": {
-            "foreground": "#898C93",
+            "foreground": "#898C93"
         },
         "brace:rust": {
-            "foreground": "#898C93",
+            "foreground": "#898C93"
         },
         "bracket:rust": {
-            "foreground": "#898C93",
+            "foreground": "#898C93"
         },
 		"punctuation.injected:rust": {
-            "foreground": "#898C93",
+            "foreground": "#898C93"
         },
         "generic:rust": {
-            "foreground": "#C4C9D2",
+            "foreground": "#C4C9D2"
         },
         "variable.global": {
-			"underline": true,
+			"underline": true
 		},
 		"*.mutable": {
-			"underline": true,
+			"underline": true
 		},
 		"arithmetic.mutable": {
-            "fontStyle": "none",
+            "fontStyle": "none"
         },
         "bitwise.mutable": {
-            "fontStyle": "none",
+            "fontStyle": "none"
         },
 		"*.callable": {
             "foreground": "#61AFEF"
         },
 		"*.typeHint": {
-            "foreground": "#56B6C2",
+            "foreground": "#56B6C2"
         },
         "annotation:java": {
             "foreground": "#8e85f5",
-            "italic": true,
+            "italic": true
         },
 		"*.decorator": {
             "foreground": "#8e85f5",
-            "italic": true,
+            "italic": true
 		},
         "*.readonly:lua": {
             "foreground": "#D19A66"
-        },
+        }
 	},
     "tokenColors": [
         {
@@ -909,7 +912,7 @@
                 "keyword.operator.sigil.rust",
                 "keyword.operator.key-value.rust",
                 "keyword.operator.access.dot.rust",
-                "koka.type",
+                "koka.type"
             ],
             "settings": {
                 "foreground": "#898C93"
@@ -979,7 +982,7 @@
                 "entity.name.tag.css",
                 "punctuation.definition.keyword.css",
                 "entity.name.tag.wildcard.css",
-                "storage.struct.racket",
+                "storage.struct.racket"
             ],
             "settings": {
                 "foreground": "#C678DD"
@@ -1006,7 +1009,7 @@
                 "punctuation.separator.scope-resolution.cpp",
                 "punctuation.separator.colon.python",
                 "punctuation.separator.annotation.result.python",
-                "koka.op",
+                "koka.op"
             ],
             "settings": {
                 "foreground": "#C678DD"
@@ -1032,7 +1035,7 @@
                 "support.function",
                 "keyword.other.special-method",
                 "keyword.other.common.function",
-                "entity.name.command",
+                "entity.name.command"
             ],
             "settings": {
                 "foreground": "#61AFEF"
@@ -1042,7 +1045,7 @@
             "name": "Function call when there is no type",
             "scope": [
                 "entity.name.function.core.janet",
-                "entity.name.function.call.janet",
+                "entity.name.function.call.janet"
             ],
             "settings": {
                 "foreground": "#56B6C2"
@@ -1058,10 +1061,10 @@
                 "entity.name.function.macro.rust",
                 "entity.name.function.macro.rules.rust",
                 "support.function.macro.julia",
-                "support.function.builtin.zig",
+                "support.function.builtin.zig"
             ],
             "settings": {
-                "foreground": "#8e85f5",
+                "foreground": "#8e85f5"
             }
         },
         {
@@ -1077,17 +1080,17 @@
             ],
             "settings": {
                 "foreground": "#8e85f5",
-                "fontStyle": "underline",
+                "fontStyle": "underline"
             }
         },
         {
             "name": "Error tags",
             "scope": [
-                "variable.constant.error.zig",
+                "variable.constant.error.zig"
             ],
             "settings": {
                 "foreground": "#8e85f5",
-                "fontStyle": "underline italic",
+                "fontStyle": "underline italic"
             }
         },
         {
@@ -1121,10 +1124,10 @@
                 "punctuation.section.embedded.meta.tag.format.rust",
                 "keyword.control.shortfn.janet",
                 "storage.control.shortfn.janet",
-                "entity.name.package.go",
+                "entity.name.package.go"
             ],
             "settings": {
-                "foreground": "#E06C75",
+                "foreground": "#E06C75"
             }
         },
         {
@@ -1144,10 +1147,10 @@
             "name": "Namespace",
             "scope": [
                 "entity.name.type.module.ts",
-                "koka.moduleid",
+                "koka.moduleid"
             ],
             "settings": {
-                "foreground": "#898C93",
+                "foreground": "#898C93"
             }
         },
         {
@@ -1210,10 +1213,10 @@
         {
             "name": "Unsafe",
             "scope": [
-                "keyword.other.unsafe",
+                "keyword.other.unsafe"
             ],
             "settings": {
-                "foreground": "#e06caf",
+                "foreground": "#e06caf"
             }
         },
         {
@@ -1238,13 +1241,13 @@
                 "storage.modifier.attribute.swift"
             ],
             "settings": {
-                "foreground": "#E5C07B",
+                "foreground": "#E5C07B"
             }
         },
         {
             "name": "Attributes types",
             "scope": [
-                "meta.attribute.rust entity.name.type.rust",
+                "meta.attribute.rust entity.name.type.rust"
             ],
             "settings": {
                 "foreground": "#E5C07B",
@@ -1263,7 +1266,7 @@
 				"entity.name.variable.property"
             ],
             "settings": {
-                "foreground": "#E06C75",
+                "foreground": "#E06C75"
             }
         },
         {
@@ -1274,20 +1277,20 @@
                 "meta.parens.block.c",
                 "variable.css",
                 "variable.language.closure-parameter.swift",
-				"koka.id.param",
+				"koka.id.param"
                 // "meta.function.definition.parameters",
             ],
             "settings": {
-                "foreground": "#C46158",
+                "foreground": "#C46158"
             }
         },
         {
             "name": "Lisp keyword",
             "scope": [
-                "constant.keyword.janet",
+                "constant.keyword.janet"
             ],
             "settings": {
-                "foreground": "#C46158",
+                "foreground": "#C46158"
             }
         },
         {
@@ -1338,10 +1341,10 @@
                 "meta.class.stanza.dune",
                 "storage.type.cs",
                 "entity.name.struct.racket",
-                "koka.type.typecon",
+                "koka.type.typecon"
             ],
             "settings": {
-                "foreground": "#56B6C2",
+                "foreground": "#56B6C2"
                 // "italic": true,
             }
         },
@@ -1358,7 +1361,7 @@
 				"entity.other.attribute-name.class.css"
             ],
             "settings": {
-                "foreground": "#56B6C2",
+                "foreground": "#56B6C2"
                 // "italic": true,
             }
         },
@@ -1373,7 +1376,7 @@
                 "source.postcss support.type.property-name"
             ],
             "settings": {
-                "foreground": "#E5C07B",
+                "foreground": "#E5C07B"
                 // "italic": true,
             }
         },
@@ -1528,7 +1531,7 @@
                 "punctuation.definition.annotation.java",
                 "storage.type.annotation.java",
                 "entity.other.attribute-name.pseudo-class.css",
-                "entity.other.attribute-name.pseudo-element.css",
+                "entity.other.attribute-name.pseudo-element.css"
             ],
             "settings": {
                 "fontStyle": "italic",
@@ -1672,7 +1675,7 @@
                 "markup.underline.link"
             ],
             "settings": {
-                "foreground": "#56B6C2",
+                "foreground": "#56B6C2"
             }
         },
         {
@@ -1747,7 +1750,7 @@
                 "markup.quote"
             ],
             "settings": {
-                "fontStyle": "italic",
+                "fontStyle": "italic"
             }
         },
         {
