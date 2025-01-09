@@ -3,7 +3,7 @@
 All notable changes to the this extension will be documented in this file.
 
 ## 0.15.1
--   UI: Fix issue with diff editor
+-   UI: Fix issue with diff editor hiding lighter texts on some themes (Also tweak a bit the color for the ones that didn't had the issue)
 
 ## 0.15.0
 -   UI: Nord: Fix shadows being invisible on some of the backgrounds
