@@ -2,6 +2,9 @@
 
 All notable changes to the this extension will be documented in this file.
 
+## 0.15.1
+-   UI: Fix issue with diff editor
+
 ## 0.15.0
 -   UI: Nord: Fix shadows being invisible on some of the backgrounds
 -   UI: Monokai and Monokai Pastel: Make list dropdown background slightly darker
