@@ -784,6 +784,10 @@
 		"generic.macro": {
             "foreground": "#FAF7B1"
         },
+		"keyword.attribute.unsafe": {
+			"foreground": "#FAF7B1",
+            "italic": true
+		},
         "decorator.attribute": {
             "foreground": "#FAF7B1"
         },
