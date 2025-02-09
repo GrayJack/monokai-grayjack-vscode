@@ -4,6 +4,7 @@ All notable changes to the this extension will be documented in this file.
 
 ## Unreleased
 - Tweak Semantic Highlight for Rust ([rust-analyzer](https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer)): Handle unsafe attribute specially
+- Tweak Semantic Highlight for Rust ([rust-analyzer](https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer)): Handle const and static custom tokens specially
 
 ## 0.15.1
 -   UI: Fix issue with diff editor hiding lighter texts on some themes (Also tweak a bit the color for the ones that didn't had the issue)

@@ -631,6 +631,12 @@
         "customLiteral": {
 			"foreground": "#ff9e64"
 		},
+        "const:rust": {
+			"foreground": "#ff9e64"
+		},
+        "static:rust": {
+			"foreground": "#ff9e64"
+		},
 		"constParameter": {
 			"foreground": "#ff9e64",
             "fontStyle": ""
