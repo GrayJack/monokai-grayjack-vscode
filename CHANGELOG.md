@@ -2,7 +2,7 @@
 
 All notable changes to the this extension will be documented in this file.
 
-## Unreleased
+## 0.15.2
 - Tweak Semantic Highlight for Rust ([rust-analyzer](https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer)): Handle unsafe attribute specially
 - Tweak Semantic Highlight for Rust ([rust-analyzer](https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer)): Handle const and static custom tokens specially
 
