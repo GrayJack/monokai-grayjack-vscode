@@ -2,7 +2,7 @@
 
 All notable changes to the this extension will be documented in this file.
 
-## Unreleased
+## 1.0.0
 - **Breaking Change:** Rework all themes from the ground up
   - Solved inconsistencies between themes
   - Support almost entire UI theme options as VSCode 1.97 (A few todos left for entire)

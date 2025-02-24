@@ -3,11 +3,12 @@
 	"displayName": "GrayJack Themes",
 	"description": "My personal take on classic/famous themes",
 	"publisher": "GrayJack",
+	"version": "1.0.0",
+	"icon": "icon.png",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/GrayJack/monokai-grayjack-vscode"
 	},
-	"version": "0.15.2",
 	"engines": {
 		"vscode": "^1.45.0"
 	},
