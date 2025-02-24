@@ -2,7 +2,7 @@
 
 All notable changes to the this extension will be documented in this file.
 
-## Unreleased
+## 1.1.0
 - UI: Fix unnecessary code opacity configuration
 - UI: Fix output background color
 - UI: Add detail border between activity bar and panel
