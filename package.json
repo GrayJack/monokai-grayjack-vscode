@@ -32,39 +32,40 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Monokai GrayJack",
+			{
+				"label": "Legacy GrayJack's Monokai (Classic)",
 				"uiTheme": "vs-dark",
-				"path": "./themes/Monokai GrayJack.json"
+				"path": "./themes/legacy/Monokai GrayJack.json"
 			},
 			{
-				"label": "Monokai GrayJack (Pastel)",
+				"label": "Legacy GrayJack's Monokai (Pastel)",
 				"uiTheme": "vs-dark",
-				"path": "./themes/Monokai Grayjack (Pastel).json"
+				"path": "./themes/legacy/Monokai Grayjack (Pastel).json"
 			},
 			{
-				"label": "Monokai GrayJack (Solarized)",
+				"label": "Legacy GrayJack's Monokai (Solarized)",
 				"uiTheme": "vs-dark",
-				"path": "./themes/Monokai GrayJack (Solarized).json"
+				"path": "./themes/legacy/Monokai GrayJack (Solarized).json"
 			},
 			{
-				"label": "OneDark GrayJack",
+				"label": "Legacy GrayJack's OneDark",
 				"uiTheme": "vs-dark",
-				"path": "./themes/OneDark GrayJack.json"
+				"path": "./themes/legacy/OneDark GrayJack.json"
 			},
 			{
-				"label": "Ariake GrayJack",
+				"label": "Legacy GrayJack's Ariake",
 				"uiTheme": "vs-dark",
-				"path": "./themes/Ariake Grayjack.json"
+				"path": "./themes/legacy/Ariake Grayjack.json"
 			},
 			{
-				"label": "Tokyo Night GrayJack",
+				"label": "Legacy GrayJack's Tokyo Night",
 				"uiTheme": "vs-dark",
-				"path": "./themes/Tokyo Night Grayjack.json"
+				"path": "./themes/legacy/Tokyo Night Grayjack.json"
 			},
 			{
-				"label": "Nord GrayJack",
+				"label": "Legacy GrayJack's Nord",
 				"uiTheme": "vs-dark",
-				"path": "./themes/Nord Grayjack.json"
+				"path": "./themes/legacy/Nord Grayjack.json"
 			}
 		]
 	},
