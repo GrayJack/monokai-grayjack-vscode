@@ -32,6 +32,45 @@
 	"contributes": {
 		"themes": [
 			{
+				"label": "GrayJack's Ariake",
+				"uiTheme": "vs-dark",
+				"path": "./themes/GrayJack's Ariake.json"
+			},
+			{
+				"label": "GrayJack's Monokai (Classic)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/GrayJack's Monokai (Classic).json"
+			},
+			{
+				"label": "GrayJack's Monokai (Pastel)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/GrayJack's Monokai (Pastel).json"
+			},
+			{
+				"label": "GrayJack's Monokai (Solarized)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/GrayJack's Monokai (Solarized).json"
+			},
+			{
+				"label": "GrayJack's Monokai (Lunarized)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/GrayJack's Monokai (Lunarized).json"
+			},
+			{
+				"label": "GrayJack's Nord",
+				"uiTheme": "vs-dark",
+				"path": "./themes/GrayJack's Nord.json"
+			},
+			{
+				"label": "GrayJack's OneDark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/GrayJack's OneDark.json"
+			},
+			{
+				"label": "GrayJack's Tokyo Night",
+				"uiTheme": "vs-dark",
+				"path": "./themes/GrayJack's Tokyo Night.json"
+			},
 			{
 				"label": "Legacy GrayJack's Monokai (Classic)",
 				"uiTheme": "vs-dark",
