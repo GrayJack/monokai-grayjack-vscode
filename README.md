@@ -2,49 +2,114 @@
 
 My collection of themes based on classic/famous themes.
 
-For now only themes based on Ariake, Monokai, Nord, OneDark and Tokyo Night
+For now only themes based on Ariake, Monokai, Nord, OneDark and Tokyo Night.
 
-## Monokai GrayJack
+## Preview
 
-![Preview Monokai Grayjack 1](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/preview-welcome-monokai.png)
+<details open>
+  <summary>Themes</summary>
 
-![Preview Monokai Grayjack 2](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/preview-code-monokai.png)
+### GrayJack's Ariake
 
-## Monokai GrayJack (Pastel)
+![Preview GrayJack's Ariake 1](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/preview-welcome-ariake.png)
 
-![Preview Monokai Grayjack (Pastel) 1](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/preview-welcome-monokaipastel.png)
+![Preview GrayJack's Ariake 2](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/preview-code-ariake.png)
 
-![Preview Monokai Grayjack (Pastel) 2](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/preview-code-monokaipastel.png)
+### GrayJack's Monokai (Classic)
 
-## Monokai GrayJack (Solarized)
+![Preview GrayJack's Monokai (Classic) 1](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/preview-welcome-monokai.png)
 
-![Preview Monokai Grayjack (Solarized) 1](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/preview-welcome-monokaisolarized.png)
+![Preview GrayJack's Monokai (Classic) 2](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/preview-code-monokai.png)
 
-![Preview Monokai Grayjack (Solarized) 2](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/preview-code-monokaisolarized.png)
+### GrayJack's Monokai (Pastel)
 
-## OneDark GrayJack
+![Preview GrayJack's Monokai (Pastel) 1](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/preview-welcome-monokaipastel.png)
 
-![Preview OneDark Grayjack 1](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/preview-welcome-onedark.png)
+![Preview GrayJack's Monokai (Pastel) 2](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/preview-code-monokaipastel.png)
 
-![Preview OneDark Grayjack 2](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/preview-code-onedark.png)
+### GrayJack's Monokai (Solarized)
 
-## Ariake GrayJack
+![Preview GrayJack's Monokai (Solarized) 1](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/preview-welcome-monokaisolarized.png)
 
-![Preview Ariake Grayjack 1](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/preview-welcome-ariake.png)
+![Preview GrayJack's Monokai (Solarized) 2](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/preview-code-monokaisolarized.png)
 
-![Preview Ariake Grayjack 2](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/preview-code-ariake.png)
+### GrayJack's Monokai (Lunarized)
 
-## Tokyo Night GrayJack
+![Preview GrayJack's Monokai (Lunarized) 1](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/preview-welcome-monokailunarized.png)
 
-![Preview Tokyo Night Grayjack 1](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/preview-welcome-tokyonight.png)
+![Preview GrayJack's Monokai (Lunarized) 2](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/preview-code-monokailunarized.png)
 
-![Preview Tokyo Night Grayjack 2](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/preview-code-tokyonight.png)
+### GrayJack's Nord
 
-## Nord GrayJack
+![Preview GrayJack's Nord 1](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/preview-welcome-nord.png)
 
-![Preview Nord Night Grayjack 1](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/preview-welcome-nord.png)
+![Preview GrayJack's Nord 2](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/preview-code-nord.png)
 
-![Preview Nord Night Grayjack 2](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/preview-code-nord.png)
+### GrayJack's OneDark
+
+![Preview GrayJack's OneDark 1](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/preview-welcome-onedark.png)
+
+![Preview GrayJack's OneDark 2](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/preview-code-onedark.png)
+
+### GrayJack's Tokyo Night
+
+![Preview GrayJack's Tokyo Night 1](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/preview-welcome-tokyonight.png)
+
+![Preview GrayJack's Tokyo Night 2](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/preview-code-tokyonight.png)
+
+</details>
+
+<details>
+  <summary>Legacy themes</summary>
+
+The legacy themes will continue to be supported for updates on code coloring (TextMate and Semantic Highlight), but updates to the UI coloring will no longer receive any updates. The reason for that is that all those themes have a few inconsistencies that at this point is very hard to keep track of and maintain things consistent when adding something new. That being said, usually VS Code is rather good in deciding a good default based on the theme options already provided.
+
+Another option, if you want to keep using the legacy themes, is to customize the colors for the new feature. You can read more on how to do so in the [Customization](#customization) section.
+
+### Monokai GrayJack (Classic)
+
+![Preview Monokai Grayjack 1](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/legacy/preview-welcome-monokai.png)
+
+![Preview Monokai Grayjack 2](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/legacy/preview-code-monokai.png)
+
+### Monokai GrayJack (Pastel)
+
+![Preview Monokai Grayjack (Pastel) 1](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/legacy/preview-welcome-monokaipastel.png)
+
+![Preview Monokai Grayjack (Pastel) 2](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/legacy/preview-code-monokaipastel.png)
+
+### Monokai GrayJack (Solarized)
+
+![Preview Monokai Grayjack (Solarized) 1](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/legacy/preview-welcome-monokaisolarized.png)
+
+![Preview Monokai Grayjack (Solarized) 2](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/legacy/preview-code-monokaisolarized.png)
+
+### OneDark GrayJack
+
+![Preview OneDark Grayjack 1](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/legacy/preview-welcome-onedark.png)
+
+![Preview OneDark Grayjack 2](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/legacy/preview-code-onedark.png)
+
+### Ariake GrayJack
+
+![Preview Ariake Grayjack 1](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/legacy/preview-welcome-ariake.png)
+
+![Preview Ariake Grayjack 2](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/legacy/preview-code-ariake.png)
+
+### Tokyo Night GrayJack
+
+![Preview Tokyo Night Grayjack 1](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/legacy/preview-welcome-tokyonight.png)
+
+![Preview Tokyo Night Grayjack 2](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/legacy/preview-code-tokyonight.png)
+
+### Nord GrayJack
+
+![Preview Nord Night Grayjack 1](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/legacy/preview-welcome-nord.png)
+
+![Preview Nord Night Grayjack 2](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/legacy/preview-code-nord.png)
+</details>
+
+
 
 ## Language specific support
 
@@ -112,11 +177,11 @@ You can find a list of all thing you can change in the workbench
 ```jsonc
 "editor.tokenColorCustomizations": {
     // simple example
-    "[Monokai GrayJack]": {
+    "[GrayJack's Monokai (Classic)]": {
         "comments": "#229977"
     },
 
-    "[Monokai GrayJack (Pastel)]": {
+    "[GrayJack's Monokai (Pastel)]": {
         "textMateRules": [
             {
                 "scope": "support.type.property-name.json",
@@ -134,7 +199,7 @@ You can find a list of all thing you can change in the workbench
 
 ```jsonc
 "editor.semanticTokenColorCustomizations": {
-    "[Monokai Grayjack]": {
+    "[GrayJack's Monokai (Classic)]": {
         "enabled": true,
         "rules": {
             "comment": {

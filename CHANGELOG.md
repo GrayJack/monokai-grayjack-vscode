@@ -2,6 +2,17 @@
 
 All notable changes to the this extension will be documented in this file.
 
+## Unreleased
+- **Breaking Change:** Rework all themes from the ground up
+  - Solved inconsistencies between themes
+  - Support almost entire UI theme options as VSCode 1.97 (A few todos left for entire)
+- **Breaking Change:** Rename themes and deprecate as legacy
+  - These themes will continue to be updated for TextMate and Semantic Highlight changes, but UI coloring will no longer be worked on. More information on this can be found on the README file.
+- Add a new `Monokai` variant: "GrayJack's Monokai (Lunarized)"
+  - Name given by my partner, based on the background color reminding her of the moon. The name worked so well since it already have a solarized version
+- Perf: Reduce package size by not packing useless files for the theme to work
+- Move preview images to folder
+
 ## 0.15.2
 - Tweak Semantic Highlight for Rust ([rust-analyzer](https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer)): Handle unsafe attribute specially
 - Tweak Semantic Highlight for Rust ([rust-analyzer](https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer)): Handle const and static custom tokens specially
