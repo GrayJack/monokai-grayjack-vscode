@@ -2,6 +2,12 @@
 
 All notable changes to the this extension will be documented in this file.
 
+## Unreleased
+- UI: Fix unnecessary code opacity configuration
+- UI: Fix output background color
+- UI: Add detail border between activity bar and panel
+    - Could happen when panel is configured as left or right aligned or when sidePanel is not active
+
 ## 1.0.0
 - **Breaking Change:** Rework all themes from the ground up
   - Solved inconsistencies between themes
