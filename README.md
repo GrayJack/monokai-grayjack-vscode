@@ -2,7 +2,7 @@
 
 My collection of themes based on classic/famous themes.
 
-For now, only themes based on Ariake, Monokai, Nord, OneDark and Tokyo Night.
+For now, only themes based on Ariake, Catppuccin,Monokai, Nord, OneDark and Tokyo Night.
 
 ## Preview
 
@@ -14,6 +14,24 @@ For now, only themes based on Ariake, Monokai, Nord, OneDark and Tokyo Night.
 ![Preview GrayJack's Ariake 1](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/preview-welcome-ariake.png)
 
 ![Preview GrayJack's Ariake 2](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/preview-code-ariake.png)
+
+### GrayJack's Catppuccin Frappé
+
+![Preview GrayJack's Catppuccin Frappé 1](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/preview-welcome-catppuccin-frappe.png)
+
+![Preview GrayJack's Catppuccin Frappé 2](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/preview-code-catppuccin-frappe.png)
+
+### GrayJack's Catppuccin Macchiatto
+
+![Preview GrayJack's Catppuccin Macchiatto 1](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/preview-welcome-catppuccin-macchiatto.png)
+
+![Preview GrayJack's Catppuccin Macchiatto 2](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/preview-code-catppuccin-macchiatto.png)
+
+### GrayJack's Catppuccin Mocha
+
+![Preview GrayJack's Catppuccin Mocha 1](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/preview-welcome-catppuccin-mocha.png)
+
+![Preview GrayJack's Catppuccin Mocha 2](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/preview-code-catppuccin-mocha.png)
 
 ### GrayJack's Monokai (Classic)
 

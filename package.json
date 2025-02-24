@@ -23,6 +23,7 @@
 		"one",
 		"one dark",
 		"onedark",
+		"catppuccin",
 		"monokai",
 		"nord",
 		"pastel",
@@ -36,6 +37,21 @@
 				"label": "GrayJack's Ariake",
 				"uiTheme": "vs-dark",
 				"path": "./themes/GrayJack's Ariake.json"
+			},
+			{
+				"label": "GrayJack's Catppuccin Frappé",
+				"uiTheme": "vs-dark",
+				"path": "./themes/GrayJack's Catppuccin Frappé.json"
+			},
+			{
+				"label": "GrayJack's Catppuccin Macchiatto",
+				"uiTheme": "vs-dark",
+				"path": "./themes/GrayJack's Catppuccin Macchiatto.json"
+			},
+			{
+				"label": "GrayJack's Catppuccin Mocha",
+				"uiTheme": "vs-dark",
+				"path": "./themes/GrayJack's Catppuccin Mocha.json"
 			},
 			{
 				"label": "GrayJack's Monokai (Classic)",
