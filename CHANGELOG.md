@@ -5,6 +5,7 @@ All notable changes to the this extension will be documented in this file.
 ## 1.1.0
 - UI: Fix unnecessary code opacity configuration
 - UI: Fix output background color
+- UI: Fix coloring of native git graph label foreground
 - UI: Add detail border between activity bar and panel
     - Could happen when panel is configured as left or right aligned or when sidePanel is not active
 - Feature: Add dark Catppuccin themes (Frappé, Macchiato and Mocha)
