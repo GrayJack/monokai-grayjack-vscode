@@ -2,7 +2,7 @@
 
 All notable changes to the this extension will be documented in this file.
 
-## Unreleased
+## 1.2.0
 - UI: Define more `testing.` color configurations
 - UI: Fix background color used in Inlay Hints
 - UI: Fix highlight in search matches
