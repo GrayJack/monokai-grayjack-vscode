@@ -2,6 +2,9 @@
 
 All notable changes to the this extension will be documented in this file.
 
+## Unreleased
+- UI: Slight adjustment for the background colors of the Catppuccin themes for improved contrast between them
+
 ## 1.2.1
 - Fix the readme
 
