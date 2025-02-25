@@ -2,6 +2,9 @@
 
 All notable changes to the this extension will be documented in this file.
 
+## 1.2.1
+- Fix the readme
+
 ## 1.2.0
 - UI: Define more `testing.` color configurations
 - UI: Fix background color used in Inlay Hints
