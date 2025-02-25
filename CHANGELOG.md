@@ -2,6 +2,13 @@
 
 All notable changes to the this extension will be documented in this file.
 
+## Unreleased
+- UI: Define more `testing.` color configurations
+- UI: Fix background color used in Inlay Hints
+- UI: Fix highlight in search matches
+- Feature: Add light Catppuccin theme (Latte) (First light theme!)
+  - Done more for completion sake and as poc for future original light theme, as I never use light themes so white in the background. But if you like it, feel free to check it out as well
+
 ## 1.1.0
 - UI: Fix unnecessary code opacity configuration
 - UI: Fix output background color
