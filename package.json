@@ -44,6 +44,11 @@
 				"path": "./themes/GrayJack's Catppuccin Frappé.json"
 			},
 			{
+				"label": "GrayJack's Catppuccin Latte",
+				"uiTheme": "vs",
+				"path": "./themes/GrayJack's Catppuccin Latte.json"
+			},
+			{
 				"label": "GrayJack's Catppuccin Macchiatto",
 				"uiTheme": "vs-dark",
 				"path": "./themes/GrayJack's Catppuccin Macchiatto.json"
