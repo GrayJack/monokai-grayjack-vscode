@@ -134,6 +134,7 @@ Another option, if you want to keep using the legacy themes, is to customize the
 3. Color consistency across languages: I try to support all the standard Semantic Tokens and a bunch of custom ones to maintain a coloring consistency across all languages that support semantic highlight. I also adjust and tweak TextMate tokens for every language I found/tested/used over the years to achieve, as best as possible, such consistency on langs without semantic highlight. This also fit somewhat in the above item to some degree.
 
 [^1]: It's not because it's targeted to such people that all people of this demographics will like all my themes or all details of my themes. That is also the reason I have a section for modifying the theme direct in this readme file.
+
 [^2]: Such changes may also benefit other people that may require similar adaptations for different reasons.
 
 ## Language specific support
