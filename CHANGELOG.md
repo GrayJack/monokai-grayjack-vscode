@@ -2,7 +2,7 @@
 
 All notable changes to the this extension will be documented in this file.
 
-## Unreleased
+## 1.2.2
 - UI: Slight adjustment for the background colors of the Catppuccin themes for improved contrast between them
 - UI: Slight adjustment to the shade used as active tab and breadcrumb background on all themes
 
