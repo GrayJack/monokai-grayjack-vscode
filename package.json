@@ -7,7 +7,7 @@
 	"icon": "icon.png",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/GrayJack/monokai-grayjack-vscode"
+		"url": "https://github.com/GrayJack/grayjack-vscode-themes"
 	},
 	"engines": {
 		"vscode": "^1.45.0"
