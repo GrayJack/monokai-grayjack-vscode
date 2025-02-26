@@ -59,6 +59,26 @@
 				"path": "./themes/GrayJack's Catppuccin Mocha.json"
 			},
 			{
+				"label": "GrayJack's Dracula",
+				"uiTheme": "vs-dark",
+				"path": "./themes/GrayJack's Dracula.json"
+			},
+			{
+				"label": "GrayJack's Dracula (Pastel)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/GrayJack's Dracula (Pastel).json"
+			},
+			{
+				"label": "CosmicGirl's Dracula (Pastel)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/CosmicGirl's Dracula (Pastel).json"
+			},
+			{
+				"label": "CosmicGirl's Dracula (Neon)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/CosmicGirl's Dracula (Neon).json"
+			},
+			{
 				"label": "GrayJack's Monokai (Classic)",
 				"uiTheme": "vs-dark",
 				"path": "./themes/GrayJack's Monokai (Classic).json"

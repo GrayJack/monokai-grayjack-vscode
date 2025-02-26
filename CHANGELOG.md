@@ -2,6 +2,13 @@
 
 All notable changes to the this extension will be documented in this file.
 
+## Unreleased
+- Feature: Added Dracula inspired themes
+  - GrayJack's Dracula — Classical colors
+  - GrayJack's Dracula (Pastel)
+  - CosmicGirl's Dracula (Neon) — My partner take on the dracula theme more on the neon side
+  - CosmicGirl's Dracula (Pastel) — My partner take on the dracula theme more on the pastel side
+
 ## 1.2.2
 - UI: Slight adjustment for the background colors of the Catppuccin themes for improved contrast between them
 - UI: Slight adjustment to the shade used as active tab and breadcrumb background on all themes
