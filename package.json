@@ -79,6 +79,16 @@
 				"path": "./themes/CosmicGirl's Dracula (Neon).json"
 			},
 			{
+				"label": "GrayJack's Gruvbox Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/GrayJack's Gruvbox Dark.json"
+			},
+			{
+				"label": "GrayJack's Gruvbox Light",
+				"uiTheme": "vs",
+				"path": "./themes/GrayJack's Gruvbox Light.json"
+			},
+			{
 				"label": "GrayJack's Monokai (Classic)",
 				"uiTheme": "vs-dark",
 				"path": "./themes/GrayJack's Monokai (Classic).json"
