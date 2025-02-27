@@ -7,7 +7,7 @@ For now, only themes based on Ariake, Catppuccin,Monokai, Nord, OneDark and Toky
 ## Preview
 
 <details open>
-  <summary>Themes</summary>
+  <summary>Dark Themes</summary>
 
 ### GrayJack's Ariake
 
@@ -32,6 +32,40 @@ For now, only themes based on Ariake, Catppuccin,Monokai, Nord, OneDark and Toky
 ![Preview GrayJack's Catppuccin Mocha 1](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/preview-welcome-catppuccin-mocha.png)
 
 ![Preview GrayJack's Catppuccin Mocha 2](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/preview-code-catppuccin-mocha.png)
+
+### GrayJack's Dracula
+
+![Preview GrayJack's Dracula 1](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/preview-welcome-dracula.png)
+
+![Preview GrayJack's Dracula 2](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/preview-code-dracula.png)
+
+### GrayJack's Dracula (Pastel)
+
+![Preview GrayJack's Dracula (Pastel) 1](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/preview-welcome-dracula-pastel.png)
+
+![Preview GrayJack's Dracula (Pastel) 2](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/preview-code-dracula-pastel.png)
+
+### CosmicGirl's Dracula (Pastel)
+
+Color and details tweaked and modified by my partner, CosmicGirl.
+
+![Preview CosmicGirl's Dracula (Pastel) 1](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/preview-welcome-dracula-pastel2.png)
+
+![Preview CosmicGirl's Dracula (Pastel) 2](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/preview-code-dracula-pastel2.png)
+
+### CosmicGirl's Dracula (Neon)
+
+Color and details tweaked and modified by my partner, CosmicGirl.
+
+![Preview CosmicGirl's Dracula (Neon) 1](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/preview-welcome-dracula-neon.png)
+
+![Preview CosmicGirl's Dracula (Neon) 2](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/preview-code-dracula-neon.png)
+
+### GrayJack's Gruvbox Dark
+
+![Preview GrayJack's Gruvbox Dark 1](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/preview-welcome-gruvbox-dark.png)
+
+![Preview GrayJack's Gruvbox Dark 2](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/preview-code-gruvbox-dark.png)
 
 ### GrayJack's Monokai (Classic)
 
@@ -74,6 +108,23 @@ For now, only themes based on Ariake, Catppuccin,Monokai, Nord, OneDark and Toky
 ![Preview GrayJack's Tokyo Night 1](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/preview-welcome-tokyonight.png)
 
 ![Preview GrayJack's Tokyo Night 2](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/preview-code-tokyonight.png)
+
+</details>
+
+<details open>
+  <summary>Light Themes</summary>
+
+### GrayJack's Catppuccin Latte
+
+![Preview GrayJack's Catppuccin Latte 1](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/preview-welcome-catppuccin-latte.png)
+
+![Preview GrayJack's Catppuccin Latte 2](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/preview-code-catppuccin-latte.png)
+
+### GrayJack's Gruvbox Light
+
+![Preview GrayJack's Gruvbox Light 1](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/preview-welcome-gruvbox-light.png)
+
+![Preview GrayJack's Gruvbox Light 2](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/preview-code-gruvbox-light.png)
 
 </details>
 
