@@ -122,6 +122,16 @@
 				"path": "./themes/GrayJack's OneDark.json"
 			},
 			{
+				"label": "GrayJack's Remedy Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/GrayJack's Remedy Dark.json"
+			},
+			{
+				"label": "GrayJack's Remedy Light",
+				"uiTheme": "vs",
+				"path": "./themes/GrayJack's Remedy Light.json"
+			},
+			{
 				"label": "GrayJack's Tokyo Night",
 				"uiTheme": "vs-dark",
 				"path": "./themes/GrayJack's Tokyo Night.json"

@@ -2,7 +2,7 @@
 
 My collection of themes based on classic/famous themes.
 
-For now, themes based on Ariake, Catppuccin, Dracula, Gruvbox, Monokai, Nord, OneDark and Tokyo Night.
+For now, themes based on Ariake, Catppuccin, Dracula, Gruvbox, Monokai, Nord, OneDark, Remedy and Tokyo Night.
 
 ## Preview
 
