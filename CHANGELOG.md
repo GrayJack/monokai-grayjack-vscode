@@ -2,7 +2,7 @@
 
 All notable changes to the this extension will be documented in this file.
 
-## Unreleased
+## 1.3.0
 - Feature: Added Gruvbox inspired themes
   - GrayJack's Gruvbox Dark
   - GrayJack's Gruvbox Light
