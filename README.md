@@ -2,12 +2,12 @@
 
 My collection of themes based on classic/famous themes.
 
-For now, only themes based on Ariake, Catppuccin,Monokai, Nord, OneDark and Tokyo Night.
+For now, themes based on Ariake, Catppuccin, Dracula, Gruvbox, Monokai, Nord, OneDark and Tokyo Night.
 
 ## Preview
 
 <details open>
-  <summary>Dark Themes</summary>
+  <summary><h3>Dark Themes</h3></summary>
 
 ### GrayJack's Ariake
 
@@ -112,7 +112,7 @@ Color and details tweaked and modified by my partner, CosmicGirl.
 </details>
 
 <details open>
-  <summary>Light Themes</summary>
+  <summary><h3>Light Themes</h3></summary>
 
 ### GrayJack's Catppuccin Latte
 
@@ -129,13 +129,13 @@ Color and details tweaked and modified by my partner, CosmicGirl.
 </details>
 
 <details>
-  <summary>Legacy themes</summary>
+  <summary><h3>Legacy themes<h3></summary>
 
 The legacy themes will continue to be supported for updates on code coloring (TextMate and Semantic Highlight), but updates to the UI coloring will no longer receive any updates. The reason for that is that all those themes have a few inconsistencies that at this point is very hard to keep track of and maintain things consistent when adding something new. That being said, usually VS Code is rather good in deciding a good default based on the theme options already provided.
 
 Another option, if you want to keep using the legacy themes, is to customize the colors for the new feature. You can read more on how to do so in the [Customization](#customization) section.
 
-### GrayJack's Ariake
+### Legacy GrayJack's Ariake
 
 ![Preview GrayJack's Ariake 1](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/legacy/preview-welcome-ariake.png)
 
@@ -159,19 +159,19 @@ Another option, if you want to keep using the legacy themes, is to customize the
 
 ![Preview Legacy GrayJack's Monokai (Solarized) 2](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/legacy/preview-code-monokaisolarized.png)
 
-### GrayJack's Nord
+### Legacy GrayJack's Nord
 
 ![Preview GrayJack's Nord 1](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/legacy/preview-welcome-nord.png)
 
 ![Preview GrayJack's Nord 2](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/legacy/preview-code-nord.png)
 
-### GrayJack's OneDark
+### Legacy GrayJack's OneDark
 
 ![Preview GrayJack's OneDark 1](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/legacy/preview-welcome-onedark.png)
 
 ![Preview GrayJack's OneDark 2](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/legacy/preview-code-onedark.png)
 
-### GrayJack's Tokyo Night
+### Legacy GrayJack's Tokyo Night
 
 ![Preview GrayJack's Tokyo Night 1](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/legacy/preview-welcome-tokyonight.png)
 

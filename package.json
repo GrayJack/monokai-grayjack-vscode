@@ -20,6 +20,7 @@
 		"color",
 		"theme",
 		"dark",
+		"light",
 		"one",
 		"one dark",
 		"onedark",
@@ -29,7 +30,9 @@
 		"pastel",
 		"solarized",
 		"tokyo",
-		"tokyo night"
+		"tokyo night",
+		"gruvbox",
+		"dracula"
 	],
 	"contributes": {
 		"themes": [
