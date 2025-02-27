@@ -2,6 +2,9 @@
 
 All notable changes to the this extension will be documented in this file.
 
+## Unreleased
+- UI: Rework and tweak bracket highlight on all themes
+
 ## 1.3.0
 - Feature: Added Gruvbox inspired themes
   - GrayJack's Gruvbox Dark
