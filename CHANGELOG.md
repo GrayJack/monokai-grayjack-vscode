@@ -2,7 +2,7 @@
 
 All notable changes to the this extension will be documented in this file.
 
-## Unreleased
+## 1.4.0
 - Feature: Added Remedy inspired themes
 - UI: Rework and tweak bracket highlight on all themes
   - Make them slightly transparent to make them pop-up less with the code, i.e. less distracting but still highlights code locality
