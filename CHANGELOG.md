@@ -2,6 +2,9 @@
 
 All notable changes to the this extension will be documented in this file.
 
+## Unreleased
+- UI: Revert most of the colors of the git decoration to the legacy scheme
+
 ## 1.4.0
 - Feature: Added Remedy inspired themes
 - UI: Rework and tweak bracket highlight on all themes
