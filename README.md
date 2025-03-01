@@ -103,6 +103,12 @@ Color and details tweaked and modified by my partner, CosmicGirl.
 
 ![Preview GrayJack's OneDark 2](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/preview-code-onedark.png)
 
+### GrayJack's Remedy Dark
+
+![Preview GrayJack's Remedy Dark 1](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/preview-welcome-remedy-dark.png)
+
+![Preview GrayJack's Remedy Dark 2](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/preview-code-remedy-dark.png)
+
 ### GrayJack's Tokyo Night
 
 ![Preview GrayJack's Tokyo Night 1](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/preview-welcome-tokyonight.png)
@@ -125,6 +131,12 @@ Color and details tweaked and modified by my partner, CosmicGirl.
 ![Preview GrayJack's Gruvbox Light 1](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/preview-welcome-gruvbox-light.png)
 
 ![Preview GrayJack's Gruvbox Light 2](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/preview-code-gruvbox-light.png)
+
+### GrayJack's Remedy Light
+
+![Preview GrayJack's Remedy Light 1](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/preview-welcome-remedy-light.png)
+
+![Preview GrayJack's Remedy Light 2](https://raw.githubusercontent.com/GrayJack/monokai-grayjack-vscode/master/assets/preview-code-remedy-light.png)
 
 </details>
 
